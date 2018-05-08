@@ -11,4 +11,4 @@ _"AnyStatus is a handy extension for monitoring processes and services on the ba
 
 _"Keep track of all important events happening on your system from folder modifications to processes and bandwidth using this application."_ - [Read more](http://www.softpedia.com/get/System/System-Info/AnyStatus-Desktop.shtml)
 
-![Free](//s1.softpedia-static.com/_img/sp100free.png?1)
+<a href="http://www.softpedia.com/get/System/System-Info/AnyStatus-Desktop.shtml#status" target="blank"><img src="//s1.softpedia-static.com/_img/sp100free.png?1"/></a>

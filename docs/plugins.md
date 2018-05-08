@@ -2,7 +2,6 @@
 layout: docs
 title: Documentation
 sub_title: List of plugins
-description: AnyStatus end-user documentation
 ---
 
 #### Continuous Integration

@@ -2,7 +2,6 @@
 layout: docs
 title: Documentation
 sub_title: Home
-description: AnyStatus end-user documentation
 ---
 
 This page contains the end-user documentation for using AnyStatus. If you are new to using AnyStatus, we suggest reading our [getting started guide](getting-started).

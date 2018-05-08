@@ -3,7 +3,6 @@ layout: docs
 title: Documentation
 sub_title: Changelog
 redirect_from: "changelog"
-description: AnyStatus end-user documentation
 ---
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).

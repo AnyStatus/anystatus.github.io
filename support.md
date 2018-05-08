@@ -1,7 +1,6 @@
 ---
 layout: contained-page
 title: Support
-description: AnyStatus help and support
 ---
 
 ## GitHub

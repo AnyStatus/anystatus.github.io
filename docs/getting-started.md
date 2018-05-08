@@ -3,7 +3,6 @@ layout: docs
 title: Documentation
 sub_title: Getting Started
 redirect_from: "get-started"
-description: AnyStatus end-user documentation
 ---
 
 Welcome to AnyStatus gettings started guide. This section will show how AnyStatus fits into your development environment and guide you through the process of adding new widgets to AnyStatus dashboard.

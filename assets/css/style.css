@@ -17,11 +17,3 @@ body {
 .jumbotron {
     border-radius: 0;
 }
-
-a.downloadBtn {
-    color: silver !important;
-}
-
-a.downloadBtn:hover {
-    color: white !important;
-}

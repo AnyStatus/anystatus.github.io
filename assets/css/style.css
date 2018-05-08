@@ -13,3 +13,7 @@ body {
 .img-shadow {
     box-shadow: 0 0 12px gray;
 }
+
+.jumbotron {
+    border-radius: 0;
+}

@@ -1,0 +1,12 @@
+title: AnyStatus
+email: info@anystat.us
+description: >- # this means to ignore newlines until "baseurl:"
+  AnyStatus is a lightweight desktop application designed to bring you metrics and events from various sources.
+baseurl: ""
+url: "https://www.anystat.us"
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-gist

@@ -1,0 +1,15 @@
+body {
+    padding-top: 3.5rem;
+}
+
+.btn.btn-square {
+    border-radius: 0;
+}
+
+.btn.btn-light {
+    border: 1px solid gray;
+}
+
+.img-shadow {
+    box-shadow: 0 0 12px gray;
+}

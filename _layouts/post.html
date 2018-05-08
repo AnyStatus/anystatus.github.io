@@ -1,0 +1,12 @@
+---
+layout: page
+
+---
+
+<div class="container">
+    <p class="text-muted">Posted on {{ page.date | date_to_string }} by {{ page.author }}</p>
+    {{ content }}
+    <br />
+    {% include disqus.html %}
+</div>
+

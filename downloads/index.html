@@ -1,0 +1,30 @@
+---
+layout: contained-page
+title: Downloads
+description: AnyStatus downloads
+---
+
+<h2>AnyStatus Desktop <span id="ver">2.0</span></h2>
+<hr />
+<p>To install the program, click the "Download" button, then start the downloaded installation file and follow on-screen instructions.</p>
+<p>System Requirements</p>
+<p>
+    <ul>
+        <li>Windows 7 SP1, Windows 8.1, or Windows 10.</li>
+        <li>Microsoft .NET Framework 4.6 or above.</li>
+    </ul>
+</p>
+<p><a href="thank-you" class="btn btn-primary btn-square" role="button" onclick="ga('send', 'event', 'Download', 'Desktop');">Download AnyStatus Desktop</a></p>
+<p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
+
+<br/>
+
+<h2>AnyStatus for Visual Studio</h2>
+<hr/>
+<p>Requires Visual Studio 2015 or 2017</p>
+<p><a class="btn btn-primary btn-square" href="https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus" role="button" onclick="ga('send', 'event', 'Download', 'Visual Studio');">Download AnyStatus from Visual Studio Marketplace</a></p>
+<p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
+
+<br />
+
+<script>window.onload = function () { $.getScript("https://download.anystat.us/desktop/version.js", function () { document.getElementById("ver").innerHTML = version; }) }</script>

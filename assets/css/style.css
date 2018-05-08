@@ -17,3 +17,10 @@ body {
 .jumbotron {
     border-radius: 0;
 }
+
+@media (min-width: 992px) {
+    .main-menu li {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+}

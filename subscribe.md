@@ -20,5 +20,5 @@ Please join our mailing list to receive e-mail notifications about new releases 
   </div>
   <!-- do not remove this -->
   <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_cf6df892a123d12aa78284fb6_adaf9b1e7a" tabindex="-1" value=""></div>
-  <button type="submit" class="btn btn-primary btn-square">Subscribe</button>
+  <button type="submit" class="btn btn-primary">Subscribe</button>
 </form>

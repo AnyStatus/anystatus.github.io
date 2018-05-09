@@ -36,20 +36,4 @@ See the [changelog](/changelog) for changes and roadmap.
 ------------
 Please join our mailing list to receive e-mail notifications about new releases and software updates.
 
-<form class="form-inline" action="https://anystat.us15.list-manage.com/subscribe/post?u=cf6df892a123d12aa78284fb6&amp;id=adaf9b1e7a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
-  <div class="form-group">
-    <label class="sr-only" for="mce-FNAME">First</label>
-    <input type="text" class="form-control" id="mce-FNAME" name="FNAME" placeholder="First">
-  </div>
-  <div class="form-group">
-    <label class="sr-only" for="mce-LNAME">Last</label>
-    <input type="text" class="form-control" id="mce-LNAME" name="LNAME" placeholder="Last">
-  </div>
-  <div class="form-group">
-    <label class="sr-only" for="mce-EMAIL">Email address</label>
-    <input type="email" class="form-control" id="mce-EMAIL" name="EMAIL" placeholder="Email">
-  </div>
-  <!-- do not remove this -->
-  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_cf6df892a123d12aa78284fb6_adaf9b1e7a" tabindex="-1" value=""></div>
-  <button type="submit" class="btn btn-primary">Subscribe</button>
-</form>
+{% include subscribe-form-inline.html %}

@@ -4,22 +4,19 @@ layout: page
 <div class="container">
     <div class="row">
         <div class="col-md-8">
+            {% if page.sub_title != nil %}
             <h2>{{ page.sub_title }}</h2>
             <hr />
+            {% endif %}
             {{ content }}
         </div>
         <div class="col-md-3">
             <h5>Documentation</h5>
             <ul>
-                <li><a href="/docs">Home</a></li>
-                <li><a href="/docs/install">Install</a></li>
                 <li><a href="/docs/getting-started">Getting Started</a></li>
-                <li><a href="/docs/changelog">Changelog</a></li>
-                <li><a href="/docs/faq">FAQ</a></li>
-            </ul>
-            <h5>Plugins</h5>
-            <ul>
-                <li><a href="/docs/plugins">List of plugins</a></li>
+                <li><a href="/docs/faq">Frequently Asked Questions</a></li>
+                <li><a href="/docs/changelog">Changelog and Roadmap</a></li>
+                <li><a href="/docs/plugins">Plugins</a></li>
                 <li><a href="/docs/api">API</a></li>
             </ul>
         </div>

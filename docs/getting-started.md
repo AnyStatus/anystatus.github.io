@@ -18,7 +18,7 @@ To install AnyStatus Desktop
 
 To install AnyStatus extension for Visual Studio
 
-1. Download AnyStatus extension from [Visual Studio Marketplace]().
+1. Download AnyStatus extension from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 2. Close Visual Studio.
 3. Start the downloaded installation file and follow on-screen instructions.
 4. Start Visual Studio.

@@ -24,6 +24,11 @@ To install AnyStatus extension for Visual Studio
 4. Start Visual Studio.
 5. Go to View > Other Windows > AnyStatus.
 
+Here's a quick demo of how to install AnyStatus from within Visual Studio.
+
+<iframe class="mb-3" width="560" height="315" src="https://www.youtube.com/embed/rRwFmUXocBY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ### Adding Folders
 -------------------
 
@@ -44,6 +49,13 @@ To add a new widget to AnyStatus dashboard
 6. If one of the required properties is missing, a warning message will be displayed.
 7. Click "Ok" to the save the widget in the dashboard or "Cancel" to exit without saving.
 
-Here's a quick demo of how to add a HTTP Health Check to the dashboard
+Here's a quick demo of how to add a HTTP Health Check to the dashboard.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xGadHBVgdmA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="mb-3" width="560" height="315" src="https://www.youtube.com/embed/xGadHBVgdmA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Adding VSTS Builds
+-----------------------
+
+Here's a quick demo of how to add a VSTS Build to the dashboard.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CJ4CGOmDDWg?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

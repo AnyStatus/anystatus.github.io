@@ -10,13 +10,13 @@ Welcome to AnyStatus documentation. This section will show how AnyStatus fits in
 ### Installation
 -----------------
 
-To install AnyStatus Desktop
+Install AnyStatus Desktop
 
 1. Download AnyStatus Desktop from our [downloads page](/downloads).
 2. Start the downloaded installation file and follow on-screen instructions.
 3. Open AnyStatus Desktop from your Windows start menu.
 
-To install AnyStatus extension for Visual Studio
+Install AnyStatus extension for Visual Studio
 
 1. Download AnyStatus extension from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 2. Close Visual Studio.
@@ -26,8 +26,8 @@ To install AnyStatus extension for Visual Studio
 
 Here's a quick demo of how to install AnyStatus from within Visual Studio.
 
-<iframe class="mb-3" width="560" height="315" src="https://www.youtube.com/embed/rRwFmUXocBY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rRwFmUXocBY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<small><i>Installing AnyStatus extension 2.0.62</i></small>
 
 ### Adding Folders
 -------------------
@@ -51,7 +51,8 @@ To add a new widget to AnyStatus dashboard
 
 Here's a quick demo of how to add a HTTP Health Check to the dashboard.
 
-<iframe class="mb-3" width="560" height="315" src="https://www.youtube.com/embed/xGadHBVgdmA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xGadHBVgdmA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<small><i>Adding HTTP health check to AnyStatus extension 2.0.62</i></small>
 
 ### Adding VSTS Builds
 -----------------------
@@ -59,3 +60,4 @@ Here's a quick demo of how to add a HTTP Health Check to the dashboard.
 Here's a quick demo of how to add a VSTS Build to the dashboard.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CJ4CGOmDDWg?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<small><i>Adding VSTS Build to AnyStatus extension 2.0.62</i></small>

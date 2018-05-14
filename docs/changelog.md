@@ -7,6 +7,15 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+
+### Release 2.1
+----------------
+<p class="text-muted">coming soon</p>
+
+Features
+
+- Extension packs support.
+
 ### Release 2.0.62
 ------------------
 <p class="text-muted">2018-04-18</p>

@@ -14,7 +14,13 @@ These are the changes to each version that has been released on our website and 
 
 Features
 
-- Extension packs support.
+- TFS Extension Pack.
+- Job History (build/release histogram).
+- Open or Save settings file directly from the toolbar in AnyStatus Desktop.
+
+Improvements
+
+- You can now open AnyStatus from the Tools menu in Visual Studio.
 
 ### Release 2.0.62
 ------------------

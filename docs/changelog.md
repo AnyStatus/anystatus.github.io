@@ -16,11 +16,11 @@ Features
 
 - TFS Extension Pack.
 - Job History (build/release histogram).
-- Open or Save settings file directly from the toolbar in AnyStatus Desktop.
+- Added Open and Save As buttons to AnyStatus Desktop toolbar.
 
 Improvements
 
-- You can now open AnyStatus from the Tools menu in Visual Studio.
+- Open AnyStatus from Tools menu in Visual Studio.
 
 ### Release 2.0.62
 ------------------

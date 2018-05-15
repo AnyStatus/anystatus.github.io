@@ -15,6 +15,7 @@ These are the changes to each version that has been released on our website and 
 Features
 
 - AnyStatus extension pack support + TFS extension pack.
+- Open AnyStatus from Tools menu in Visual Studio.
 - Job History (histogram) - widgets can now show recent history of jobs (builds, releases, etc.).
 - Added "Open" and "Save As" buttons to AnyStatus Desktop toolbar.
 - Added more options to the system tray context menu of AnyStatus Desktop.
@@ -22,8 +23,7 @@ Features
 
 Improvements
 
-- Open AnyStatus from Tools menu in Visual Studio.
-- Improved status mapping in VSTS release.
+- Improved status map of VSTS Release.
 - Simplified error messages.
 - Minor UI changes and improvements.
 

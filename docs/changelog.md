@@ -14,9 +14,8 @@ These are the changes to each version that has been released on our website and 
 
 Features
 
-- AnyStatus extension packs support
-- TFS extension pack.
-- Build/Release History (histogram).
+- AnyStatus extension packs support + TFS extension pack.
+- Job History (histogram) - widgets can now show recent history of jobs.
 - Added "Open" and "Save As" buttons to AnyStatus Desktop toolbar.
 - Added more options to the system tray context menu of AnyStatus Desktop.
 

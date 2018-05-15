@@ -18,11 +18,19 @@ Features
 - Job History (histogram) - widgets can now show recent history of jobs.
 - Added "Open" and "Save As" buttons to AnyStatus Desktop toolbar.
 - Added more options to the system tray context menu of AnyStatus Desktop.
+- You can now paste copied widgets on the dashboard (not only on folders).
 
 Improvements
 
 - Open AnyStatus from Tools menu in Visual Studio.
 - Improved status mapping in VSTS release.
+- Simplified error messages.
+- Minor UI changes and improvements.
+
+Bug Fixes
+
+- Fixed a bug when closing Activity Log window in AnyStatus Desktop.
+- Fixed a bug when clicking on the system tray icon to show or hide AnyStatus Desktop.
 
 ### Release 2.0.62
 ------------------

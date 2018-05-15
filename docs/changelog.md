@@ -22,6 +22,7 @@ Features
 Improvements
 
 - Open AnyStatus from Tools menu in Visual Studio.
+- Improved status mapping in VSTS release.
 
 ### Release 2.0.62
 ------------------

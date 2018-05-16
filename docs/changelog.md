@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Documentation
-sub_title: Changelog and Roadmap
+sub_title: Changelog
 redirect_from: "changelog"
 ---
 

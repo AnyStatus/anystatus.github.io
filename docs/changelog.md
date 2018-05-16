@@ -15,10 +15,10 @@ These are the changes to each version that has been released on our website and 
 Features
 
 - AnyStatus extension pack support + TFS extension pack (currently VS extension only).
-- Open AnyStatus from Tools menu in Visual Studio.
+- Open AnyStatus extension from Tools menu in Visual Studio.
 - Job History (histogram) - widgets can now show recent history of jobs (builds, releases, etc.).
 - Added "Open" and "Save As" buttons to AnyStatus Desktop toolbar.
-- Added more options to the system tray context menu of AnyStatus Desktop.
+- Added more options to the system tray context menu in AnyStatus Desktop.
 - You can now paste copied widgets on the dashboard (not only on folders).
 
 Improvements
@@ -30,7 +30,7 @@ Improvements
 Bug Fixes
 
 - Fixed a bug when closing Activity Log window in AnyStatus Desktop.
-- Fixed a bug when clicking on the system tray icon to show or hide AnyStatus Desktop.
+- Fixed a bug when clicking on the tray icon to show or hide AnyStatus Desktop.
 
 ### Release 2.0.62
 ------------------

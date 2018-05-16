@@ -23,7 +23,7 @@ Features
 
 Improvements
 
-- Improved status map of VSTS Release.
+- Improved VSTS Release status.
 - Simplified error messages.
 - Minor UI changes and improvements.
 

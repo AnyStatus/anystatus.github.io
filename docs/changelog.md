@@ -10,7 +10,7 @@ These are the changes to each version that has been released on our website and 
 
 ### Release 2.1
 ----------------
-<p class="text-muted">coming soon</p>
+<p class="text-muted">2018-05-16</p>
 
 Features
 

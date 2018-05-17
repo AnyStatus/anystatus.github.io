@@ -16,6 +16,9 @@ The extension pack is free for the beta period until September 1, 2018. After th
 There are two main reasons why I chose to separate the widgets to another extension.
 First, to let users choose whether or not to install the additional .NET client libraries needed for the integration with TFS.
 Secondly, I was looking for a way to monetize AnyStatus premium features without polluting the user expirience or giving up the free version.
+By doing so, I believe it will help AnyStatus last longer and grow wider.
+
+Hopefully, additional extension packs will be introduced further down the road, for Jenkins, SonarQube, Octopus Deploy and others.
 
 **Please note** TFS extension pack is a work in progress, the actions have not been implemented yet, only basic functionality at this point. If you experience any issues or would like to suggest changes, please [contact us](/support).
 

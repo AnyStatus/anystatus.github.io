@@ -4,6 +4,7 @@ title: AnyStatus Release 2.0
 author: Alon Amsalem
 date:   2018-03-23 12:00
 tags: [New Releases]
+redirect_from: "/2018/03/23/AnyStatus-Release-2.0-Alpha.html"
 ---
 
 The new AnyStatus Desktop 2.0 is now available! You can [download](/downloads) the new version from the [downloads](/downloads) page or the [Open VSIX Gallery](http://vsixgallery.com/extension/AnyStatus.VSPackage.6f25620d-ff50-42d1-89da-709a45cebe10/).

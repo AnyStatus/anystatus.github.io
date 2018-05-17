@@ -7,30 +7,31 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
-
 ### Release 2.1
 ----------------
 <p class="text-muted">2018-05-16</p>
 
 Features
 
-- AnyStatus extension pack support + TFS extension pack (currently VS extension only).
+- AnyStatus extension packs support.
+- TFS extension pack (currently available for Visual Studio only).
 - Open AnyStatus extension from Tools menu in Visual Studio.
-- Job History (histogram) - widgets can now show recent history of jobs (builds, releases, etc.).
+- Job History (histogram) support - widgets can now show recent history of jobs such as builds, releases, etc.
 - Added "Open" and "Save As" buttons to AnyStatus Desktop toolbar.
-- Added more options to the system tray context menu in AnyStatus Desktop.
-- You can now paste copied widgets on the dashboard (not only on folders).
+- Added more options to the system tray icon of AnyStatus Desktop.
+- Allow pasting widgets on the dashboard.
 
 Improvements
 
-- Improved VSTS Release status.
 - Simplified error messages.
+- Improved VSTS Release status.
 - Minor UI changes and improvements.
 
 Bug Fixes
 
 - Fixed a bug when closing Activity Log window in AnyStatus Desktop.
 - Fixed a bug when clicking on the tray icon to show or hide AnyStatus Desktop.
+- Fixed a bug when minimizing AnyStatus Desktop window.
 
 ### Release 2.0.62
 ------------------
@@ -67,7 +68,6 @@ Changes
 
 - Dashboard UI tree-view node fills more space.
 - Several activity log messages text has changed.
-
 
 System Requirements
 

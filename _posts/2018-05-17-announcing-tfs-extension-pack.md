@@ -6,7 +6,7 @@ date:   2018-05-27 11:30
 tags: [TFS, VSTS]
 ---
 
-I'm pleased to announce the initial release of **AnyStatus - TFS Extension Pack**, now available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anystatus.TFSExtensionPack).
+I'm pleased to announce the initial release of the TFS Extension Pack for AnyStatus, now available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anystatus.TFSExtensionPack).
 
 This is an early release which requires [AnyStatus extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus) version 2.1 or above to be installed.
 

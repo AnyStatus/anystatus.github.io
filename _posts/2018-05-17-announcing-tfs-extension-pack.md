@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: popellst
 title: Announcing TFS Extension Pack
 author: Alon Amsalem
 date:   2018-05-27 11:30
@@ -23,3 +23,6 @@ Hopefully, additional extension packs for Jenkins, SonarQube, Octopus Deploy and
 **Please note** TFS extension pack is a work in progress, the actions have not been implemented yet, only basic functionality at this point. If you experience any issues or would like to suggest changes, please [contact us](/support).
 
 **Also note** to open a settings file that contains references to the widgets in the TFS Extension Pack, the TFS Extension Pack must be installed. Otherwise, the settings file will not load.
+
+If you have any questions, let me know in the comments.
+If you have concerns about the new extension pack, let me know via the [support channels](/support) with some details of what you're doing at the moment, and I'll walk you through how to configure your teams with the new extension pack.

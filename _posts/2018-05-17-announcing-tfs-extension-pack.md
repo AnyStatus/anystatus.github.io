@@ -15,4 +15,4 @@ The extension pack is free for the beta period until September 1, 2018. After th
 
 **Please note** TFS extension pack is a work in progress, the actions have not been implemented yet, only basic functionality at this point. If you experience any issues or would like to suggest changes, please [contact us](/support).
 
-**Also note** to open a settings file that contains a reference to the widgets in the TFS Extension Pack, the TFS Extension Pack must be installed. Otherwise, the settings file will not load.
+**Also note** to open a settings file that contains references to the widgets in the TFS Extension Pack, the TFS Extension Pack must be installed. Otherwise, the settings file will not load.

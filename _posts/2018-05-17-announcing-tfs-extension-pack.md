@@ -13,6 +13,10 @@ The new extension pack installs additional premium widgets in AnyStatus for TFS 
 
 The extension pack is free for the beta period until September 1, 2018. After that, a perpetual license will be required.
 
+There are two main reasons why I chose to separate the widgets to another extension.
+First, to let users choose whether or not to install the additional .NET client libraries needed for the integration with TFS.
+Secondly, I was looking for a way to monetize AnyStatus premium features without polluting the user expirience or giving up the free version.
+
 **Please note** TFS extension pack is a work in progress, the actions have not been implemented yet, only basic functionality at this point. If you experience any issues or would like to suggest changes, please [contact us](/support).
 
 **Also note** to open a settings file that contains references to the widgets in the TFS Extension Pack, the TFS Extension Pack must be installed. Otherwise, the settings file will not load.

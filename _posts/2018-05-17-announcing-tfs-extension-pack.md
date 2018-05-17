@@ -1,8 +1,9 @@
 ---
-layout: popellst
+layout: post
 title: Announcing TFS Extension Pack
 author: Alon Amsalem
 date:   2018-05-27 11:30
+tags: [TFS, VSTS]
 ---
 
 I'm pleased to announce the initial release of **AnyStatus - TFS Extension Pack**, now available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anystatus.TFSExtensionPack).

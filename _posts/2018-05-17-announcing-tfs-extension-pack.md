@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing TFS and VSTS Extension Pack
+title: Announcing TFS Extension Pack
 author: Alon Amsalem
 date:   2018-05-27 11:30
 ---
@@ -9,7 +9,7 @@ I'm pleased to announce the initial release of **AnyStatus - TFS Extension Pack*
 
 This is an early release which requires [AnyStatus extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus) version 2.1 or above to be installed.
 
-The new extension pack installs additional premium widgets in AnyStatus, for TFS and VSTS builds, releases and work items.
+The new extension pack installs additional premium widgets in AnyStatus for TFS (and VSTS) builds, releases and work items.
 
 The extension pack is free for the beta period until September 1, 2018. After that, a perpetual license will be required.
 

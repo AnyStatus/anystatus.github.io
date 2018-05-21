@@ -17,4 +17,4 @@ _"Keep track of all important events happening on your system from folder modifi
 
 _"AnyStatus Desktop là một ứng dụng gọn nhẹ được thiết kế nhằm giúp người dùng theo dõi nhiều dịch vụ, mạng, quy trình và dịch vụ tích hợp khác nhau tại một nơi."_ - [Read more](http://taimienphi.vn/download-anystatus-desktop-71410)
 
-<a href="http://taimienphi.vn" title="download"><img src="http://taimienphi.vn/Images/bn/reviewed/tmp2.png" title="awarded 5 Stars at Taimienphi" alt="download" /></a>
+<a href="http://taimienphi.vn" title="download"><img src="/assets/images/other/taimienphi.png" title="awarded 5 Stars at Taimienphi" alt="download" /></a>

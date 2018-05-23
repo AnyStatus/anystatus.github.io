@@ -7,6 +7,14 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.1.9
+----------------
+<p class="text-muted">2018-05-25</p>
+
+Bug Fixes
+
+- Fixed Jenkins Job progress indicator.
+
 ### Release 2.1
 ----------------
 <p class="text-muted">2018-05-16</p>

@@ -7,6 +7,14 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.1.12
+------------------
+<p class="text-muted">2018-05-30</p>
+
+Improvements
+
+- [#88](https://github.com/AnyStatus/Support/issues/88) Changed the order of items in the context menu.
+
 ### Release 2.1.9
 ----------------
 <p class="text-muted">2018-05-25</p>

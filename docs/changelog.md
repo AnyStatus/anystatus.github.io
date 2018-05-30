@@ -13,7 +13,7 @@ These are the changes to each version that has been released on our website and 
 
 Improvements
 
-- [#88](https://github.com/AnyStatus/Support/issues/88) Changed the order of items in the context menu.
+- [#88](https://github.com/AnyStatus/Support/issues/88) Changed the order of items in the context menu and moved tasks such as Start, Stop, Restart in to "All Tasks" group. [Read more](https://github.com/AnyStatus/Support/issues/88)
 
 ### Release 2.1.9
 ----------------

@@ -7,6 +7,24 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.1.18
+------------------
+<p class="text-muted">2018-06-15</p>
+
+Features
+
+- [#91](https://github.com/AnyStatus/Support/issues/91) Status icon customization. 
+
+Bug Fixes
+
+- [#90](https://github.com/AnyStatus/Support/issues/90) AnyStatus Desktop window hides when docked.
+
+Improvements
+
+- Changed default status colors of statuses such as Unknown, Disabled, None, etc.
+- AnyStatus will now show an empty circle when the status of a widget is "None" (Note: reset or edit your color theme to use the new icon).
+- Disable "All Tasks" when no tasks are available.
+
 ### Release 2.1.12
 ------------------
 <p class="text-muted">2018-05-30</p>

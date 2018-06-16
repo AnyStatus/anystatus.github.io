@@ -13,7 +13,7 @@ These are the changes to each version that has been released on our website and 
 
 Features
 
-- [#64](https://github.com/AnyStatus/Support/issues/64) Persist AnyStatus Desktopn window size, position and docking state between sessions.
+- [#64](https://github.com/AnyStatus/Support/issues/64) Persist AnyStatus Desktop window size, position and docking.
 
 ### Release 2.1.18
 ------------------

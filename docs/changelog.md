@@ -7,6 +7,14 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.1.22
+------------------
+<p class="text-muted">2018-06-16</p>
+
+Features
+
+- [#64](https://github.com/AnyStatus/Support/issues/64) Persist AnyStatus Desktopn window size, position and docking state between sessions.
+
 ### Release 2.1.18
 ------------------
 <p class="text-muted">2018-06-15</p>

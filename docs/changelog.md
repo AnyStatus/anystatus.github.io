@@ -21,7 +21,7 @@ Features
 
 Features
 
-- [#91](https://github.com/AnyStatus/Support/issues/91) Status icon customization. You can now customize the status icons via Color Theme tab in Options window.
+- [#91](https://github.com/AnyStatus/Support/issues/91) Enable customizing status icons via Color Theme tab in Options window.
 
 Bug Fixes
 
@@ -30,7 +30,7 @@ Bug Fixes
 Improvements
 
 - Changed the default status color of statuses: Unknown, Canceled, Disabled and None.
-- Show an empty circle when the status is "None". Reset or edit your Theme in the Options window, to use the new icon.
+- Show an empty circle when status is "None". Reset or edit your Theme in the Options window, to use the new icon.
 - Disable "All Tasks" when no tasks are available.
 
 ### Release 2.1.12

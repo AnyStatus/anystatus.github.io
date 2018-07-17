@@ -4,9 +4,13 @@ title: Downloads
 ---
 <script type="text/javascript">
     window.onload = function () {
-        $.getScript("https://download.anystat.us/desktop/version.js", function () {
-            window.location.href = 'https://download.anystat.us/desktop/AnyStatus-' + version + '.msi';
-        })
+        if (location.search.includes('unstable')) {
+            $.getScript("https://download.anystat.us/desktop/version.js", function () {
+                window.location.href = 'https://download.anystat.us/desktop/AnyStatus-' + version + '.msi';
+            });
+        } else {
+            window.location.href = 'https://download.anystat.us/desktop/AnyStatus-2.1.23.msi';
+        }
     }
 </script>
 

@@ -5,7 +5,7 @@ title: Downloads
 <script type="text/javascript">
     window.onload = function () {
         var url = '';
-        if (location.search.include('?v=latest')) {
+        if (window.location.href.indexOf('?v=latest') > -1) {
             url = 'https://download.anystat.us/desktop/latest-version.js';
         } else {
             url = 'https://download.anystat.us/desktop/version.js';

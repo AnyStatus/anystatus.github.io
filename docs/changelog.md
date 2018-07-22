@@ -7,6 +7,23 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.2
+------------------
+<p class="text-muted">Pre-Release</p>
+
+Features
+
+- [#85](https://github.com/AnyStatus/Support/issues/85) Command triggers for widgets and folders.
+
+Changes
+
+- Minor UI changes in Add Widget window, including categories and property-grid.
+
+Improvements
+
+- Minor UI performance improvement.
+
+
 ### Release 2.1.23
 ------------------
 <p class="text-muted">2018-06-16</p>

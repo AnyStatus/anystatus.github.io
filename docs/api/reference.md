@@ -4,8 +4,16 @@ title: Documentation
 sub_title: API Reference
 ---
 
-### Widgets
------------
+### Widget Types
+----------------
+
+#### Widget
+
+```
+public class MyWidget : Widget
+{
+}
+```
 
 #### Health Check
 
@@ -54,13 +62,29 @@ public class MyBuild : Build
 See [default build](https://github.com/AnyStatus/API/blob/3f24e47c95c573e5202cc7034c2471a82f11d8eb/src/AnyStatus.API/Widgets/Types/Build.cs).
 
 
-### Automation
----------------
+### Features
+-------------
 
-#### Scheduler
+#### Job Scheduler
 
 ```
 public class MyWidget : Widget, ISchedulable
+{
+}
+```
+
+#### Progress Bar
+
+```
+public class MyWidget : Widget, IReportProgress
+{
+}
+```
+
+#### Histogram
+
+```
+public class MyWidget : Widget, IJobHistory
 {
 }
 ```

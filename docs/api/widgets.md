@@ -6,8 +6,6 @@ sub_title: API Reference
 
 ### Widgets
 
-<br/>
-
 ##### Health Check
 
 ```

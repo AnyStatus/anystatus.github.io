@@ -6,8 +6,6 @@ sub_title: API Reference
 
 ### Tasks
 
-<br/>
-
 ##### Start
 
 ```

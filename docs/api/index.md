@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Documentation
-sub_title: AnyStatus API
+sub_title: API Reference
 ---
 
 AnyStatus API is a .NET class library that contains the classes, interfaces and utilities needed for developing AnyStatus extensions and plugins.

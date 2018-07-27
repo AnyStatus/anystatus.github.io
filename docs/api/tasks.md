@@ -6,7 +6,9 @@ sub_title: API Reference
 
 ### Tasks
 
-#### Start
+<br/>
+
+##### Start
 
 ```
 public class MyWidget : Widget, IStartable
@@ -20,7 +22,7 @@ public class StartMyWidget : IStart<MyWidget>
 }
 ```
 
-#### Stop
+##### Stop
 
 ```
 public class MyWidget : Widget, IStoppable
@@ -34,7 +36,7 @@ public class StopMyWidget : IStop<MyWidget>
 }
 ```
 
-#### Restart
+##### Restart
 
 ```
 public class MyWidget : Widget, IRestartable

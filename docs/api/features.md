@@ -6,7 +6,9 @@ sub_title: API Reference
 
 ### Features
 
-#### Job Scheduler
+<br/>
+
+##### Job Scheduler
 
 ```
 public class MyWidget : Widget, ISchedulable
@@ -14,7 +16,7 @@ public class MyWidget : Widget, ISchedulable
 }
 ```
 
-#### Progress Bar
+##### Progress Bar
 
 ```
 public class MyWidget : Widget, IReportProgress
@@ -22,7 +24,7 @@ public class MyWidget : Widget, IReportProgress
 }
 ```
 
-#### Histogram
+##### Histogram
 
 ```
 public class MyWidget : Widget, IJobHistory
@@ -30,7 +32,7 @@ public class MyWidget : Widget, IJobHistory
 }
 ```
 
-#### Initialize
+##### Initialize
 
 ```
 public class MyWidget : Widget, IInitializable
@@ -44,7 +46,7 @@ public class InitializeMyWidget : IInitialize<MyWidget>
 }
 ```
 
-#### Open in Browser
+##### Open in Browser
 
 ```
 public class MyWidget : Widget, IWebPage

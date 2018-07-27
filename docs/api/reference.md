@@ -4,6 +4,18 @@ title: Documentation
 sub_title: API Reference
 ---
 
+### Widgets
+-----------
+
+#### Scheduler
+-----------------
+
+```
+public class MyWidget : Widget, ISchedulable
+{
+}
+```
+
 #### Health Check
 -----------------
 
@@ -18,6 +30,24 @@ public class HealthCheckMyWidget : ICheckHealth<MyWidget>
 {
 }
 ```
+
+#### Metric
+-----------
+
+```
+public class MyMetric : MetricValue
+{
+}
+```
+
+```
+public class MyMetricQuery : IMetricQuery<MyMetric>
+{
+}
+```
+
+### Tasks
+---------
 
 #### Initialize
 ---------------
@@ -94,4 +124,4 @@ public class OpenMyWidgetWebPage : IOpenWebPage<MyWidget>
 {
 }
 ```
-See default handler: [OpenWebPage<TWebPage>](https://github.com/AnyStatus/API/blob/master/src/AnyStatus.API/Widgets/Features/OpenWebPage.cs).
+See default handler: [OpenWebPage<<TWebPage>>](https://github.com/AnyStatus/API/blob/master/src/AnyStatus.API/Widgets/Features/OpenWebPage.cs).

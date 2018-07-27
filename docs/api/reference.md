@@ -4,20 +4,80 @@ title: Documentation
 sub_title: API Reference
 ---
 
-### Health Check
-----------------
+### Widgets
+-----------
+
+#### Health Check
+-----------------
 
 ```
-public class MyHealthCheck : Widget, IHealthCheck
+public class MyWidget : Widget, IHealthCheck
 {
 }
 ```
 
 ```
-public class MyHealthChecker : ICheckHealth<MyHealthCheck>
+public class HealthCheckMyWidget : ICheckHealth<MyWidget>
 {
-    public async Task Handle(HealthCheckRequest<MyHealthCheck> request, CancellationToken cancellationToken)
-    {
-    }
+}
+```
+
+#### Initialize
+---------------
+
+```
+public class MyWidget : Widget, IInitializable
+{
+}
+```
+
+```
+public class InitializeMyWidget : IInitialize<MyWidget>
+{
+}
+```
+
+#### Start
+-----------
+
+```
+public class MyWidget : Widget, IStartable
+{
+}
+```
+
+```
+public class StartMyWidget : IStart<MyWidget>
+{
+}
+```
+
+#### Stop
+----------
+
+```
+public class MyWidget : Widget, IStoppable
+{
+}
+```
+
+```
+public class StopMyWidget : IStop<MyWidget>
+{
+}
+```
+
+#### Restart
+------------
+
+```
+public class MyWidget : Widget, IRestartable
+{
+}
+```
+
+```
+public class RestartMyWidget : IRestart<MyWidget>
+{
 }
 ```

@@ -4,14 +4,13 @@ title: Documentation
 sub_title: AnyStatus Plugins
 ---
 
-##### Continuous Integration
+### Open Source
 
+##### DevOps
 
-- TFS Build ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/TFS/Build))
-- TFS Build Pro <span class="text-muted">(coming soon)</span>
-- TFS Release Pro <span class="text-muted">(coming soon)</span>
-- VSTS Build
-- VSTS Release
+- TFS Build ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build))
+- VSTS Build ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/VSTS/Build))
+- VSTS Release ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/VSTS/Release))
 - Jenkins Job
 - Jenkin View
 - AppVeyor Build
@@ -41,5 +40,12 @@ sub_title: AnyStatus Plugins
 - Network Upload Speed
 - Network Download Speed
 
-**Can't find the plugin you were looking for?**
-Submit an issue on [GitHub](https://github.com/AnyStatus/Support/issues) or [Support Portal](https://anystatus.helprace.com/s1-general/ideas).
+### Extension Packs
+
+- TFS Extension Pack
+	- TFS Build
+	- TFS Release
+
+Can't find the plugin you were looking for?
+
+Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues) or [Support Portal](https://anystatus.helprace.com/s1-general/ideas).

@@ -4,6 +4,11 @@ title: Documentation
 sub_title: AnyStatus API Reference
 ---
 
-# Widgets
+### Health Check
+----------------
 
-## Health Check
+```
+public class MyHealthCheck : Widget, IHealthCheck
+{
+}
+```

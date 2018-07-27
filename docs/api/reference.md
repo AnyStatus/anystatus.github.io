@@ -4,9 +4,6 @@ title: Documentation
 sub_title: API Reference
 ---
 
-### Widgets
------------
-
 #### Health Check
 -----------------
 
@@ -81,3 +78,20 @@ public class RestartMyWidget : IRestart<MyWidget>
 {
 }
 ```
+
+#### Open in Browser
+------------
+
+```
+public class MyWidget : Widget, IWebPage
+{
+	public string URL { get; } => "https://your-web-page";
+}
+```
+
+```
+public class OpenMyWidgetWebPage : IOpenWebPage<MyWidget>
+{
+}
+```
+See default handler: [OpenWebPage<TWebPage>](https://github.com/AnyStatus/API/blob/master/src/AnyStatus.API/Widgets/Features/OpenWebPage.cs).

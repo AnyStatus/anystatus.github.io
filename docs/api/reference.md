@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Documentation
-sub_title: AnyStatus API Reference
+sub_title: API Reference
 ---
 
 ### Health Check
@@ -10,5 +10,14 @@ sub_title: AnyStatus API Reference
 ```
 public class MyHealthCheck : Widget, IHealthCheck
 {
+}
+```
+
+```
+public class MyHealthChecker : ICheckHealth<MyHealthCheck>
+{
+    public async Task Handle(HealthCheckRequest<MyHealthCheck> request, CancellationToken cancellationToken)
+    {
+    }
 }
 ```

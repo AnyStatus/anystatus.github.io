@@ -4,7 +4,11 @@ title: Documentation
 sub_title: AnyStatus Plugins
 ---
 
-#### Open Source
+- [Open Source](#open-source)
+- [Extension Packs](#extension-packs)
+
+### Open Source
+----------------
 
 - DevOps
 	- TFS Build ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build))
@@ -35,12 +39,11 @@ sub_title: AnyStatus Plugins
 	- PowerShell Script
 	- Batch Script
 
-#### Extension Packs
-
+### Extension Packs
+--------------------
 - TFS Extension Pack
 	- TFS Build
 	- TFS Release
 
 Can't find the plugin you were looking for?
-
 Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues) or [Support Portal](https://anystatus.helprace.com/s1-general/ideas).

@@ -6,6 +6,10 @@ sub_title: API Reference
 
 ### Tasks
 
+- [Start](#start)
+- [Stop](#stop)
+- [#Restart](#restart)
+
 ##### Start
 
 ```

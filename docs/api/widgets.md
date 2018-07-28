@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Documentation
-sub_title: API Reference / Widgets
+sub_title: API Reference - Widgets
 ---
 
 - [Health Check](#health-check)

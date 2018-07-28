@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Documentation
-sub_title: API Reference / Tasks
+sub_title: API Reference - Tasks
 ---
 
 - [Start](#start)

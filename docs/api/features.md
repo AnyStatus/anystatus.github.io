@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Documentation
-sub_title: API Reference / Features
+sub_title: API Reference - Features
 ---
 
 - [Job Scheduler](#job-scheduler)

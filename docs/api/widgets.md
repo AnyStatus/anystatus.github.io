@@ -1,17 +1,15 @@
 ---
 layout: docs
 title: Documentation
-sub_title: API Reference
+sub_title: API Reference / Widgets
 ---
-
-### Widgets
 
 - [Health Check](#health-check)
 - [Metric](#metric)
 - [Folder](#folder)
 - [Build](#build)
 
-##### Health Check
+#### Health Check
 
 ```
 public class MyWidget : Widget, IHealthCheck
@@ -25,7 +23,7 @@ public class HealthCheckMyWidget : ICheckHealth<MyWidget>
 }
 ```
 
-##### Metric
+#### Metric
 
 ```
 public class MyMetric : MetricValue
@@ -39,7 +37,7 @@ public class MyMetricQuery : IMetricQuery<MyMetric>
 }
 ```
 
-##### Folder
+#### Folder
 
 ```
 public class MyFolder : Folder
@@ -48,7 +46,7 @@ public class MyFolder : Folder
 ```
 See [default folder](https://github.com/AnyStatus/API/blob/3f24e47c95c573e5202cc7034c2471a82f11d8eb/src/AnyStatus.API/Widgets/Types/Folder.cs).
 
-##### Build
+#### Build
 
 ```
 public class MyBuild : Build

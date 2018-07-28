@@ -9,17 +9,20 @@ AnyStatus API is a .NET class library that contains the classes, interfaces and 
 ### How it works
 ---------------
 
-A plugin is a set of classes that instruct AnyStatus how to display it in the dashboard and which features the plugin supports.
+AnyStatus automatically loads all widgets and plugins during startup.
+Widgets are controlled using interfaces and attributes.
+Each widget includes a set of plugable classes that describe its behaviour and characteristics
+and handlers that perform the actual work such as retrieving the status.
 
 ![AnyStatus Components](/assets/images/AnyStatusComponents.png)
 
-_AnyStatus modules_.
+_AnyStatus components_.
 
-### Health Check Example
+### Example
 -------------------
 
-The following class is an example for a plugable health check plugin (widget).
-This class contains the widget properties (Name, Interval, etc.) and the attributes that are used to control which properties are required
+The following class is an example for a plugable health check widget.
+This class defines the widget properties (Name, Interval, etc.) and the attributes that are used to control which properties are required
 and how the widget is displayed in the user interface.
 
 {% gist c06a60e1f602511ac5f2b43c28582065 %}

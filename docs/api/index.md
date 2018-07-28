@@ -22,7 +22,7 @@ _AnyStatus components_.
 -------------------
 
 The following class is an example for a plugable health check widget.
-This class defines the widget properties (Name, Interval, etc.) and the attributes that are used to control which properties are required
+This class defines the widget properties (name, interval, etc.) and the attributes that are used to control which properties are required
 and how the widget is displayed in the user interface.
 
 {% gist c06a60e1f602511ac5f2b43c28582065 %}

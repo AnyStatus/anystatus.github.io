@@ -4,43 +4,38 @@ title: Documentation
 sub_title: AnyStatus Plugins
 ---
 
-### Open Source
+#### Open Source
 
-##### DevOps
+- DevOps
+	- TFS Build ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build))
+	- VSTS Build ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/VSTS/Build))
+	- VSTS Release ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/VSTS/Release))
+	- Jenkins Job
+	- Jenkin View
+	- AppVeyor Build
+	- TeamCity Build
+- Health Checks
+	- Windows Service
+	- HTTP/s URL Address
+	- TCP/UDP Connection
+	- Ping
+	- SQL Connection
+	- IIS Application Pool
+	- Uptime Robot
+	- Pingdom
+- Metrics
+	- CPU Usage
+	- Performance Counter
+	- SQL Scalar Query
+	- Coveralls Code Coverage
+	- Network Upload Speed
+	- Network Download Speed
+- Other
+	- C# or VB.NET File
+	- PowerShell Script
+	- Batch Script
 
-- TFS Build ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build))
-- VSTS Build ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/VSTS/Build))
-- VSTS Release ([source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/VSTS/Release))
-- Jenkins Job
-- Jenkin View
-- AppVeyor Build
-- TeamCity Build
-
-##### Health Checks
-
-- Windows Service
-- HTTP/s URL Address
-- TCP/UDP Connection
-- Ping
-- SQL Connection
-- IIS Application Pool
-- Uptime Robot
-- Pingdom
-- Custom
-  - C# or VB.NET File
-  - PowerShell Script
-  - Batch Script
-  
-##### Metrics
-
-- CPU Usage
-- Performance Counter
-- SQL Scalar Query
-- Coveralls Code Coverage
-- Network Upload Speed
-- Network Download Speed
-
-### Extension Packs
+#### Extension Packs
 
 - TFS Extension Pack
 	- TFS Build

@@ -1,16 +1,14 @@
 ---
 layout: docs
 title: Documentation
-sub_title: API Reference
+sub_title: API Reference - Tasks
 ---
-
-### Tasks
 
 - [Start](#start)
 - [Stop](#stop)
 - [Restart](#restart)
 
-##### Start
+#### Start
 
 ```
 public class MyWidget : Widget, IStartable
@@ -24,7 +22,7 @@ public class StartMyWidget : IStart<MyWidget>
 }
 ```
 
-##### Stop
+#### Stop
 
 ```
 public class MyWidget : Widget, IStoppable
@@ -38,7 +36,7 @@ public class StopMyWidget : IStop<MyWidget>
 }
 ```
 
-##### Restart
+#### Restart
 
 ```
 public class MyWidget : Widget, IRestartable

@@ -1,10 +1,8 @@
 ---
 layout: docs
 title: Documentation
-sub_title: API Reference
+sub_title: API Reference / Features
 ---
-
-### Features
 
 - [Job Scheduler](#job-scheduler)
 - [Progress Bar](#progress-bar)
@@ -12,7 +10,7 @@ sub_title: API Reference
 - [Initialize](#initialize)
 - [Open in Browser](#open-in-browser)
 
-##### Job Scheduler
+#### Job Scheduler
 
 ```
 public class MyWidget : Widget, ISchedulable
@@ -20,7 +18,7 @@ public class MyWidget : Widget, ISchedulable
 }
 ```
 
-##### Progress Bar
+#### Progress Bar
 
 ```
 public class MyWidget : Widget, IReportProgress
@@ -28,7 +26,7 @@ public class MyWidget : Widget, IReportProgress
 }
 ```
 
-##### Histogram
+#### Histogram
 
 ```
 public class MyWidget : Widget, IJobHistory
@@ -36,7 +34,7 @@ public class MyWidget : Widget, IJobHistory
 }
 ```
 
-##### Initialize
+#### Initialize
 
 ```
 public class MyWidget : Widget, IInitializable
@@ -50,7 +48,7 @@ public class InitializeMyWidget : IInitialize<MyWidget>
 }
 ```
 
-##### Open in Browser
+#### Open in Browser
 
 ```
 public class MyWidget : Widget, IWebPage

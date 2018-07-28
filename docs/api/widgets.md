@@ -6,6 +6,11 @@ sub_title: API Reference
 
 ### Widgets
 
+- [Health Check](#health-check)
+- [Metric](#metric)
+- [Folder](#folder)
+- [Build](#build)
+
 ##### Health Check
 
 ```

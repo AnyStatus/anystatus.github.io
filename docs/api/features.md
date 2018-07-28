@@ -6,6 +6,12 @@ sub_title: API Reference
 
 ### Features
 
+- [Job Scheduler](#job-scheduler)
+- [Progress Bar](#progress-bar)
+- [Histogram](#histogram)
+- [Initialize](#initialize)
+- [Open in Browser](#open-in-browser)
+
 ##### Job Scheduler
 
 ```

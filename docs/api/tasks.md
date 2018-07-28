@@ -8,7 +8,7 @@ sub_title: API Reference
 
 - [Start](#start)
 - [Stop](#stop)
-- [#Restart](#restart)
+- [Restart](#restart)
 
 ##### Start
 

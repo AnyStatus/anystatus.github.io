@@ -17,11 +17,11 @@ Features
 
 Changes
 
-- Minor UI changes in Add Widget window, including categories and property-grid.
+- Widgets categories in Add Widget window have changed to DevOps, Health Checks, Metrics and Other.
 
 Improvements
 
-- Minor UI performance improvement.
+- Minor UI performance improvements.
 
 
 ### Release 2.1.23

@@ -3,32 +3,72 @@ layout: contained-page
 title: Downloads
 ---
 <div class="row">
-    <div class="col-md-6">
-        <h2>AnyStatus Desktop</h2>
+    <div class="col-md-12">
+        <h2>AnyStatus Desktop for Windows</h2>
         <hr />
-        <p>
-            To install the program, click the "Download" button, then start the downloaded installation file and follow on-screen instructions.<br />
-            By downloading you agree to the <a href="/eula">end-user license agreement</a>.
-        </p>
         <p><b>System Requirements</b></p>
         <p>
             <ul>
-                <li>Windows 7 SP1, Windows 8.1, or Windows 10.</li>
+                <li>Microsoft Windows operating system.</li>
                 <li>Microsoft .NET Framework 4.6 or above.</li>
             </ul>
         </p>
-        <p><a href="thank-you" class="btn btn-success" role="button" onclick="ga('send', 'event', 'Download', 'Desktop');"><i class="fas fa-download"></i> AnyStatus Desktop <span id="ver">2</span></a></p>
+        <p>To install the program, click the download button, then start the downloaded file and follow on-screen instructions.</p>
+        <p><b>Stable <span id="ver"></span></b></p>
+        <p>
+            <a href="thank-you" class="btn btn-success" role="button" onclick="ga('send', 'event', 'Download', 'Desktop');">
+                Download AnyStatus Desktop
+            </a>
+        </p>
+        <p><b>Unstable <span id="latest-ver"></span></b></p>
+        <p>This is where all the development happens. Only for hard-core users. Use only if you need to test the latest features or performance improvements. This is going to be the next AnyStatus release in a few weeks.</p>
+        <p>
+            <a href="thank-you?v=latest" class="btn btn-danger" onclick="ga('send', 'event', 'Download', 'Desktop');">
+                Download AnyStatus Desktop
+            </a>
+        </p>
+        <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
         <p><a href="/docs/changelog">See what's new</a></p>
-        <p><b>Early Access</b></p>
-        <p><a href="thank-you?v=latest" class="btn btn-danger" onclick="ga('send', 'event', 'Download', 'Desktop');"><i class="fas fa-download"></i> AnyStatus Desktop <span id="latest-ver">2</span></a></p>
-        <p><b>Windows Store</b></p>
-        <p>Download from the official <a href="//www.microsoft.com/store/apps/9p044vpk62sb?ocid=badge">Windows Store</a>.</p>
     </div>
-    <div class="col-md-6">
-        <h2>AnyStatus for Visual Studio</h2>
+</div>
+
+<p></p>
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>AnyStatus extension for Visual Studio</h2>
         <hr />
-        <p>Requires Visual Studio 2015 or 2017.</p>
+        <p><b>System Requirements</b></p>
+        <p>
+            <ul>
+                <li>Microsoft Windows operating system.</li>
+                <li>Microsoft .NET Framework 4.6 or above.</li>
+                <li>Microsoft Visual Studio IDE 2015 or 2017.</li>
+            </ul>
+        </p>
+        <p>To install the extension, download the vsix file from Visual Studio Marketplace, then start the downloaded file and follow on-screen instructions.</p>
         <p><a class="btn btn-primary" href="https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus" role="button" onclick="ga('send', 'event', 'Download', 'Visual Studio');">Visual Studio Marketplace</a></p>
+        <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
+        <p><a href="/docs/changelog">See what's new</a></p>
+    </div>
+</div>
+
+<p></p>
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>AnyStatus extension pack for TFS</h2>
+        <hr />
+        <p><b>System Requirements</b></p>
+        <p>
+            <ul>
+                <li>AnyStatus extension for Visual Studio 2.1 or above.</li>
+                <li>Microsoft Visual Studio IDE 2017.</li>
+            </ul>
+        </p>
+        <p>To install the extension, download the vsix from Visual Studio Marketplace, then start the downloaded file and follow on-screen instructions.</p>
+        <p><a class="btn btn-primary" href="https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus" role="button" onclick="ga('send', 'event', 'Download', 'Visual Studio');">Visual Studio Marketplace</a></p>
+        <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
         <p><a href="/docs/changelog">See what's new</a></p>
     </div>
 </div>
@@ -39,4 +79,5 @@ title: Downloads
             function () { document.getElementById("ver").innerHTML = version; });
         $.getScript("https://download.anystat.us/desktop/latest-version.js",
             function () { document.getElementById("latest-ver").innerHTML = version; });
-    }</script>
+    }
+</script>

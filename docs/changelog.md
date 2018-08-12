@@ -15,12 +15,14 @@ Features
 
 - [#85](https://github.com/AnyStatus/Support/issues/85) Command triggers for widgets and folders.
 - [#44](https://github.com/AnyStatus/Support/issues/85) Use Alt+Up and Alt+Down to move widgets.
-- Automatically download and and start AnyStatus installation when a new version is available.
-- Include pre-release updates when checking for updates.
+- Prompt user to download and install AnyStatus when a new version is available.
+- Include pre-release versions when checking for updates.
 
 Changes
 
-- Widgets categories in Add Widget window have changed to DevOps, Health Checks, Metrics and Other.
+- TeamCity build: hide user name and password when "Use guest user" is checked.
+- Jenkins job: hide parameters when "Parameterized Build" is unchecked.
+- Categories in "Add Widget" window have changed to DevOps, Health Checks, Metrics and Other.
 
 Improvements
 

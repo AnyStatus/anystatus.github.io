@@ -14,7 +14,7 @@ These are the changes to each version that has been released on our website and 
 Features
 
 - [#85](https://github.com/AnyStatus/Support/issues/85) Command triggers for widgets and folders.
-- [#44](https://github.com/AnyStatus/Support/issues/85) Use Alt+Up and Alt+Down to move widgets.
+- [#44](https://github.com/AnyStatus/Support/issues/44) Use Alt+Up and Alt+Down to move widgets.
 - Prompt user to download and install AnyStatus when a new version is available.
 - Include pre-release versions when checking for updates.
 

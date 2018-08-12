@@ -14,6 +14,9 @@ These are the changes to each version that has been released on our website and 
 Features
 
 - [#85](https://github.com/AnyStatus/Support/issues/85) Command triggers for widgets and folders.
+- [#44](https://github.com/AnyStatus/Support/issues/85) Use Alt+Up and Alt+Down to move widgets.
+- Automatically download and and start AnyStatus installation when a new version is available.
+- Include pre-release updates when checking for updates.
 
 Changes
 
@@ -22,7 +25,6 @@ Changes
 Improvements
 
 - Minor UI performance improvements.
-
 
 ### Release 2.1.23
 ------------------

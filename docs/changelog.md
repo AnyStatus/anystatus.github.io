@@ -18,6 +18,10 @@ Features
 - Prompt user to download and install AnyStatus when a new version is available.
 - Include pre-release versions when checking for updates.
 
+Bug Fixes
+
+- [#99](https://github.com/AnyStatus/Support/issues/99) Performance Counter widget fails due to "The network path was not found".
+
 Changes
 
 - TeamCity build: hide user name and password when "Use guest user" is checked.

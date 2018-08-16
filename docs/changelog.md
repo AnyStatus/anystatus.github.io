@@ -9,7 +9,7 @@ These are the changes to each version that has been released on our website and 
 
 ### Release 2.2
 ------------------
-<p class="text-muted">Pre-Release</p>
+<p class="text-muted">2018-08-16</p>
 
 Features
 

@@ -3,13 +3,6 @@ layout: page
 ---
 <div class="container">
     <div class="row">
-        <div class="col-md-8">
-            {% if page.sub_title != nil %}
-            <h2>{{ page.sub_title }}</h2>
-            <hr />
-            {% endif %}
-            {{ content }}
-        </div>
         <div class="col-md-3">
             <h5>Documentation</h5>
             <ul>
@@ -27,5 +20,12 @@ layout: page
                 </li>
             </ul>
         </div>
+        <div class="col-md-8">
+            {% if page.sub_title != nil %}
+            <h2>{{ page.sub_title }}</h2>
+            <hr />
+            {% endif %}
+            {{ content }}
+        </div>        
     </div>
 </div>

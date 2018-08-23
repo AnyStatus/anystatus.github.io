@@ -13,6 +13,7 @@ These are the changes to each version that has been released on our website and 
 
 Features
 
+- Light theme for AnyStatus Desktop.
 - API support for sparklines.
 - Added sparkline to CPU Usage.
 - Allow user to specify interval units of minutes or seconds.

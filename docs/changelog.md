@@ -18,7 +18,7 @@ Features
 - Added sparkline to CPU Usage.
 - Allow user to specify interval units of minutes or seconds.
 - VSTS Releases: Use "All Tasks -> Start" to create a new release.
-- VSTS Release Environment: Use "All Tasks -> Start" to deploy the release to the selected environment.
+- VSTS Release Environment: Use "All Tasks -> Start" to deploy latest release to selected environment.
 
 Bug Fixes
 

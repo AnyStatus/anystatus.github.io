@@ -13,16 +13,26 @@ These are the changes to each version that has been released on our website and 
 
 Features
 
-- Light theme for AnyStatus Desktop.
-- API support for sparklines.
-- Added sparkline to CPU Usage.
-- Allow user to specify interval units of minutes or seconds.
+- Light and Dark themes for AnyStatus Desktop (beta).
+- API support for sparklines (line chart).
+- Added a sparkline to CPU Usage widget.
+- Allow user to specify interval units of seconds or minutes (default).
 - VSTS Releases: Use "All Tasks -> Start" to create a new release.
 - VSTS Release Environment: Use "All Tasks -> Start" to deploy latest release to selected environment.
 
 Bug Fixes
 
+- Fixed a bug in root context menu after selecting a widget.
 - Hide error dialog when checking for updates fail.
+
+Improvements
+
+- Show "pause" icon when a metric widget is disabled.
+- Minor UI improvements.
+
+Changes
+
+- When refreshing, write a single line to the activity log instead of one for each widget that is being refreshed.
 
 ### Release 2.2
 ------------------

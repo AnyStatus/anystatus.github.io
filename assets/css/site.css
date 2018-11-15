@@ -12,6 +12,7 @@ body {
 
 .jumbotron {
     border-radius: 0;
+    margin-bottom: 0;
 }
 
 @media (min-width: 992px) {

@@ -13,7 +13,7 @@ These are the changes to each version that has been released on our website and 
 
 Features
 
-- Added a sparkline to Performance Counter widget.
+- Added sparkline to Performance Counter widget.
 
 ### Release 2.3
 ------------------

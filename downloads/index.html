@@ -1,80 +1,92 @@
 ---
-layout: contained-page
+layout: page
 title: Downloads
 ---
-<div class="row">
-    <div class="col-md-12">
-        <h2>AnyStatus Desktop for Windows</h2>
-        <hr />
-        <p><b>System Requirements</b></p>
-        <p>
-            <ul>
-                <li>Microsoft Windows operating system.</li>
-                <li>Microsoft .NET Framework 4.6 or above.</li>
-            </ul>
-        </p>
-        <p>To install the program, click the download button, then start the downloaded file and follow on-screen instructions.</p>
-        
-        <p><b>Stable <span id="ver"></span></b></p>
-        <p>
-            <a href="thank-you" class="btn btn-success" role="button" onclick="ga('send', 'event', 'Download', 'Desktop');">
-                Download AnyStatus Desktop
-            </a>
-        </p>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>AnyStatus For Windows</h2>
+            <hr />
+            <p>Standalone desktop application for Windows operating systems.</p>
+            <p><b>System Requirements</b></p>
+            <p>
+                <ul>
+                    <li>Windows XP / 7 / 8 / 10</li>
+                    <li>.NET Framework 4.6 or above</li>
+                </ul>
+            </p>
+            <p>To install the program, click the download button, then start the downloaded file and follow on-screen instructions.</p>
+            <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
+            
+            <p><b>Stable <span id="ver"></span></b></p>
+            <p>
+                <a href="thank-you" class="btn btn-success" role="button" onclick="ga('send', 'event', 'Download', 'Desktop');">
+                    Download
+                </a>
+            </p>
 
-        {% comment %}
-        <p><b>Unstable <span id="latest-ver"></span></b></p>
-        <p>This is where all the development happens. Only for hard-core users. Use only if you need to test the latest features or performance improvements. This is going to be the next AnyStatus release in a few weeks.</p>
-        <p>
-            <a href="thank-you?v=latest" class="btn btn-danger" onclick="ga('send', 'event', 'Download', 'Desktop');">
-                Download AnyStatus Desktop
-            </a>
-        </p>
-        {% endcomment %}
-
-        <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
-        <p><a href="/docs/changelog">See what's new</a></p>
+            {% comment %}
+            <p><b>Unstable <span id="latest-ver"></span></b></p>
+            <p>This is where all the development happens. Only for hard-core users. Use only if you need to test the
+                latest features or performance improvements. This is going to be the next AnyStatus release in a few
+                weeks.</p>
+            <p>
+                <a href="thank-you?v=latest" class="btn btn-danger" onclick="ga('send', 'event', 'Download', 'Desktop');">Download</a>
+            </p>
+            {% endcomment %}
+            <p><a href="/docs/changelog">Check out what's new</a></p>
+        </div>
     </div>
 </div>
 
 <p></p>
 
-<div class="row">
-    <div class="col-md-12">
-        <h2>AnyStatus extension for Visual Studio</h2>
-        <hr />
-        <p><b>System Requirements</b></p>
-        <p>
-            <ul>
-                <li>Microsoft Windows operating system.</li>
-                <li>Microsoft .NET Framework 4.6 or above.</li>
-                <li>Microsoft Visual Studio IDE 2015 or 2017.</li>
-            </ul>
-        </p>
-        <p>To install the extension, download the vsix file from Visual Studio Marketplace, then start the downloaded file and follow on-screen instructions.</p>
-        <p><a class="btn btn-primary" href="https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus" role="button" onclick="ga('send', 'event', 'Download', 'Visual Studio');">Visual Studio Marketplace</a></p>
-        <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
-        <p><a href="/docs/changelog">See what's new</a></p>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>AnyStatus For Visual Studio</h2>
+            <hr />
+            <p>Visual Studio extension.</p>
+            <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
+            <p><b>System Requirements</b></p>
+            <p>
+                <ul>
+                    <li>Visual Studio 2015 or 2017</li>
+                </ul>
+            </p>
+            <p><a class="btn btn-primary" href="https://marketplace.visualstudio.com/items?itemName=AnyStatus.AnyStatus"
+                    role="button" onclick="ga('send', 'event', 'Download', 'Visual Studio');">Visual Studio Marketplace</a></p>
+            <p><a href="/docs/changelog">Check out what's new</a></p>
+        </div>
     </div>
 </div>
 
 <p></p>
 
-<div class="row">
-    <div class="col-md-12">
-        <h2>TFS extension pack for AnyStatus</h2>
-        <hr />
-        <p><b>System Requirements</b></p>
-        <p>
-            <ul>
-                <li>AnyStatus extension for Visual Studio 2.1 or above.</li>
-                <li>Microsoft Visual Studio IDE 2017.</li>
-            </ul>
-        </p>
-        <p>To install the extension, download the vsix from Visual Studio Marketplace, then start the downloaded file and follow on-screen instructions.</p>
-        <p><a class="btn btn-primary" href="https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus" role="button" onclick="ga('send', 'event', 'Download', 'Visual Studio');">Visual Studio Marketplace</a></p>
-        <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
-        <p><a href="/docs/changelog">See what's new</a></p>
+<div class="jumbotron mt-5 mb-5">
+    <div class="container">
+        <h1 class="display-4">Extension Packs</h1>
+    </div>
+</div>
+
+<div class="container pt-3 pb-3">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Team Foundation Server</h2>
+            <hr />
+            <p>Early release. Currently available for Visual Studio only.</p>
+            <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
+            <p><b>System Requirements</b></p>
+            <p>
+                <ul>
+                    <li>Visual Studio 2017</li>
+                    <li>AnyStatus For Visual Studio 2.1 (or above)</li>
+                </ul>
+            </p>
+            <p><a class="btn btn-primary" href="https://marketplace.visualstudio.com/items?itemName=anystatus.TFSExtensionPack"
+                    role="button" onclick="ga('send', 'event', 'Download', 'Visual Studio');">Visual Studio Marketplace</a></p>
+            <p><a href="/docs/changelog">Check out what's new</a></p>
+        </div>
     </div>
 </div>
 

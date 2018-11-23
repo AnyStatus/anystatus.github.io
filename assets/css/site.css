@@ -13,6 +13,7 @@ body {
 .jumbotron {
     border-radius: 0;
     margin-bottom: 0;
+    background-color: #f7f7f7;
 }
 
 @media (min-width: 992px) {

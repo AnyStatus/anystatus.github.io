@@ -7,6 +7,19 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+
+### Release 2.3.X
+------------------
+<p class="text-muted">Coming soon...</p>
+
+Bug Fixes
+
+- Enable special characters in build definition name in VSTS and TFS widgets.
+
+Changes
+
+- Custom themed dialog boxes.
+
 ### Release 2.3.26
 ------------------
 <p class="text-muted">2018-11-21</p>

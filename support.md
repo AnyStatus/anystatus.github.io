@@ -58,3 +58,4 @@ AnyStatus API
 Join our mailing list to receive e-mail notifications about new releases and software updates.
 
 {% include subscribe-form-inline.html %}
+

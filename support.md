@@ -43,14 +43,11 @@ Follow AnyStatus updates on
 See the [changelog](/changelog) for changes and roadmap.
 
 ## Build Status
+---------------
 
-AnyStatus Plugins
+AnyStatus Plugins [![Build status](https://ci.appveyor.com/api/projects/status/dvn1rwrauwyq5yx6?svg=true)](https://ci.appveyor.com/project/AnyStatus/plugins)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/dvn1rwrauwyq5yx6?svg=true)](https://ci.appveyor.com/project/AnyStatus/plugins)
-
-AnyStatus API
-
-[![Build status](https://ci.appveyor.com/api/projects/status/74kcwc63k0r2ajdj?svg=true)](https://ci.appveyor.com/project/AnyStatus/api)
+AnyStatus API [![Build status](https://ci.appveyor.com/api/projects/status/74kcwc63k0r2ajdj?svg=true)](https://ci.appveyor.com/project/AnyStatus/api)
 
 ## Mailing List
 ---------------

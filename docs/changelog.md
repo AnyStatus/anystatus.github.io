@@ -18,7 +18,7 @@ Bug Fixes
 
 Changes
 
-- Custom themed dialog boxes.
+- Dark and light themed dialog windows.
 
 ### Release 2.3.26
 ------------------

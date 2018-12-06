@@ -3,12 +3,16 @@ layout: contained-page
 title: Community
 ---
 
-[//]: # Shape the future of AnyStatus and make it the best tool it can be. Join our community to voice your input and help other AnyStatus users.
+[//]: # Shape the future of AnyStatus and make it the best tool it can be. Join our community to voice your input and help other users.
 
-## Bug Tracking
+## GitHub
 --------------------
 
-Found a bug? please report it by creating a new Issue on our public [GitHub Repository](https://github.com/AnyStatus/Support/issues), where we track issues, bugs and feature requests.
+We use [GitHub Issues](https://github.com/AnyStatus/Support/issues) to track bugs, features, releases and stuff about AnyStatus.
+
+- [Issues](https://github.com/AnyStatus/Support/issues)
+- [API Repository](https://github.com/AnyStatus/API)
+- [Plugins Repository](https://github.com/AnyStatus/Plugins)
 
 ## Support Portal
 -----------------
@@ -17,17 +21,12 @@ Found a bug? please report it by creating a new Issue on our public [GitHub Repo
 - [Ask a question](https://anystatus.helprace.com/s1-general/questions)
 - [Request a feature](https://anystatus.helprace.com/s1-general/ideas)
 
-## Email
----------
+## Mailing List
+---------------
 
-Whether it’s a sales question or a feature request you can contact us by email at [info@anystat.us](mailto:info@anystat.us)
+Join our mailing list to receive e-mail notifications about new releases and software updates.
 
-## Chat
--------
-
-You can ask questions and get help on our Gitter chat room at [https://gitter.im/AnyStatus](https://gitter.im/AnyStatus).
-
-Gitter is an instant messaging and chat room system for developers and users of GitHub repositories.
+{% include subscribe-form-inline.html %}
 
 ## Social Networks
 ------------------
@@ -37,22 +36,27 @@ Follow AnyStatus updates on
 - [Twitter](https://twitter.com/AnyStatusApp)
 - [Facebook](https://www.facebook.com/AnyStatusApp)
 
-## Technical Updates
---------------------
+## Release notes and technical updates
+--------------------------------------
 
-See the [changelog](/changelog) for changes and roadmap.
+See the [changelog](/changelog) for release notes and roadmap.
 
-## Build Status
+## Email
+---------
+
+Whether it’s a technical question, a bug or a feature request you can contact us by email at [info@anystat.us](mailto:info@anystat.us)
+
+## Builds And CI Status
 ---------------
 
-AnyStatus Plugins [![Build status](https://ci.appveyor.com/api/projects/status/dvn1rwrauwyq5yx6?svg=true)](https://ci.appveyor.com/project/AnyStatus/plugins)
+AnyStatus API
 
-AnyStatus API [![Build status](https://ci.appveyor.com/api/projects/status/74kcwc63k0r2ajdj?svg=true)](https://ci.appveyor.com/project/AnyStatus/api)
+[![Build status](https://ci.appveyor.com/api/projects/status/74kcwc63k0r2ajdj?svg=true)](https://ci.appveyor.com/project/AnyStatus/api)
 
-## Mailing List
----------------
+AnyStatus Open-Source Plugins
 
-Join our mailing list to receive e-mail notifications about new releases and software updates.
+[![Build status](https://ci.appveyor.com/api/projects/status/dvn1rwrauwyq5yx6?svg=true)](https://ci.appveyor.com/project/AnyStatus/plugins)
 
-{% include subscribe-form-inline.html %}
+AnyStatus Applications (Desktop and VS extension)
 
+[![Build status](https://production.visualstudio.com/AnyStatus/_apis/build/status/Master)](https://production.visualstudio.com/AnyStatus/_build/latest?definitionId=40)

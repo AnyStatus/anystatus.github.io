@@ -1,4 +1,4 @@
----
+ ---
 layout: contained-page
 title: Community
 ---
@@ -28,6 +28,8 @@ Join our mailing list to receive e-mail notifications about new releases and sof
 
 {% include subscribe-form-inline.html %}
 
+<br/>
+
 ## Social Networks
 ------------------
 
@@ -53,10 +55,10 @@ AnyStatus API
 
 [![Build status](https://ci.appveyor.com/api/projects/status/74kcwc63k0r2ajdj?svg=true)](https://ci.appveyor.com/project/AnyStatus/api)
 
-AnyStatus Open-Source Plugins
+AnyStatus Plugins
 
 [![Build status](https://ci.appveyor.com/api/projects/status/dvn1rwrauwyq5yx6?svg=true)](https://ci.appveyor.com/project/AnyStatus/plugins)
 
-AnyStatus Applications (Desktop and VS extension)
+AnyStatus Applications
 
 [![Build status](https://production.visualstudio.com/AnyStatus/_apis/build/status/Master)](https://production.visualstudio.com/AnyStatus/_build/latest?definitionId=40)

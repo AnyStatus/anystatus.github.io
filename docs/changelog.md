@@ -8,17 +8,18 @@ redirect_from: "changelog"
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
 
-### Release 2.3.X
+### Upcoming Release
 ------------------
-<p class="text-muted">Coming soon...</p>
+<!-- <p class="text-muted">Coming soon...</p> -->
 
 Bug Fixes
 
-- Enable special characters in build definition name in VSTS and TFS widgets.
+- [#104](https://github.com/AnyStatus/Support/issues/104) Bug: VSTS build names with special characters fail.
 
 Changes
 
-- Dark and light themed dialog windows.
+- New dialog windows.
+- Folders such as VSTS Release and Jenkins View are now collapsed by default.
 
 ### Release 2.3.26
 ------------------

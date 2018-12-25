@@ -7,6 +7,21 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Upcoming Release
+--------------------
+
+Bug Fixes
+
+- [#104](https://github.com/AnyStatus/Support/issues/104) Bug: VSTS build names with special characters fail.
+
+Changes
+
+- New dialog windows.
+- Folders such as VSTS Release and Jenkins View are now collapsed by default.
+
+### Releases
+--------------------
+
 - [Release 2.3.26](#release-2326)
 - [Release 2.3](#release-23)
 - [Release 2.2](#release-22)
@@ -32,18 +47,6 @@ These are the changes to each version that has been released on our website and 
 - [Release 1.4.63](#release-1463)
 - [Release 1.3.45](#release-1345)
 
-### Upcoming Release
-------------------
-<!-- <p class="text-muted">Coming soon...</p> -->
-
-Bug Fixes
-
-- [#104](https://github.com/AnyStatus/Support/issues/104) Bug: VSTS build names with special characters fail.
-
-Changes
-
-- New dialog windows.
-- Folders such as VSTS Release and Jenkins View are now collapsed by default.
 
 ### Release 2.3.26
 ------------------

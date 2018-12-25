@@ -46,7 +46,23 @@ Changes
 - [Release 1.4.66](#release-1466)
 - [Release 1.4.63](#release-1463)
 - [Release 1.3.45](#release-1345)
-
+- [Release 1.3.44](#release-1344)
+- [Release 1.2.33](#release-1233)
+- [Release 1.2](#release-12)
+- [Release 1.1](#release-11)
+- [Release 1.0](#release-10)
+- [Release 0.12](#release-012)
+- [Release 0.11](#release-011)
+- [Release 0.10](#release-010)
+- [Release 0.9](#release-09)
+- [Release 0.8](#release-08)
+- [Release 0.7](#release-07)
+- [Release 0.6](#release-06)
+- [Release 0.5](#release-05)
+- [Release 0.4](#release-04)
+- [Release 0.3](#release-03)
+- [Release 0.2](#release-02)
+- [Release 0.1](#release-01)
 
 ### Release 2.3.26
 ------------------

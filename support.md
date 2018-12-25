@@ -14,12 +14,16 @@ We use [GitHub Issues](https://github.com/AnyStatus/Support/issues) to track bug
 - [API Repository](https://github.com/AnyStatus/API)
 - [Plugins Repository](https://github.com/AnyStatus/Plugins)
 
+<br/>
+
 ## Support Portal
 -----------------
 
 - [Report a bug](https://anystatus.helprace.com/s1-general/problems)
 - [Ask a question](https://anystatus.helprace.com/s1-general/questions)
 - [Request a feature](https://anystatus.helprace.com/s1-general/ideas)
+
+<br/>
 
 ## Mailing List
 ---------------
@@ -38,15 +42,21 @@ Follow AnyStatus updates on
 - [Twitter](https://twitter.com/AnyStatusApp)
 - [Facebook](https://www.facebook.com/AnyStatusApp)
 
+<br/>
+
 ## Release notes and technical updates
 --------------------------------------
 
 See the [changelog](/changelog) for release notes and roadmap.
 
+<br/>
+
 ## Email
 ---------
 
 Whether it’s a technical question, a bug or a feature request you can contact us by email at [info@anystat.us](mailto:info@anystat.us)
+
+<br/>
 
 ## Builds And CI Status
 ---------------
@@ -67,4 +77,9 @@ Deployments
 
 [![Testing](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/14)]()
 
+[![Testing](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/14)]()
+
+[![Staging](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/23)]()
+
+[![Production](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/15)]()
 

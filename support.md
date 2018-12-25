@@ -62,3 +62,9 @@ AnyStatus Plugins
 AnyStatus Applications
 
 [![Build status](https://production.visualstudio.com/AnyStatus/_apis/build/status/Master)](https://production.visualstudio.com/AnyStatus/_build/latest?definitionId=40)
+
+Deployments
+
+[![Testing](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/14)](https://production.visualstudio.com/AnyStatus/_build/latest?definitionId=40)
+
+

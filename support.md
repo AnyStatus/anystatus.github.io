@@ -58,10 +58,10 @@ Whether it’s a technical question, a bug or a feature request you can contact 
 
 <br/>
 
-## Builds And CI Status
+## CI Status
 ---------------
 
-Builds
+**Builds**
 
 AnyStatus API [![Build status](https://ci.appveyor.com/api/projects/status/74kcwc63k0r2ajdj?svg=true)](https://ci.appveyor.com/project/AnyStatus/api)
 
@@ -69,7 +69,7 @@ AnyStatus Plugins [![Build status](https://ci.appveyor.com/api/projects/status/d
 
 AnyStatus Applications [![Build status](https://production.visualstudio.com/AnyStatus/_apis/build/status/Master)]()
 
-Deployments
+**Deployments**
 
 Automated UI Tests [![Testing](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/14)](#)
 

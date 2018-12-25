@@ -7,6 +7,9 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+- [Release 2.3.26](#release-2.3.26)
+- [Release 2.3](#release-2.3)
+- [Release 2.2](#release-2.2)
 
 ### Upcoming Release
 ------------------

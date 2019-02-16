@@ -7,17 +7,25 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
-### Upcoming Release
+### Release 2.4
 --------------------
 
 Bug Fixes
 
 - [#104](https://github.com/AnyStatus/Support/issues/104) Bug: VSTS build names with special characters fail.
+- [#112](https://github.com/AnyStatus/Support/issues/112) Folder name is not saved after clicking on the window background while editing folder name.
 
 Changes
 
-- New dialog windows.
+- Themed dialog windows.
 - Folders such as VSTS Release and Jenkins View are now collapsed by default.
+- Changed "Units" to "Interval Units" in widget properties window.
+- Hide interval-units when editing folders.
+- Changed widget category "Code" to "Custom".
+- Moved "Options" from context menu to main menu.
+- Changed default interval of performance counters to 30 seconds.
+- Changed default sparkline colore to green.
+- Changed window close and minimized button colors in light theme.
 
 ### Releases
 --------------------

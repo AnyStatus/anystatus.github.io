@@ -4,4 +4,4 @@ title: Documentation
 sub_title: Performance Counters
 ---
 
-![](/assets/images/screenshots/anystatus.desktop.2.4.1.png)
+![AnyStatus Desktop 2.4.1](/assets/images/screenshots/anystatus_desktop_2.4.1.png)

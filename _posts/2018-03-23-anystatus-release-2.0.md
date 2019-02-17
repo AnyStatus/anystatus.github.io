@@ -7,7 +7,7 @@ tags: [New Releases]
 redirect_from: "/2018/03/23/AnyStatus-Release-2.0-Alpha.html"
 ---
 
-The new AnyStatus Desktop 2.0 is now available! You can [download](/downloads) the new version from the [downloads](/downloads) page or the [Open VSIX Gallery](http://vsixgallery.com/extension/AnyStatus.VSPackage.6f25620d-ff50-42d1-89da-709a45cebe10/).
+AnyStatus Desktop 2.0 has been released! You can [download](/downloads) the new version from the [downloads](/downloads) page or the [Open VSIX Gallery](http://vsixgallery.com/extension/AnyStatus.VSPackage.6f25620d-ff50-42d1-89da-709a45cebe10/).
 
 Please note that this is an early release. It is mostly complete but there are bugs, both known and unknown. Please report any bugs or issues on [GitHub](https://github.com/anystatus/support/issues).
 

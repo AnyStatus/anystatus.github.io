@@ -34,7 +34,7 @@ Here's a quick demo of how to install AnyStatus from within Visual Studio.
 
 To add a new folder to AnyStatus dashboard, open AnyStatus and click on the "Add Folder" button in the toolbar. Alternatively, you can right-click on AnyStatus window and select "Add Folder" in the context menu.
 
-![](http://127.0.0.1:4000/assets/images/getstarted/NewFolder.gif)
+![](/assets/images/getstarted/NewFolder.gif)
 
 ### Adding Widgets
 -------------------

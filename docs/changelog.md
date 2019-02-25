@@ -17,7 +17,7 @@ Bug Fixes
 
 Changes
 
-- Themed dialog windows.
+- Themed dialog windows in AnyStatus Desktop.
 - Folders such as VSTS Release and Jenkins View are now collapsed by default.
 - Changed "Units" to "Interval Units" in widget properties window.
 - Hide interval-units when editing folders.

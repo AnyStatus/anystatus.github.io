@@ -13,7 +13,7 @@ These are the changes to each version that has been released on our website and 
 Bug Fixes
 
 - [#104](https://github.com/AnyStatus/Support/issues/104) Bug: VSTS build names with special characters fail.
-- [#112](https://github.com/AnyStatus/Support/issues/112) Folder name is not saved after clicking on the window background while editing folder name.
+- [#112](https://github.com/AnyStatus/Support/issues/112) Bug: Folder name is not saved when clicking on window background while editing folder name.
 
 Changes
 

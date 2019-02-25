@@ -27,6 +27,7 @@ Changes
 - Changed default sparkline colore to green.
 - Changed window close and minimized button colors in light theme.
 - Shorten text for widgets with very long name to prevent horizonal scrolling.
+- Trim whitespace from tooltips.
 
 Breaking Changes
 

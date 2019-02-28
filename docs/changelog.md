@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Documentation
-sub_title: Changelog
+sub_title: Release Notes
 redirect_from: "changelog"
 ---
 
@@ -27,8 +27,8 @@ Changes
 - Changed default sparkline colore to green.
 - Changed window close and minimized button colors in light theme.
 
-### Releases
---------------------
+### Previous Releases
+----------------------
 
 - [Release 2.3.26](#release-2326)
 - [Release 2.3](#release-23)

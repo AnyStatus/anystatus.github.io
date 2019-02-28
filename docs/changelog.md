@@ -13,11 +13,11 @@ These are the changes to each version that has been released on our website and 
 Bug Fixes
 
 - [#104](https://github.com/AnyStatus/Support/issues/104) Bug: VSTS build names with special characters fail.
-- [#112](https://github.com/AnyStatus/Support/issues/112) Folder name is not saved after clicking on the window background while editing folder name.
+- [#112](https://github.com/AnyStatus/Support/issues/112) Bug: Folder name is not saved when clicking on window background while editing folder name.
 
 Changes
 
-- Themed dialog windows.
+- Themed dialog windows in AnyStatus Desktop.
 - Folders such as VSTS Release and Jenkins View are now collapsed by default.
 - Changed "Units" to "Interval Units" in widget properties window.
 - Hide interval-units when editing folders.
@@ -26,6 +26,13 @@ Changes
 - Changed default interval of performance counters to 30 seconds.
 - Changed default sparkline colore to green.
 - Changed window close and minimized button colors in light theme.
+- Shorten text for widgets with very long name to prevent horizonal scrolling.
+- Trim whitespace from tooltips.
+
+Breaking Changes
+
+- TFS extension pack has been retired and replaced with Azure DevOps Plugins.
+- Minor API changes.
 
 ### Previous Releases
 ----------------------

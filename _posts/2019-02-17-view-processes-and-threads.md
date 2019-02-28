@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using AnyStatus to view processes and threads
+title: Using AnyStatus to view processes and threads count
 author: Alon Amsalem
 date:   2019-02-17 12:00
 tags: [Performance Counters]

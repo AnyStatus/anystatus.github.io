@@ -23,10 +23,11 @@ body {
     }
 }
 
-.navbar-dark {
-    background-color: black !important;
+.navbar {
+    /* color: black;*/
+    background-color: #252830 !important; 
 
-    -webkit-box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-    -moz-box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.3);
-    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
 }

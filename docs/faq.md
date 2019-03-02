@@ -26,7 +26,7 @@ AnyStatus works with TFS, Azure DevOps, Jenkins, TeamCity and AppVeyor.
 
 <div class="pt-2"></div>
 
-##### How to check for errors when testing a Widget?
+##### How to check for errors when testing a widget?
 
 Errors and other messages can be found in the Activity Log window in AnyStatus Desktop or the output pane in Visual Studio.
 

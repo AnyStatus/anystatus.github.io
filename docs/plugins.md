@@ -7,7 +7,7 @@ sub_title: AnyStatus Plugins
 - [Azure DevOps](#azure-devops)
 - [Open Source](#open-source)
 
-### Azure DevOps
+#### Azure DevOps
 --------------------
 
 The Azure DevOps extension pack is a set of plugins designed for viewing and remote controlling your builds, releases, deployment environments and work items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/) from your desktop.
@@ -19,9 +19,9 @@ The Azure DevOps extension pack is a set of plugins designed for viewing and rem
 	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<p></p>
+<br/>
 
-### Open Source (Free)
+#### Open Source
 -----------------------
 Check out the [source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build) on GitHub.
 

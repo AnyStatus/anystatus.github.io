@@ -4,8 +4,20 @@ title: Documentation
 sub_title: AnyStatus Plugins
 ---
 
-- [Open Source](#open-source)
 - [Azure DevOps](#azure-devops)
+- [Open Source](#open-source)
+
+### Azure DevOps
+--------------------
+
+The Azure DevOps extension pack is a set of plugins designed for viewing and remote controlling your builds, releases, deployment environments and work items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/) from your desktop.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="QLXRSVNQKMU98">
+	<button class="btn btn-warning">Buy Now</button>
+	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
 ### Open Source (Free)
 -----------------------
@@ -50,16 +62,3 @@ Custom
 Can't find the plugin you were looking for?
 Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues) or [Support Portal](https://anystatus.helprace.com/s1-general/ideas).
 
-### Azure DevOps
---------------------
-
-The Azure DevOps extension pack is a set of plugins designed for viewing and remote controlling your builds, releases, deployment environments and work items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/) from your desktop.
-
-<img src="/assets/images/screenshots/anystatus-2.4.25-azure-devops.png"/>
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-	<input type="hidden" name="cmd" value="_s-xclick">
-	<input type="hidden" name="hosted_button_id" value="QLXRSVNQKMU98">
-	<button class="btn btn-warning">Buy Now</button>
-	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>

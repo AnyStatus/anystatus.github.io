@@ -1,7 +1,6 @@
 ---
 layout: docs
-title: Documentation
-sub_title: API Reference
+title: AnyStatus API
 ---
 
 AnyStatus API is a .NET class library that contains the classes, interfaces and utilities needed for developing AnyStatus extensions and plugins.
@@ -16,9 +15,9 @@ and handlers that perform the actual work such as retrieving the status.
 
 ![AnyStatus Components](/assets/images/AnyStatusComponents.png)
 
-_AnyStatus components_.
+<p></p>
 
-### Example
+### Widget Example
 -------------------
 
 The following class is an example for a plugable health check widget.
@@ -34,4 +33,4 @@ Because the Ping class implements IHealthCheck and ISchedulable, AnyStatus will 
 That's it. No need to register these classes anywhere. AnyStatus will automatically scan and register all plugins during startup and 
 the widget will automagically appear in the Add Widget window.
 
-**Want to see more examples?** Check out the open-source plugins library on [GitHub](https://github.com/AnyStatus/Plugins).
+For more examples, check out the open source plugins library on [GitHub](https://github.com/AnyStatus/Plugins).

@@ -1,7 +1,6 @@
 ---
 layout: docs
-title: Documentation
-sub_title: Getting Started
+title: Getting Started
 redirect_from: "get-started"
 ---
 

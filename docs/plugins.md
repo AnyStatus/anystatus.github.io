@@ -1,28 +1,16 @@
 ---
 layout: docs
-title: Documentation
-sub_title: AnyStatus Plugins
+title: AnyStatus Plugins
 ---
 
-- [Azure DevOps](#azure-devops)
-- [Open Source](#open-source)
+## Azure DevOps
+---------------
 
-#### Azure DevOps
---------------------
+The Azure DevOps extension pack is a set of plugins designed to notify you about your work items, builds, releases and deployment environments on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). 
 
-The Azure DevOps extension pack is a set of plugins designed for viewing and remote controlling your builds, releases, deployment environments and work items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/) from your desktop.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-	<input type="hidden" name="cmd" value="_s-xclick">
-	<input type="hidden" name="hosted_button_id" value="QLXRSVNQKMU98">
-	<button class="btn btn-warning">Buy Now</button>
-	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-<br/>
-
-#### Open Source
------------------------
+## Open Source
+--------------
+The open source plugins library contains the default widgets that comes free with AnyStatus.
 Check out the [source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build) on GitHub.
 
 DevOps
@@ -61,6 +49,7 @@ Custom
 - PowerShell
 - Batch Script
 
+<hr/>
+
 Can't find the plugin you were looking for?
 Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues) or [Support Portal](https://anystatus.helprace.com/s1-general/ideas).
-

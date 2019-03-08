@@ -1,7 +1,6 @@
 ---
 layout: docs
-title: Documentation
-sub_title: Release Notes
+title: Release Notes
 redirect_from: "changelog"
 ---
 

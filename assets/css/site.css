@@ -24,10 +24,10 @@ body {
 }
 
 .navbar {
-    /* color: black;*/
-    background-color: #252830 !important; 
-
-    -webkit-box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-    -moz-box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
-    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
+    height: 60px;
+    /*
+    -webkit-box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 8px 15px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 15px 0 rgba(0, 0, 0, 0.1);
+    */
 }

@@ -23,11 +23,8 @@ body {
     }
 }
 
-.navbar {
-    height: 60px;
-    /*
-    -webkit-box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
-    -moz-box-shadow: 0 8px 15px 0 rgba(0, 0, 0, 0.1);
-    box-shadow: 0 8px 15px 0 rgba(0, 0, 0, 0.1);
-    */
+@media (min-width: 768px) {
+    .navbar {
+        min-height: 4rem;
+   }
 }

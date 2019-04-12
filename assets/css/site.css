@@ -8,7 +8,7 @@ body {
 }
 
 .img-shadow {
-    box-shadow: 0 0 12px gray;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
 }
 
 .jumbotron {

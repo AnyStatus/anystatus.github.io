@@ -3,13 +3,10 @@ layout: docs
 title: AnyStatus Plugins
 ---
 
-## Azure DevOps
----------------
+AnyStatus is an extensible application. Check out the [API Documentation]() to learn more about AnyStatus plugins.
 
-The Azure DevOps extension pack is a set of plugins designed to notify you about your work items, builds, releases and deployment environments on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). 
-
-## Open Source
---------------
+## Open Source Plugins
+----------------------
 The open source plugins library contains the default widgets that comes free with AnyStatus.
 Check out the [source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build) on GitHub.
 
@@ -48,6 +45,20 @@ Custom
 - C#/VB.NET File
 - PowerShell
 - Batch Script
+
+## Azure DevOps Plugins
+-----------------------
+
+The Azure DevOps extension pack is a set of plugins designed to notify you about your work items, builds, releases and deployment environments on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). 
+
+<p>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="DSSVLGELMML32">
+        <button class="btn btn-warning" onclick="ga('send', 'event', 'Buy', 'Azure DevOps');">Buy Now</button>
+        <img alt="Buy Now" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </form>
+</p>
 
 <hr/>
 

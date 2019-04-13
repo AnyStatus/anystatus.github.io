@@ -1,26 +1,27 @@
 ---
 layout: docs
-title: Plugins
+title: AnyStatus Plugins
 ---
 
-AnyStatus is an extensible app. Check out the [API Documentation]() to learn more about plugins.
+AnyStatus is an extensible app. All of the widgets are plugins which are discovered at runtime.
+Check out the [AnyStatus API Documentation](/docs/api) to learn more about plugins.
 
-## Open Source Plugins
+## Free Open Source Plugins
 ----------------------
 The open source plugins library contains the default widgets that comes free with AnyStatus.
 Check out the [source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build) on GitHub.
 
-DevOps
+**DevOps**
 
 - TFS Build
-- VSTS Build
-- VSTS Release
+- Azure DevOps Build
+- Azure DevOps Release
 - Jenkins Job
 - Jenkins View
 - AppVeyor Build
 - TeamCity Build
 
-Health Checks
+**Health Checks**
 
 - Windows Service
 - HTTP/S
@@ -31,7 +32,7 @@ Health Checks
 - Uptime Robot
 - Pingdom
 
-Metrics
+**Metrics**
 
 - CPU Usage
 - Performance Counter
@@ -40,7 +41,7 @@ Metrics
 - Network Upload Speed
 - Network Download Speed
 
-Custom
+**Custom**
 
 - C#/VB.NET File
 - PowerShell

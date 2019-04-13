@@ -31,17 +31,8 @@ Download AnyStatus For Visual Studio .vsix file from [Visual Studio Marketplace]
 
 #### Install
 
-Close Visual Studio. Run the downloaded .vsix file and follow the on-screen instructions.<br/>
-<!-- [Watch a video tutorial](https://www.youtube.com/watch?v=rRwFmUXocBY) -->
+Close Visual Studio. Run the downloaded .vsix file and follow the on-screen instructions.
 
 #### Usage
 
 Once the installation is complete, start Visual Studio and open AnyStatus from the Tools menu.
-
-<!-- ## Tutorials
-------------
-
-* [Installing AnyStatus for Visual Studio 2017](https://www.youtube.com/watch?v=rRwFmUXocBY) -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/rRwFmUXocBY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<small><i>Installing AnyStatus extension 2.0.62</i></small> -->

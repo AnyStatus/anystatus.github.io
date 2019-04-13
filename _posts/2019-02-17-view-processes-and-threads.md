@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using AnyStatus to view processes and threads
+title: Count processes and threads using AnyStatus
 author: Alon Amsalem
 date:   2019-02-17 12:00
 tags: [Performance Counters]
@@ -8,7 +8,7 @@ tags: [Performance Counters]
 
 Performance counters are used to provide information as to how well the operating system or an application is performing. The performance counter data can help determine system bottlenecks and fine-tune system and application performance. Using AnyStatus it is easy to view performance counters such as the number of processes and threads running on your system.
 
-### Adding a Performance Counter widget
+### Performance Counter Widget
 
 Add a new widget using the dashboard context menu or the + icon in the main menu. In the "Add Widget" window select **Performance Counter** under **Metrics** category.
 

@@ -1,7 +1,6 @@
 ---
 layout: contained-page
-title: EULA
-description: AnyStatus End-User License Agreement
+title: End-User License Agreement
 ---
 
 ### Terms of use

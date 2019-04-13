@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: AnyStatus Plugins
+title: Plugins
 ---
 
-AnyStatus is an extensible application. Check out the [API Documentation]() to learn more about AnyStatus plugins.
+AnyStatus is an extensible app. Check out the [API Documentation]() to learn more about plugins.
 
 ## Open Source Plugins
 ----------------------

@@ -3,49 +3,51 @@ layout: docs
 title: AnyStatus Plugins
 ---
 
-AnyStatus is an extensible app. All of the widgets are plugins which are discovered at runtime.
-Check out the [AnyStatus API Documentation](/docs/api) to learn more about plugins.
+AnyStatus is an extensible app. All widgets are plugins, which are discovered at runtime. Check out [AnyStatus API Documentation](/docs/api) to learn more about plugins.
+
+Can't find the plugin you were looking for?
+Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues) or the [Support Portal](https://anystatus.helprace.com/s1-general/ideas).
 
 ## Open Source Plugins
 ----------------------
 The open source plugins library contains the default widgets that comes free with AnyStatus.
-Check out the [source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build) on GitHub.
+Check out the [repository](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build) on GitHub.
 
 **DevOps**
 
-- [TFS Build](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/TFS/Build)
-- [Azure DevOps Build](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/VSTS/Build)
-- [Azure DevOps Release](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/VSTS/Release)
-- [Jenkins Job](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Jenkins/Job)
-- [Jenkins View](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Jenkins/View)
-- [AppVeyor Build](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/AppVeyor/Build)
-- [TeamCity Build](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TeamCity/Build)
+- TFS Build ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/TFS/Build))
+- Azure DevOps Build ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/VSTS/Build))
+- Azure DevOps Release ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/VSTS/Release))
+- Jenkins Job ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Jenkins/Job))
+- Jenkins View ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Jenkins/View))
+- AppVeyor Build ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/AppVeyor/Build))
+- TeamCity Build ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TeamCity/Build))
+- Coveralls Code Coverage ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Coveralls))
 
 **Health Checks**
 
-- Windows Service
-- HTTP/S
-- TCP/UDP
-- Ping
-- SQL Connection
-- IIS Application Pool
-- Uptime Robot
-- Pingdom
+- Windows Service ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/WindowsService))
+- HTTP/S ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/HTTP))
+- TCP/UDP ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/PortCheck))
+- Ping ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/Ping))
+- SQL Connection ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/SqlServer/Connection))
+- IIS Application Pool ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/IIS/AppPool))
+- Uptime Robot ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/UptimeRobot))
+- Pingdom ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/Pingdom))
 
 **Metrics**
 
-- CPU Usage
-- Performance Counter
-- SQL Scalar Query
-- Coveralls Code Coverage
-- Network Upload Speed
-- Network Download Speed
+- CPU Usage ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/CPU/Usage))
+- Performance Counter ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/PerformanceCounters))
+- SQL Scalar Query ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/SqlServer/ScalarQuery))
+- Network Upload Speed ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/NetworkSpeed))
+- Network Download Speed ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/NetworkSpeed))
 
 **Custom**
 
-- C#/VB.NET File
-- PowerShell
-- Batch Script
+- C#/VB.NET ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Custom/NET))
+- PowerShell ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Custom/PowerShell))
+- Batch Script ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Custom/BatchFile))
 
 ## Azure DevOps Plugins
 -----------------------
@@ -60,8 +62,3 @@ The Azure DevOps extension pack is a set of plugins designed to notify you about
         <img alt="Buy Now" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
     </form>
 </p>
-
-<hr/>
-
-Can't find the plugin you were looking for?
-Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues) or [Support Portal](https://anystatus.helprace.com/s1-general/ideas).

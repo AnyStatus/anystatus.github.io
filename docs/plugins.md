@@ -3,7 +3,7 @@ layout: docs
 title: AnyStatus Plugins
 ---
 
-AnyStatus is an extensible app. All widgets are plugins, which are discovered at runtime. Check out [AnyStatus API Documentation](/docs/api) to learn more about plugins.
+AnyStatus is an extensible app. All widgets are plugins that are discovered at runtime. Check out [AnyStatus API Documentation](/docs/api) to learn more about plugins.
 
 Can't find the plugin you were looking for?
 Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues) or the [Support Portal](https://anystatus.helprace.com/s1-general/ideas).

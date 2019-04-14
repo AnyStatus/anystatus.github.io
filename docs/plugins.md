@@ -6,20 +6,20 @@ title: AnyStatus Plugins
 AnyStatus is an extensible app. All of the widgets are plugins which are discovered at runtime.
 Check out the [AnyStatus API Documentation](/docs/api) to learn more about plugins.
 
-## Free Open Source Plugins
+## Open Source Plugins
 ----------------------
 The open source plugins library contains the default widgets that comes free with AnyStatus.
 Check out the [source code](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build) on GitHub.
 
 **DevOps**
 
-- TFS Build
-- Azure DevOps Build
-- Azure DevOps Release
-- Jenkins Job
-- Jenkins View
-- AppVeyor Build
-- TeamCity Build
+- [TFS Build](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/TFS/Build)
+- [Azure DevOps Build](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/VSTS/Build)
+- [Azure DevOps Release](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/VSTS/Release)
+- [Jenkins Job](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Jenkins/Job)
+- [Jenkins View](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Jenkins/View)
+- [AppVeyor Build](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/AppVeyor/Build)
+- [TeamCity Build](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TeamCity/Build)
 
 **Health Checks**
 

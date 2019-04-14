@@ -4,14 +4,14 @@ title: Getting Started
 redirect_from: "get-started"
 ---
 
-Welcome to our getting started guide. Follow the steps below to get up and running in no time.
+Welcome to AnyStatus getting started guide. AnyStatus is a lightweight desktop app designed to bring you metrics and events from various sources. Follow the steps below to get up and running in no time.
 
 ## AnyStatus For Windows
 ------------------------
 
 #### Download
 
-Download the installation file from our [Downloads](/downloads) page or click [here](/downloads/thank-you) to start downloading now.
+Download AnyStatus installation file from our [downloads](/downloads) page or click [here](/downloads/thank-you) to start downloading now.
 
 #### Install
 
@@ -20,7 +20,7 @@ AnyStatus will launch once it has been successfully installed.
 
 #### Usage
 
-Launch AnyStatus from the Windows Start Menu. Add widgets to the dashboard using the + button or the context menu.
+Launch AnyStatus from the Windows Start Menu. Add new widgets to the dashboard using the <i class="fas fa-plus"></i> button or the context menu.
 
 ## AnyStatus For Visual Studio
 ------------------------------

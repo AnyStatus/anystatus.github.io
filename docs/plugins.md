@@ -12,8 +12,6 @@ Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues
 ----------------------
 These are the default widgets that are installed with AnyStatus. The source code is available on [GitHub](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build). You are invited to make changes and submit pull requests.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/dvn1rwrauwyq5yx6?svg=true)](https://ci.appveyor.com/project/AnyStatus/plugins)
-
 **DevOps**
 
 - TFS Build ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/TFS/Build))

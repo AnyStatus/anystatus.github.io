@@ -51,7 +51,7 @@ These are the default widgets that are installed with AnyStatus. The source code
 ## Azure DevOps Plugins
 -----------------------
 
-The Azure DevOps extension pack is a set of plugins designed to notify you about your work items, builds, releases and deployment environments on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). 
+The Azure DevOps Plugins is a set of premium widgets designed to help you with your work items, builds, releases and deployment environments on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). 
 
 <p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">

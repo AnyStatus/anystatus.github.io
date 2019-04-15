@@ -29,7 +29,7 @@ These are the default widgets that are installed with AnyStatus. The source code
 - HTTP/S ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/HTTP))
 - TCP/UDP ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/PortCheck))
 - Ping ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/Ping))
-- SQL Connection ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/SqlServer/Connection))
+- SQL Server Connection ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/SqlServer/Connection))
 - IIS Application Pool ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/IIS/AppPool))
 - Uptime Robot ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/UptimeRobot))
 - Pingdom ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/Pingdom))

@@ -50,14 +50,16 @@ These are the default widgets that are installed with AnyStatus. The source code
 
 ## Azure DevOps Plugins
 -----------------------
+View and control the status of your Work Items, Builds, Releases and Deployment Environments on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/).
+Azure DevOps Plugins comes with additional features that are not available in the free version, such as the history and progress of your builds, releases, and more. Support us by purchasing a license!
 
-The Azure DevOps Plugins is a set of premium widgets designed to help you with your work items, builds, releases and deployment environments on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). 
+For more information please contact us at [info@anystat.us](mailto:info@anystat.us)
 
 <p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <button class="btn btn-warning" onclick="ga('send', 'event', 'Buy', 'Azure DevOps');">Buy Now</button> 
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="DSSVLGELMML32">
-        <button class="btn btn-warning" onclick="ga('send', 'event', 'Buy', 'Azure DevOps');">Buy Now</button>
         <img alt="Buy Now" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
     </form>
 </p>

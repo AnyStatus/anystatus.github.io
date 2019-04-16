@@ -9,8 +9,7 @@ redirect_from: "/features"
     <div class="container text-center pt-5 pb-5">
         <h1 class="display-3">Bird's-eye view<br />of your dev environment</h1>
         <br />
-        <p class="lead" style="font-size: 1.6rem">AnyStatus is a lightweight desktop app designed to bring you metrics
-            and events from various sources</p>
+        <p class="lead" style="font-size: 1.6rem">AnyStatus helps IT professionals be more efficient and productive by providing quick access to essential services and information</p>
     </div>
 </div>
 
@@ -22,7 +21,7 @@ redirect_from: "/features"
                 <p class="pb-4">Powerful monitoring and notifications app for IT professionals</p>
                 <p><img class="img-shadow img-fluid" src="/assets/images/screenshots/anystatus-2.4.36-azure-devops.png"/></p>
                 <div class="pt-4"></div>
-                <a href="/docs/getting-started" class="btn btn-lg btn-secondary" role="button">Get Started</a>
+                <a href="/docs/getting-started" class="btn btn-lg btn-success" role="button">Get Started</a>
                 <a href="/downloads" class="btn btn-primary btn-lg ml-2" role="button">Download</a>
             </div>
         </div>
@@ -34,21 +33,22 @@ redirect_from: "/features"
         <div class="row">
             <div class="col-md-12 text-center">
                 <h1>AnyStatus For Visual Studio</h1>
-                <p class="pb-4">Powerful monitoring and notifications integrated in Visual Studio</p>
+                <p class="pb-4">Same app, integrated in Visual Studio</p>
                 <p><img class="img-shadow img-fluid" src="/assets/images/screenshots/anystatus-visual-studio-2.4.25.png"/></p>
                 <div class="pt-4"></div>
-                <a href="/docs/getting-started" class="btn btn-lg btn-secondary" role="button">Get Started</a>
-                <a href="https://marketplace.visualstudio.com/items?itemName=AnyStatus.AnyStatus" class="btn btn-lg btn-primary ml-2" role="button">Download</a>
+                <a href="/docs/getting-started" class="btn btn-lg btn-success" role="button">Get Started</a>
+                <a href="https://marketplace.visualstudio.com/items?itemName=AnyStatus.AnyStatus" class="btn btn-lg btn-primary ml-2" role="button"  onclick="ga('send', 'event', 'Download', 'Visual Studio');">Download</a>
             </div>
         </div>
     </div>
 </div>
 
 <div class="jumbotron mb-3">
-    <div class="container">
+    <div class="container pt-5 pb-5">
         <div class="row">
             <div class="col-md-12 text-center">
-                <h1 class="pt-5 pb-5">Dashboard controls that keep you organized and up-to-date</h1>
+                <h1 class="mb-5">What is AnyStatus?</h1>
+                <p class="lead" style="font-size: 1.6rem">AnyStatus is a lightweight desktop notifications and dashboard app designed to host various widgets. These include builds, releases, deployment environments, work items, health checks and metrics. It runs in the background and notifies you whenever something important happens</p>
             </div>
         </div>
     </div>
@@ -58,7 +58,7 @@ redirect_from: "/features"
     <div class="row">
         <div class="col-md-4 text-center">
             <h3><i class="fas fa-box-open"></i></h3>
-            <h3>Builds, Releases and Work Items</h3>
+            <h3>Builds, Releases, Work Items</h3>
             <p class="lead">View the status of your builds, releases and work items on TFS, Azure DevOps, Jenkins,
                 TeamCity, AppVeyor</p>
         </div>
@@ -140,13 +140,11 @@ redirect_from: "/features"
             <h3>Triggers</h3>
             <p class="lead">Trigger a command-line action or custom notification on all or specific status change</p>
         </div>
-        <div class="container pt-5 pb-5 d-block d-md-none">
-            <hr />
-        </div>
+        <div class="container pt-5 pb-5 d-block d-md-none"><hr/></div>
         <div class="col-md-6 text-center">
-            <h3><i class="fas fa-feather-alt"></i></h3>
+            <h3><i class="fas fa-broadcast-tower"></i></h3>
             <h3>Standalone</h3>
-            <p class="lead">No server or cloud service is required</p>
+            <p class="lead">Does not require internet connection or server installation</p>
         </div>
     </div>
 </div>
@@ -161,7 +159,7 @@ redirect_from: "/features"
             <h3><i class="fas fa-feather"></i></h3>
             <h3>Lightweight</h3>
             <p class="lead">AnyStatus runs in the background and does not have a significant impact on the performance
-                or startup of Visual Studio</p>
+                or startup of Windows and Visual Studio</p>
         </div>
         <div class="container pt-5 pb-5 d-block d-md-none">
             <hr />
@@ -192,8 +190,8 @@ redirect_from: "/features"
                 <h2>Start using AnyStatus</h2>
                 <p class="lead">No registration is required</p>
                 <p>
-                    <a href="/downloads" class="btn btn-primary btn-lg mr-1" role="button">Download</a>
-                    <a href="/docs/getting-started" class="btn btn-lg btn-secondary" role="button">Get Started</a>
+                    <a href="/docs/getting-started" class="btn btn-lg btn-success" role="button">Get Started</a>
+                    <a href="/downloads" class="btn btn-primary btn-lg ml-2" role="button">Download</a>
                 </p>
             </div>
         </div>
@@ -205,8 +203,9 @@ redirect_from: "/features"
 <div class="container pt-5">
     <div class="row">
         <div class="col-md-12 text-center">
+            <h3><i class="far fa-newspaper"></i></h3>
             <h2>Subscribe to our mailing list</h2>
-            <p class="lead">Receive emails about AnyStatus software updates</p>
+            <p class="lead">Get emails about AnyStatus news and software updates</p>
             {% include subscribe-form-inline.html center=true %}
         </div>
     </div>

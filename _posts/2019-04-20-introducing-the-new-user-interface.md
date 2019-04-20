@@ -6,9 +6,9 @@ author: Alon Amsalem
 ---
 
 Over the past year, I've made several changes to the user interface to make AnyStatus easier to use and more intuitive.
-I am continuously looking for ways to improve and fine-tune AnyStatus, based on my personal experience at work and your feedback.
+I am continuously looking for ways to improve and fine-tune AnyStatus, based on my personal experience at work and mostly your feedback.
 
-In this release, I've re-designed the main menu and added a new navigation menu to the left side of the window, instead of the three-dots button and the context menu.
+In this release, I've re-designed the main menu and added a new navigation menu to the left side of the window. The new layout replaces the three-dots button and the context menu.
 
 The left menu is opened by clicking the hamburger button at the upper left corner.
 As you can see, the Options (now Settings) and the Activity Log buttons moved to the new menu.

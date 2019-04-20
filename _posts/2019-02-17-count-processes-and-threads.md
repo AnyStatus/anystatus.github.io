@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Count processes and threads using AnyStatus
+title: Count Processes And Threads
+redirect_from: "/2019/02/17/view-processes-and-threads.html"
 author: Alon Amsalem
 date:   2019-02-17 12:00
 tags: [Performance Counters]

@@ -5,10 +5,14 @@ date:   2019-04-20 12:00:00
 author: Alon Amsalem
 ---
 
-Over the past year, I've made several changes to the user interface that makes AnyStatus easier to use and more intuitive.
-This time I've changed the upper toolbar and added a new navigation menu that replaces the three dots button and the context menu in previous versions.
+Over the past year, I've made several changes to the user interface to make AnyStatus easier to use and more intuitive.
+I am continuously looking for ways to improve and fine-tune AnyStatus user experience, based on your feedback.
 
-The left menu is opened by clicking the hamburger button on the upper left corner. As you can see, the Settings (previously Options) and Activity Log buttons were moved into the left menu to save space on the toolbar.
+In this release, I have re-designed the main menu and added a new menu to the left side of the window, instead of the three dots button and context menu.
+
+The navigation menu is opened by clicking the hamburger button on the upper left corner.
+As you can see, the Options (now Settings) and the Activity Log buttons moved to the new navigation menu.
+In this layout, the most frequent buttons are accessible from the toolbar and the rest from the navigation menu.
 
 <div class="row">
     <div class="col-md-4"><img src="/assets/images/screenshots/anystatus-2.4.46-azure-devops.png"/></div>
@@ -17,7 +21,7 @@ The left menu is opened by clicking the hamburger button on the upper left corne
 
 <p></p>
 
-The new user interface is available in the beta release (unstable) until it is ready to be shipped.
-You can find the installer on our [downloads](/downloads) page. Go ahead, give it a try and let us know what you think.
+The new user interface preview is available in the beta release (a.k.a., unstable) until it is ready to ship.
+You can download the beta version from the [Downloads](/downloads) page. Go ahead, give it a try and let us know what you think.
 
-We're always looking for ways to improve AnyStatus. Please leave a comment below on whether you liked the new user interface or not and what would you like to improve. Thanks!
+Please leave a comment below on whether you like the new user interface or not or suggest new ways to improve.

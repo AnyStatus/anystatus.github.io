@@ -10,21 +10,33 @@ Still using email notifications from your TFS server? Download AnyStatus and sta
 
 #### Overview
 
-AnyStatus is a lightweight desktop notifications app designed to show statuses of various CI/CD tools such as Team Foundation Server, Azure DevOps, Jenkins, TeamCity and AppVeyor, all in a single dashboard. These include, builds, releases, jobs, deployment environments, work items and more. In addition to CI/CD pipelines, AnyStatus provides basic monitoring capabilities to monitor the health state and availability of deployment environments.<br/>AnyStatus is available as desktop application for Windows or Visual Studio extension. [Learn more](/)
+AnyStatus is a lightweight desktop notifications app designed to show statuses of various CI/CD tools such as Team Foundation Server, Azure DevOps, Jenkins, TeamCity and AppVeyor, all in a single dashboard. These include, builds, releases, jobs, deployment environments, work items and more. In addition to CI/CD pipelines, AnyStatus provides basic monitoring capabilities to monitor the health state and availability of deployment environments. AnyStatus is available as desktop application for Windows or Visual Studio extension. [Learn more](/)
 
 #### Get TFS Build Status Notifications
 
-To get build status notifications from TFS on your desktop, download and install AnyStatus from our [downloads](/downloads) page.<br/>
-Use the + button to add a new TFS Build widget to AnyStatus dashboard. Alternatively, use the Context Menu > Add Widget option.<br/>
+To get build status notifications from TFS, download and install AnyStatus from our [Downloads](/downloads) page.
+Launch AnyStatus from the Windows Start Menu and use the <i class="fas fa-plus"></i> button to add a new widget to the dashboard.
+Alternatively, you can use the *Context Menu > Add Widget* option.
+Next, in the Add Widget Wizard select the **DevOps** category and then **TFS Build**.
 
-![AnyStatus 2.4.36 & Azure DevOps Plugins](/assets/images/screenshots/anystatus-2.4.36-azure-devops.png)<br/><small>AnyStatus Desktop 2.4.36 with Azure DevOps Plugins</small>
-
-In the Add Widget window select the DevOps category and then TFS Build.
+1. Enter a name for the widget.
+2. Enter the TFS server URL. For example: http://tfs:8080/tfs
+3. Enter the Collection name (default is DefaultCollection), the Team Project name and Build Definition name.
+4. Click **Test** to run the widget, any error messages are logged in the Activity Log.
+5. Click **Add** to save the new widget in the dashboard.
 
 ![TFS Build Notifications](/assets/posts/2017-05-05-tfs-and-vsts-notifications/add-tfs-build-monitor.png)
 
-Enter a name for the widget. Enter the TFS server URL. For example: http://tfs:8080/tfs. Enter the collection name (default is DefaultCollection) the team project name and build definition name. Click Add to save the new widget. AnyStatus will start monitoring the newly created widget immediately. Any errors that may occur will be logged in the activity log. Once the widget has been added. You can queue new builds using the Context Menu > Tasks > Start option.
+AnyStatus will start monitoring the newly created widget immediately.
+Any errors or warnings that may occur will be logged in the Activity Log.
+
+![AnyStatus 2.4.36 & Azure DevOps Plugins](/assets/images/screenshots/anystatus-2.4.36-azure-devops.png)<br/><small>AnyStatus Desktop 2.4.36 with Azure DevOps Plugins</small>
+
+#### Queue a new build
+
+Once the widget has been created, you can queue new builds using the *Context Menu > All Tasks > Start* option.
 
 #### Reconcile workspace after a successful build
 
-Use [triggers](/docs/triggers) to automatically reconcile workspace after a successful build.
+You can use [Triggers](/docs/triggers), a feature that lets you run custom commands when status changes occur, to automatically reconcile your workspace after successful builds.
+The trigger uses TF.exe to do the actual reconciliation.

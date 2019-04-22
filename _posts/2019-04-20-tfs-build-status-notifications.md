@@ -10,7 +10,7 @@ Still using email notifications from your TFS server? Download AnyStatus and sta
 
 #### Overview
 
-AnyStatus is a lightweight desktop notifications app designed to show statuses of various CI/CD tools such as Team Foundation Server, Azure DevOps, Jenkins, TeamCity and AppVeyor, all in a single dashboard. These include, builds, releases, jobs, deployment environments, work items and more. In addition to CI/CD pipelines, AnyStatus provides basic monitoring capabilities to monitor the health state and availability of deployment environments. AnyStatus is available as desktop application for Windows or Visual Studio extension. [Learn more](/)
+AnyStatus is a lightweight desktop notifications app designed to show statuses of various CI/CD tools such as Team Foundation Server, Azure DevOps, Jenkins, TeamCity and AppVeyor, all in a single dashboard on your desktop. These include, builds, releases, jobs, deployment environments, work items and more. In addition to CI/CD pipelines, AnyStatus provides basic monitoring capabilities to monitor the health state and availability of deployment environments. AnyStatus is available as desktop application for Windows and Visual Studio extension. [Learn more](/)
 
 #### Get TFS build status notifications
 
@@ -37,7 +37,6 @@ When the status of your TFS build change, a desktop notification will popup show
 
 Once the widget has been created, you can queue new builds using the *Context Menu > All Tasks > Start* option.
 
-#### Reconcile workspace after a successful build
+#### Reconcile your workspace after successful builds
 
-You can use [Triggers](/docs/triggers), a feature that lets you run custom commands when status changes occur, to automatically reconcile your workspace after successful builds.
-The trigger uses TF.exe to do the actual reconciliation.
+You can automatically reconcile your workspace after a successful build using [Triggers](/docs/triggers), a feature that enables you to run custom commands, such as [tf.exe reconcile](), when statuses change.

@@ -10,7 +10,7 @@ Still using email notifications from your TFS server? Download AnyStatus and sta
 
 #### Overview
 
-AnyStatus is a lightweight desktop notifications app designed to show statuses of various CI/CD tools such as Team Foundation Server, Azure DevOps, Jenkins, TeamCity and AppVeyor, all in a single dashboard. These include, builds, releases, jobs, deployment environments, work items and more. In addition to CI/CD pipelines, AnyStatus provides basic monitoring capabilities to monitor the health state and availability of deployment environments. AnyStatus is available as desktop application for Windows or Visual Studio extension. [Learn more](/)
+AnyStatus is a lightweight desktop notifications app designed to show statuses of various CI/CD tools such as Team Foundation Server, Azure DevOps, Jenkins, TeamCity and AppVeyor, all in a single dashboard on your desktop. These include, builds, releases, jobs, deployment environments, work items and more. In addition to CI/CD pipelines, AnyStatus provides basic monitoring capabilities to monitor the health state and availability of deployment environments. AnyStatus is available as desktop application for Windows and Visual Studio extension. [Learn more](/)
 
 #### Get TFS build status notifications
 

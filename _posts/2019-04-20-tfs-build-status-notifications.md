@@ -37,7 +37,6 @@ When the status of your TFS build change, a desktop notification will popup show
 
 Once the widget has been created, you can queue new builds using the *Context Menu > All Tasks > Start* option.
 
-#### Reconcile workspace after a successful build
+#### Reconcile your workspace after successful builds
 
-You can use [Triggers](/docs/triggers), a feature that lets you run custom commands when status changes occur, to automatically reconcile your workspace after successful builds.
-The trigger uses TF.exe to do the actual reconciliation.
+You can automatically reconcile your workspace after a successful build using [Triggers](/docs/triggers), a feature that enables you to run custom commands, such as [tf.exe reconcile](), when statuses change.

@@ -21,9 +21,7 @@ In this layout, the most frequent buttons are accessible from the toolbar and th
 
 <p></p>
 
-The new user interface preview is available in the beta release (a.k.a., unstable) until it is ready to ship.
-You can download the beta version from our [Downloads](/downloads) page. Go ahead, give it a try and let us know what you think.
-
-Please leave a comment below whether you like the new user interface or not and suggest new ways to improve.
+The new user interface preview is available in the beta version (a.k.a., unstable) until it is ready to ship.
+Please download the new release from our [downloads](/downloads) page, give it a try and let us know what you think in the comments section below or the [support channels](/support).
 
 Enjoy

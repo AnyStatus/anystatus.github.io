@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Getting Started
+description: Learn how to install and get started with AnyStatus
 redirect_from: "get-started"
 ---
 

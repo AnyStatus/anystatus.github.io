@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ site.title }} - {{ page.title | replace: "AnyStatus ", "" }}{% if page.sub_title != nil %} / {{page.sub_title}}{% endif %}</title>
-    <meta name="description" content="AnyStatus is a lightweight desktop application designed to bring you metrics and events from various sources.">
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="AnyStatus">
     <link rel="icon" href="/favicon.ico">
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet">

@@ -6,8 +6,38 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.5 BETA
+--------------------
+<p class="text-muted">2019-05-06</p>
+
+Features
+
+- Battery Widget.
+- New user interface. [Read more](/2019/04/20/introducing-the-new-user-interface.html)
+- Added a read-only Priority column to Color Theme table in the Options window.
+- Trim long widget name.
+- Allow metrics to have child-nodes.
+
+Changes
+
+- Code signing certificate has been updated.
+- AnyStatus now requires .NET Framework 4.6.2.
+- Removed minimize button from all windows.
+- Auto-size dialog boxes to fit content.
+- Widgets can now replace the default tooltip text with custom text.
+- Added [RestSharp](http://restsharp.org/) for plugins who sends REST calls.
+
+System Requirements
+
+- AnyStatus now requires .NET Framework 4.6.2
+
+Bug Fixes
+
+- Fixed a bug when restoring default color theme.
+
 ### Release 2.4
 --------------------
+<p class="text-muted">2019-02-16</p>
 
 Bug Fixes
 
@@ -17,7 +47,7 @@ Bug Fixes
 Changes
 
 - Themed dialog windows in AnyStatus Desktop.
-- Folders such as VSTS Release and Jenkins View are now collapsed by default.
+- Folders such as Azure DevOps (VSTS) Release and Jenkins View are now collapsed by default.
 - Changed "Units" to "Interval Units" in widget properties window.
 - Hide interval-units when editing folders.
 - Changed widget category "Code" to "Custom".

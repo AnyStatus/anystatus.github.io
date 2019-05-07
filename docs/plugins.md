@@ -50,7 +50,7 @@ These are the default pre-installed widgets that comes free with AnyStatus. The 
 **Metrics**
 
 - CPU Usage ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/CPU/Usage))
-- 8*New!** Battery ([Source](https://github.com/AnyStatus/Plugins/blob/master/src/AnyStatus.Plugins/Widgets/Metrics/Battery/BatteryStatusQuery.cs))
+- **New!** Battery ([Source](https://github.com/AnyStatus/Plugins/blob/master/src/AnyStatus.Plugins/Widgets/Metrics/Battery/BatteryStatusQuery.cs))
 - Performance Counter ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/PerformanceCounters))
 - SQL Scalar Query ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/SqlServer/ScalarQuery))
 - Network Upload Speed ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/NetworkSpeed))

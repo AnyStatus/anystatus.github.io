@@ -13,7 +13,7 @@ These are the changes to each version that has been released on our website and 
 Features
 
 - Battery Widget.
-- New user interface. [Read more](/2019/04/20/introducing-the-new-user-interface.html)
+- [New user interface](/2019/04/20/introducing-the-new-user-interface.html).
 - Added a read-only Priority column to Color Theme table in the Options window.
 - Trim long widget name.
 - Allow metrics to have child-nodes.
@@ -21,7 +21,6 @@ Features
 Changes
 
 - Code signing certificate has been updated.
-- AnyStatus now requires .NET Framework 4.6.2.
 - Removed minimize button from all windows.
 - Auto-size dialog boxes to fit content.
 - Widgets can now replace the default tooltip text with custom text.
@@ -29,11 +28,11 @@ Changes
 
 System Requirements
 
-- AnyStatus now requires .NET Framework 4.6.2
+- AnyStatus now requires .NET Framework 4.6.2 or above.
 
 Bug Fixes
 
-- Fixed a bug when restoring default color theme.
+- No confirmation dialog when restoring default color theme.
 
 ### Release 2.4
 --------------------

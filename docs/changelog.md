@@ -6,25 +6,27 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
-### Release 2.5 BETA
---------------------
+### Release 2.5
+---------------
 <p class="text-muted">2019-05-06</p>
 
 Features
 
-- Battery Widget.
-- [New user interface](/2019/04/20/introducing-the-new-user-interface.html).
-- Added a read-only Priority column to Color Theme table in the Options window.
+- [New User Interface](/2019/04/20/introducing-the-new-user-interface.html).
+- [#120](https://github.com/AnyStatus/Support/issues/120) Battery Widget.
+- Added read-only Priority column to Color Theme table in settings window.
 - Trim long widget name.
-- Allow metrics to have child-nodes.
+- Allow metrics to have child nodes.
 
 Changes
 
-- Code signing certificate has been updated.
+- Options has been renamed to settings.
+- Code signing certificate has been renewed.
 - Removed minimize button from all windows.
 - Auto-size dialog boxes to fit content.
 - Widgets can now replace the default tooltip text with custom text.
 - Added [RestSharp](http://restsharp.org/) for plugins who sends REST calls.
+- Visual Studio 2019 support.
 
 System Requirements
 
@@ -33,6 +35,10 @@ System Requirements
 Bug Fixes
 
 - No confirmation dialog when restoring default color theme.
+
+API
+
+- Allow widget handlers (update, start, stop, etc.) to invoke other widget handlers to support use cases such as refreshing a build status before starting a new build.
 
 ### Release 2.4
 --------------------

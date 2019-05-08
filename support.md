@@ -48,8 +48,8 @@ See the [changelog](/changelog) for release notes and roadmap.
 
 Whether it’s a sales question, a bug or a feature request you can always contact us by email at [info@anystat.us](mailto:info@anystat.us)
 
-## CI Status
----------------
+## Release Pipeline
+-------------------
 
 **Builds**
 

@@ -12,42 +12,39 @@ These are the changes to each version that has been released on our website and 
 
 Features
 
-- [New User Interface](/2019/04/20/introducing-the-new-user-interface.html).
-- [#120](https://github.com/AnyStatus/Support/issues/120) Battery Widget.
+- New User Interface. [Read more](/2019/04/20/introducing-the-new-user-interface.html).
+- [#120](https://github.com/AnyStatus/Support/issues/120) Battery Meter Widget.
 - Added read-only Priority column to Color Theme table in settings window.
-- Trim long widget name.
 - Allow metrics to have child nodes.
 
 Changes
 
-- Options has been renamed to settings.
 - Code signing certificate has been renewed.
 - Removed minimize button from all windows.
 - Auto-size dialog boxes to fit content.
+- Options has been renamed to Settings.
 - Widgets can now replace the default tooltip text with custom text.
-- Added [RestSharp](http://restsharp.org/) for plugins who sends REST calls.
-- Visual Studio 2019 support.
-
-System Requirements
-
-- AnyStatus now requires .NET Framework 4.6.2 or above.
+- Slightly darker window background.
+- Trim long widget names instead of horizontal scrolling.
+- Added [RestSharp](http://restsharp.org/) for plugins who use REST calls.
 
 Bug Fixes
 
 - No confirmation dialog when restoring default color theme.
 
+System Requirements
+
+- Microsoft .NET Framework 4.6.2 or above.
+- Added Visual Studio 2019 support.
+
 API
 
-- Allow widget handlers (update, start, stop, etc.) to invoke other widget handlers to support use cases such as refreshing a build status before starting a new build.
+- Allow widget handlers to invoke other widget handlers to support use-cases such as refreshing a build status before starting a new build.
+- New [IUiAction](https://github.com/AnyStatus/API/blob/95c893b46aed748218d309243ebe93f88d8bb04c/src/AnyStatus.API/Common/Services/IUIAction.cs) interface for invoking actions on UI thread.
 
 ### Release 2.4
 --------------------
 <p class="text-muted">2019-02-16</p>
-
-Bug Fixes
-
-- [#104](https://github.com/AnyStatus/Support/issues/104) Bug: VSTS build names with special characters fail.
-- [#112](https://github.com/AnyStatus/Support/issues/112) Bug: Folder name is not saved when clicking on window background while editing folder name.
 
 Changes
 
@@ -62,6 +59,11 @@ Changes
 - Changed window close and minimized button colors in light theme.
 - Shorten text for widgets with very long name to prevent horizonal scrolling.
 - Trim whitespace from tooltips.
+
+Bug Fixes
+
+- [#104](https://github.com/AnyStatus/Support/issues/104) Bug: VSTS build names with special characters fail.
+- [#112](https://github.com/AnyStatus/Support/issues/112) Bug: Folder name is not saved when clicking on window background while editing folder name.
 
 Breaking Changes
 

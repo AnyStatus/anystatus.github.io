@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: AnyStatus API
+title: API Documentation
 ---
 
 AnyStatus API is a .NET class library that contains the classes, interfaces and utilities needed for developing extensions and plugins for AnyStatus.
@@ -8,9 +8,9 @@ AnyStatus API is a .NET class library that contains the classes, interfaces and 
 ### How it works
 ----------------
 
-A plugin is a set of classes that implement different features. There are classes that implements priodic health checks (such as HTTP health check) or metric queries (such as Weather update or CPU Usage) and there are classes that implements tasks such as Start, Stop and Restart.
+AnyStatus scans the installation directory for plugins in assemblies who's name start with "AnyStatus". For example: AnyStatus.Plugins.dll
 
-AnyStatus scans the installation directory for plugins. It will look for assemblies with a name that starts with "AnyStatus". For example: AnyStatus.Plugins.dll
+A plugin consists of a single Widget class and multiple classes that implement each feature separately. These include, health check, metric query, start, stop, restart, open web page, validation, notifications, triggers and more.
 
 Other aspects such as the display name, and description are described using attributes.
 
@@ -18,7 +18,7 @@ Other aspects such as the display name, and description are described using attr
 
 <p></p>
 
-### Widget Example
+### Example
 -------------------
 
 The following class is an example for a plugable health check widget.

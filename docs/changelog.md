@@ -6,6 +6,21 @@ redirect_from: "changelog"
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.5.22
+---------------
+<p class="text-muted">2019-05-26</p>
+
+Bug Fixes
+
+- [#126](https://github.com/AnyStatus/Support/issues/126) Window always opens in dark theme.
+- [#125](https://github.com/AnyStatus/Support/issues/125) Window always docks to primary window.
+- [#122](https://github.com/AnyStatus/Support/issues/122) Window is off screen when disconnecting extended monitor.
+- [#121](https://github.com/AnyStatus/Support/issues/121) Stuck sub-pixel in application icon.
+
+Changes
+
+- Removed "Show debug information in the output window".
+
 ### Release 2.5
 ---------------
 <p class="text-muted">2019-05-06</p>

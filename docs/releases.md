@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Release Notes
-redirect_from: ["changelog", "/docs/changelog"]
+redirect_from: ["changelog", "/docs/changelog", "/docs/release-notes"]
 ---
 AnyStatus is an extensible Windows application that rolls up metrics and events from various sources into one place.
 

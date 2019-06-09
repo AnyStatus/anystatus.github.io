@@ -41,7 +41,7 @@ Follow AnyStatus updates on
 ## Release Notes
 ----------------
 
-See the [release-notes](/release-notes) for release notes and roadmap.
+View the [changelog](/releases) for release notes and roadmap.
 
 ## Email
 ---------

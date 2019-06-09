@@ -22,6 +22,6 @@ A list of free and paid plugins and extensions for AnyStatus.
 
 Learn how to develop custom plugins and extensions for AnyStatus.
 
-#### [Release Notes](/docs/changelog)
+#### [Release Notes](/docs/release-notes)
 
 Check out the history and future of AnyStatus.

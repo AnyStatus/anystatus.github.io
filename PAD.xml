@@ -13,11 +13,11 @@
     <Product_UIN>APP-E500FD8B778C</Product_UIN>
     <Publish_on_CD>N</Publish_on_CD>
     <NewsFeed_Search_String></NewsFeed_Search_String>
-    <Search_String>AnyStatus Desktop</Search_String>
+    <Search_String>AnyStatus</Search_String>
     <Press_Release_Search_String></Press_Release_Search_String>
     <Backlink></Backlink>
     <Comments_For_Reviewer></Comments_For_Reviewer>
-    <Search_String_Unique>AnyStatus Desktop</Search_String_Unique>
+    <Search_String_Unique>AnyStatus</Search_String_Unique>
     <Search_Engine_Search_String></Search_Engine_Search_String>
     <Web_Directories_Search_String></Web_Directories_Search_String>
     <Company_Description></Company_Description>
@@ -28,9 +28,9 @@
     <Company_Name>AnyStatus</Company_Name>
     <Country>Israel</Country>
     <State_Province>Israel</State_Province>
-    <City_Town>Ganey Tikva</City_Town>
-    <Zip_Postal_Code>5592346</Zip_Postal_Code>
-    <Address_1>Harama</Address_1>
+    <City_Town>Tel-Aviv</City_Town>
+    <Zip_Postal_Code></Zip_Postal_Code>
+    <Address_1></Address_1>
     <Address_2></Address_2>
     <Company_WebSite_URL>https://www.anystat.us</Company_WebSite_URL>
     <Contact_Info>
@@ -58,13 +58,13 @@
   </Company_Info>
   <Program_Info>
     <AppID>app-e500fd8b778c</AppID>
-    <Program_Name>AnyStatus Desktop</Program_Name>
-    <Program_Version>2.0.64</Program_Version>
-    <Program_Release_Month>04</Program_Release_Month>
-    <Program_Release_Day>20</Program_Release_Day>
-    <Program_Release_Year>2018</Program_Release_Year>
+    <Program_Name>AnyStatus</Program_Name>
+    <Program_Version>2.6</Program_Version>
+    <Program_Release_Month>07</Program_Release_Month>
+    <Program_Release_Day>01</Program_Release_Day>
+    <Program_Release_Year>2019</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
-    <Program_Type>Freeware</Program_Type>
+    <Program_Type>Freemium</Program_Type>
     <Program_Category_Class>Development::Other</Program_Category_Class>
     <Program_Specific_Category></Program_Specific_Category>
     <Program_Categories>Communication :: Remote Control Tools,Internet :: Connectivity Tools,Internet :: Network Tools,Internet :: Tools &amp; Utilities,Internet :: Monitoring,Programming :: Tools and Editors,Programming :: Miscellaneous,Utilities :: Network Utilities,Utilities :: System Diagnostics,Utilities :: Miscellaneous,Shell &amp; Desktop Enhancements :: Utilities,Security Tools :: Desktop Monitors</Program_Categories>
@@ -73,15 +73,14 @@
     <Program_Target_Platform>Windows</Program_Target_Platform>
     <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>The latest release adds various features, improvements, and bug fixes.
-For the full list of changes and roadmap, please visit our changelog at https://anystat.us/docs/changelog</Program_Change_Info>
+    <Program_Change_Info>The latest release adds various features, improvements, and bug fixes. For the full list of changes and roadmap please visit https://anystat.us/docs/release-notes</Program_Change_Info>
     <Program_System_Requirements>Requires Windows 7 SP1, 8 or 10</Program_System_Requirements>
     <Limitations>No limitations</Limitations>
     <Awards></Awards>
     <File_Info>
-      <File_Size_Bytes>1413120</File_Size_Bytes>
-      <File_Size_K>1380</File_Size_K>
-      <File_Size_MB>1.35</File_Size_MB>
+      <File_Size_Bytes>2097152</File_Size_Bytes>
+      <File_Size_K>2000</File_Size_K>
+      <File_Size_MB>2</File_Size_MB>
     </File_Info>
     <Expire_Info>
       <Has_Expire_Info>N</Has_Expire_Info>

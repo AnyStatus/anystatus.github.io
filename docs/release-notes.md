@@ -1,13 +1,32 @@
 ---
 layout: docs
 title: Release Notes
-redirect_from: "changelog"
+redirect_from: ["changelog", "/docs/changelog"]
 ---
+AnyStatus is an extensible Windows application that rolls up metrics and events from various sources into one place.
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.6
+------------------
+<p class="text-muted">Currently in beta</p>
+
+Features
+
+- [#141](https://github.com/AnyStatus/Support/issues/141) System Information widgets category.
+- [#142](https://github.com/AnyStatus/Support/issues/142) GitHub Repository Issues widget.
+- [#134](https://github.com/AnyStatus/Support/issues/134) RAM Usage widget.
+- [#123](https://github.com/AnyStatus/Support/issues/123) Process CPU Usage widget.
+- [#138](https://github.com/AnyStatus/Support/issues/138) Page File Usage widget.
+- [#135](https://github.com/AnyStatus/Support/issues/135) Process Count widget.
+- [#136](https://github.com/AnyStatus/Support/issues/136) Thread Count widget.
+
+Credits
+
+- Special thanks to [Toby Smith](https://tobysmith.uk/) for contributing several plugins and bug fixes in recent releases.
+
 ### Release 2.5.22
----------------
+------------------
 <p class="text-muted">2019-05-26</p>
 
 Bug Fixes

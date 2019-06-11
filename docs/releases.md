@@ -9,7 +9,7 @@ These are the changes to each version that has been released on our website and 
 
 ### Release 2.6
 ------------------
-<p class="text-muted">Currently in beta</p>
+<p class="text-muted">2019-06-11</p>
 
 Features
 
@@ -20,6 +20,10 @@ Features
 - [#138](https://github.com/AnyStatus/Support/issues/138) Page File Usage widget.
 - [#135](https://github.com/AnyStatus/Support/issues/135) Process Count widget.
 - [#136](https://github.com/AnyStatus/Support/issues/136) Thread Count widget.
+
+Changes
+
+- Minor UI changes in Options window.
 
 Credits
 

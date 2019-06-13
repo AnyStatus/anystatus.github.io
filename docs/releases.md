@@ -7,6 +7,14 @@ AnyStatus is an extensible Windows application that rolls up metrics and events 
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.6.13
+------------------
+<p class="text-muted">2019-06-14</p>
+
+Bug Fixes
+
+- [#147](https://github.com/AnyStatus/Support/issues/147) Window size and location not persisted when exiting from system tray.
+
 ### Release 2.6
 ------------------
 <p class="text-muted">2019-06-11</p>

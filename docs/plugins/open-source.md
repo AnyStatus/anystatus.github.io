@@ -1,28 +1,10 @@
 ---
-layout: docs
-title: AnyStatus Plugins
+layout: contained-page
+title: Open Source Plugins
 ---
 
-AnyStatus is an extensible Windows application that rolls up metrics and events from various sources into one simple dashboard. Examples include builds and releases, health checks for different services and operating system metrics.
-Check out the [API Documentation](/docs/api) to learn more about AnyStatus extensions and plugins.
+<p class="lead">This page is a work in progress</p>
 
-## Azure DevOps Plugins
------------------------
-Quickly view and control the status of your CI/CD Builds, Releases, Deployment Environments and Work Items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). The Azure DevOps extension pack is a separate installation that adds new widgets with additional features that are not available in the free open source widgets. These include, history, progress and estimated time remaining of builds and release. Custom work item queries, and more. Support us by purchasing a license!
-
-For more information and inquiry please [contact us](mailto:info@anystat.us).
-
-<p>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <button class="btn btn-warning" onclick="ga('send', 'event', 'Buy', 'Azure DevOps');">Buy Now</button> 
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="DSSVLGELMML32">
-        <img alt="Buy Now" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
-</p>
-
-## Open Source Plugins
-----------------------
 These are the default pre-installed widgets that comes free with AnyStatus. The source code is open for modifications and available on [GitHub](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build). C# developers are invited to make changes and submit pull requests to help us maintain a free and open source set of tools for everyone to use.
 
 **DevOps**

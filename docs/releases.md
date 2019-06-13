@@ -13,7 +13,7 @@ These are the changes to each version that has been released on our website and 
 
 Bug Fixes
 
-- [#147](https://github.com/AnyStatus/Support/issues/147) Window size and location not persisted when exiting from system tray.
+- [#147](https://github.com/AnyStatus/Support/issues/147) Window size and location not saved when exiting from system tray.
 
 ### Release 2.6
 ------------------

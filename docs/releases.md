@@ -19,7 +19,7 @@ Improvements
 
 - Added vertical scrolling to left menu.
 
-### Release 2.6
+### Release 2.6.10
 ------------------
 <p class="text-muted">2019-06-11</p>
 

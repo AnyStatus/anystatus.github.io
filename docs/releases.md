@@ -15,6 +15,10 @@ Bug Fixes
 
 - [#147](https://github.com/AnyStatus/Support/issues/147) Window size and location not saved when exiting from system tray.
 
+Improvements
+
+- Added vertical scrolling to left menu.
+
 ### Release 2.6
 ------------------
 <p class="text-muted">2019-06-11</p>

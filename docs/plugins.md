@@ -49,8 +49,8 @@ These are the default pre-installed widgets that comes free with AnyStatus. The 
 
 **Metrics**
 
-- SQL Scalar Query ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/SqlServer/ScalarQuery))
-- Current Weather
+- SQL Server Scalar Query ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/SqlServer/ScalarQuery))
+- Current Weather (Experimental)
 
 **Custom**
 
@@ -62,11 +62,11 @@ These are the default pre-installed widgets that comes free with AnyStatus. The 
 
 - Battery ([Source](https://github.com/AnyStatus/Plugins/blob/master/src/AnyStatus.Plugins/Widgets/Metrics/Battery/BatteryStatusQuery.cs))
 - CPU Usage ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/CPU/Usage))
-- **New** Process CPU Usage
-- **New** RAM Usage
-- **New** Page File Usage
-- **New** Process Count
-- **New** Thread Count
+- **New!** Process CPU Usage
+- **New!** RAM Usage
+- **New!** Page File Usage
+- **New!** Process Count
+- **New!** Thread Count
 - Performance Counter ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/PerformanceCounters))
 - Network Upload Speed ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/NetworkSpeed))
 - Network Download Speed ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/NetworkSpeed))

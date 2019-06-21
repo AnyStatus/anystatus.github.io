@@ -7,8 +7,8 @@ AnyStatus is an extensible Windows application that rolls up metrics and events 
 Check out the [API Documentation](/docs/api) to learn more about AnyStatus extensions and plugins.
 
 ## Azure DevOps Plugins
------------------------
-Quickly view and control the status of your CI/CD Builds, Releases, Deployment Environments and Work Items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). The Azure DevOps extension pack is a separate installation that adds new widgets with additional features that are not available in the free open source widgets. These include, history, progress and estimated time remaining of builds and release. Custom work item queries, and more. Support us by purchasing a license!
+
+View and control the status of your CI/CD Builds, Releases, Deployment Environments and Work Items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). The Azure DevOps extension pack is a separate installation that adds new widgets with additional features that are not available in the free open source widgets. These include, history, progress and estimated time remaining of builds and release. Custom work item queries, and more. Support us by purchasing a license!
 
 For more information and inquiry please [contact us](mailto:info@anystat.us).
 
@@ -22,7 +22,7 @@ For more information and inquiry please [contact us](mailto:info@anystat.us).
 </p>
 
 ## Open Source Plugins
-----------------------
+
 These are the default pre-installed widgets that comes free with AnyStatus. The source code is open for modifications and available on [GitHub](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build). C# developers are invited to make changes and submit pull requests to help us maintain a free and open source set of tools for everyone to use.
 
 **DevOps**
@@ -72,7 +72,6 @@ These are the default pre-installed widgets that comes free with AnyStatus. The 
 - **New!** Thread Count
 - **Coming Soon!** Logical Drive Usage
 - **Coming Soon!** Active TCP Connections
-
 
 **Can't find the plugin you were looking for?**
 Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues) or the [Support Portal](https://anystatus.helprace.com/s1-general/ideas).

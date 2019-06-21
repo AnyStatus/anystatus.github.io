@@ -4,5 +4,4 @@ title: Documentation
 sub_title: Triggers
 ---
 
-This page is under contruction. Please come back soon.
-
+This page is under construction. Please come back soon.

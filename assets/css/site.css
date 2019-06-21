@@ -1,6 +1,5 @@
 body {
     overflow-y: scroll;
-    /* padding-top: 3.5rem; */
 }
 
 .btn.btn-light {
@@ -27,7 +26,7 @@ body {
 @media (min-width: 768px) {
     .navbar {
         min-height: 4rem;
-   }
+    }
 }
 
 #particles-js {
@@ -37,4 +36,19 @@ body {
     width: 100%;
     height: 100%;
     z-index: 1;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 1rem;
+}
+
+.jumbotron h1,
+.jumbotron h2,
+.jumbotron h3 {
+    margin-bottom: 0rem;
 }

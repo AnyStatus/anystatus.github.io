@@ -6,7 +6,6 @@ title: Help And Support
 [//]: # Shape the future of AnyStatus and make it the best tool it can be. Join our community to voice your input and help other users.
 
 ## GitHub
---------------------
 
 We use [GitHub Issues](https://github.com/AnyStatus/Support/issues) to track bugs, features, releases and stuff about AnyStatus.
 
@@ -15,14 +14,12 @@ We use [GitHub Issues](https://github.com/AnyStatus/Support/issues) to track bug
 - [Plugins Repository](https://github.com/AnyStatus/Plugins)
 
 ## Support Portal
------------------
 
 - [Report a bug](https://anystatus.helprace.com/s1-general/problems)
 - [Ask a question](https://anystatus.helprace.com/s1-general/questions)
 - [Request a feature](https://anystatus.helprace.com/s1-general/ideas)
 
 ## Mailing List
----------------
 
 Join our mailing list to receive e-mail notifications about new releases and software updates.
 
@@ -31,7 +28,6 @@ Join our mailing list to receive e-mail notifications about new releases and sof
 <p></p>
 
 ## Social Networks
-------------------
 
 Follow AnyStatus updates on
 
@@ -39,17 +35,14 @@ Follow AnyStatus updates on
 - [Facebook](https://www.facebook.com/AnyStatusApp)
 
 ## Release Notes
-----------------
 
 View the [changelog](/releases) for release notes and roadmap.
 
 ## Email
----------
 
 Whether it’s a sales question, a bug or a feature request you can always contact us by email at [info@anystat.us](mailto:info@anystat.us)
 
 ## Release Pipeline
--------------------
 
 **Builds**
 

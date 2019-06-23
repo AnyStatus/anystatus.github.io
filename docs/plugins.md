@@ -25,7 +25,7 @@ For more information and inquiry please [contact us](mailto:info@anystat.us).
 
 These are the default pre-installed widgets that comes free with AnyStatus. The source code is open for modifications and available on [GitHub](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build). C# developers are invited to make changes and submit pull requests to help us maintain a free and open source set of tools for everyone to use.
 
-**DevOps**
+<p class="lead">DevOps</p>
 
 - TFS Build ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/TFS/Build))
 - Azure DevOps Build ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Microsoft/VSTS/Build))
@@ -36,7 +36,7 @@ These are the default pre-installed widgets that comes free with AnyStatus. The 
 - TeamCity Build ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TeamCity/Build))
 - Coveralls Code Coverage ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/Coveralls))
 
-**Health Checks**
+<p class="lead">Health Checks</p>
 
 - Windows Service ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/WindowsService))
 - HTTP/S ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/HTTP))
@@ -47,34 +47,36 @@ These are the default pre-installed widgets that comes free with AnyStatus. The 
 - Uptime Robot ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/UptimeRobot))
 - Pingdom ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/HealthChecks/Pingdom))
 
-**Metrics**
+<p class="lead">Metrics</p>
 
 - SQL Server Scalar Query ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/SqlServer/ScalarQuery))
 - Current Weather (Experimental)
 
-**Custom**
+<p class="lead">Custom</p>
 
 - C#/VB.NET ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Custom/NET))
 - PowerShell ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Custom/PowerShell))
 - Batch Script ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Custom/BatchFile))
 
-**System Information**
+<p class="lead">System Information</p>
 
 - Battery ([Source](https://github.com/AnyStatus/Plugins/blob/master/src/AnyStatus.Plugins/Widgets/Metrics/Battery/BatteryStatusQuery.cs))
 - CPU Usage ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/CPU/Usage))
 - Performance Counter ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/PerformanceCounters))
 - Network Upload Speed ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/NetworkSpeed))
 - Network Download Speed ([Source](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/Metrics/NetworkSpeed))
-- **New!** Process CPU Usage
-- **New!** RAM Usage
-- **New!** Page File Usage
-- **New!** Process Count
-- **New!** Thread Count
-- **Coming Soon!** Logical Drive Usage
-- **Coming Soon!** Active TCP Connections
+- Process CPU Usage
+- RAM Usage
+- Page File Usage
+- Process Count
+- Thread Count
+- Logical Drive Usage
+- Active TCP Connections
 
-**Can't find the plugin you were looking for?**
+<p class="lead">Can't find the plugin you were looking for?</p>
+
 Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues) or the [Support Portal](https://anystatus.helprace.com/s1-general/ideas).
 
-**Need a custom tailor-made plugin?**
-[Contact us](mailto:info@anystat.us)
+<p class="lead">Need custom tailor-made plugins?</p>
+
+You can develop and use your own plugins or you can [contact us](mailto:info@anystat.us) to build it for you.

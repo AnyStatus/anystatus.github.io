@@ -2,15 +2,15 @@
 layout: page
 title: AnyStatus Blog
 ---
-{% for post in site.posts %}
 <div class="container">
-    <div class="row">
+{% for post in site.posts %}
+    <div class="row mb-2">
         <div class="col-md-12">
             <h2>{{ post.title }}</h2>
             <p class="text-muted">Posted on {{ post.date | date_to_string }} by {{ post.author }}</p>
             <p>{{ post.excerpt }}</p>
-            <p><a href="{{ site.baseurl }}{{ post.url }}">Read More</a></p>
+            <p><a class="btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
         </div>
     </div>
-</div>
 {% endfor %}
+</div>

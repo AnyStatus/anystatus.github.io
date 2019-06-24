@@ -19,8 +19,6 @@ We use [GitHub Issues](https://github.com/AnyStatus/Support/issues) to track bug
 - [Ask a question](https://anystatus.helprace.com/s1-general/questions)
 - [Request a feature](https://anystatus.helprace.com/s1-general/ideas)
 
-<p></p>
-
 ## Social Networks
 
 Follow AnyStatus updates on

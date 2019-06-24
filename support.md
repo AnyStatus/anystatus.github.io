@@ -19,12 +19,6 @@ We use [GitHub Issues](https://github.com/AnyStatus/Support/issues) to track bug
 - [Ask a question](https://anystatus.helprace.com/s1-general/questions)
 - [Request a feature](https://anystatus.helprace.com/s1-general/ideas)
 
-## Mailing List
-
-Join our mailing list to receive e-mail notifications about new releases and software updates.
-
-{% include subscribe-form-inline.html %}
-
 <p></p>
 
 ## Social Networks
@@ -59,3 +53,9 @@ Automated UI Tests [![Testing](https://production.vsrm.visualstudio.com/_apis/pu
 Pre Release (Unstable) [![Staging](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/23)](#)
 
 Release (Stable) [![Production](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/15)](#)
+
+## Mailing List
+
+Join our mailing list to receive e-mail notifications about new releases and software updates.
+
+{% include subscribe-form-inline.html %}

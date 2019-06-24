@@ -3,7 +3,7 @@ layout: contained-page
 title: Support
 ---
 
-[//]: # Shape the future of AnyStatus and make it the best tool it can be. Join our community to voice your input and help other users.
+Shape the future of AnyStatus and make it the best tool it can be. Join our community to voice your input and help other users.
 
 ## GitHub
 

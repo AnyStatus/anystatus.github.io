@@ -7,6 +7,26 @@ AnyStatus is an extensible Windows application that rolls up metrics and events 
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.7
+------------------
+<p class="text-muted">Coming soon</p>
+
+Features
+
+- Default widget name.
+- Widget: Logical Drive Usage widget.
+- Active TCP Connections widget.
+
+Bug Fixes
+
+- [#153](https://github.com/AnyStatus/Support/issues/153) Display correct temperature values on non-english machines.
+
+Changes
+
+- Import and Export settings silently without success messages.
+- Renamed _Ok_ button to _Save_ in Settings window.
+- Renamed Options to Settings in various places.
+
 ### Release 2.6.13
 ------------------
 <p class="text-muted">2019-06-14</p>

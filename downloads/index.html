@@ -19,6 +19,8 @@ title: Downloads
             
             <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
             
+            <p><a href="/docs/releases">Check out what's new</a></p>
+
             <p><b>Stable <span id="ver"></span></b></p>
             <p>
                 <a href="thank-you" class="btn btn-success" role="button" onclick="ga('send', 'event', 'Download', 'Desktop');">
@@ -31,7 +33,7 @@ title: Downloads
             <p>
                 <a href="thank-you?v=latest" class="btn btn-secondary" onclick="ga('send', 'event', 'Download', 'Desktop');">Download</a>
             </p>
-            <p><a href="/docs/releases">Check out what's new</a></p>
+
         </div>
     </div>
 </div>
@@ -61,6 +63,7 @@ title: Downloads
         <div class="col-md-12">
             <h2>Azure DevOps Plugins</h2>
             <p>The Azure DevOps extension pack is a set of plugins designed for viewing and remote controlling your builds, releases, deployment environments and work items on <a href="https://azure.microsoft.com/en-us/services/devops/">Azure DevOps Services</a> from your desktop.</p>
+            <p>The extension pack is free for the preview period. If you use the extension pack regularly, please consider purchasing a license to support our development efforts.</p>
             <p><b>System Requirements</b></p>
             <p>
                 <ul>
@@ -71,6 +74,7 @@ title: Downloads
             <p></p>
             <p>
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                    <a href="thank-you?v=azure-devops" class="btn btn-success" onclick="ga('send', 'event', 'Download', 'Desktop');">Download</a>
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="DSSVLGELMML32">
                     <button class="btn btn-warning" onclick="ga('send', 'event', 'Buy', 'Azure DevOps');">Buy Now</button>
@@ -87,5 +91,7 @@ title: Downloads
             function () { document.getElementById("ver").innerHTML = version; });
         $.getScript("https://download.anystat.us/desktop/latest-version.js",
             function () { document.getElementById("latest-ver").innerHTML = version; });
+        $.getScript("https://download.anystat.us/azure-devops/version.js",
+            function () { document.getElementById("azure-devops-version").innerHTML = version; });
     }
 </script>

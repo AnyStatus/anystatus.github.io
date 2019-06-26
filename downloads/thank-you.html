@@ -5,6 +5,17 @@ title: Downloads
 <script type="text/javascript">
     window.onload = function () {
         var url = '';
+
+        if (window.location.href.indexOf('?v=azure-devops') > -1) {
+            url = 'https://download.anystat.us/azure-devops/version.js';
+            $.getScript(url,
+                function () {
+                    window.location.href = 'https://download.anystat.us/azure-devops/AnyStatus.AzureDevOps.Plugins-' + version + '.msi';
+                });
+
+            return;
+        }
+
         if (window.location.href.indexOf('?v=latest') > -1) {
             url = 'https://download.anystat.us/desktop/latest-version.js';
         } else {

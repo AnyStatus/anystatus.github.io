@@ -8,7 +8,7 @@ Check out the [API Documentation](/docs/api) to learn more about AnyStatus exten
 
 ## Azure DevOps Plugins
 
-View and control the status of your builds, releases, deployment environments and work items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). The Azure DevOps extension pack is a separate installation that adds new widgets with additional features that are not available in the free open source widgets. These include, history, progress and estimated time remaining, custom work item queries, and more. Download and use free for the preview period.
+View and control the status of your builds, releases, deployment environments and work items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). The Azure DevOps extension pack is a separate installation that adds new widgets with additional features that are not available in the open-source widgets. These include, history, progress, estimated time remaining, custom work item queries, and more. The extension pack is free for the preview period.
 
 For more information and inquiry please [contact us](mailto:info@anystat.us).
 

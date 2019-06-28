@@ -8,12 +8,13 @@ Check out the [API Documentation](/docs/api) to learn more about AnyStatus exten
 
 ## Azure DevOps Plugins
 
-View and control the status of your CI/CD Builds, Releases, Deployment Environments and Work Items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). The Azure DevOps extension pack is a separate installation that adds new widgets with additional features that are not available in the free open source widgets. These include, history, progress and estimated time remaining of builds and release. Custom work item queries, and more. Support us by purchasing a license!
+View and control the status of your builds, releases, deployment environments and work items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). The Azure DevOps extension pack is a separate installation that adds new widgets with additional features that are not available in the open-source widgets. These include, history, progress, estimated time remaining, custom work item queries, and more. The extension pack is free for the preview period.
 
 For more information and inquiry please [contact us](mailto:info@anystat.us).
 
 <p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <a href="/downloads/thank-you?v=azure-devops" class="btn btn-success" onclick="ga('send', 'event', 'Download', 'Azure DevOps');">Download</a>
         <button class="btn btn-warning" onclick="ga('send', 'event', 'Buy', 'Azure DevOps');">Buy Now</button> 
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="DSSVLGELMML32">

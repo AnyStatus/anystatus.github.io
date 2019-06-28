@@ -14,12 +14,13 @@ For more information and inquiry please [contact us](mailto:info@anystat.us).
 
 <p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <a href="/downloads/thank-you?v=azure-devops" class="btn btn-success" onclick="ga('send', 'event', 'Download', 'Azure DevOps');">Download</a>
         <button class="btn btn-warning" onclick="ga('send', 'event', 'Buy', 'Azure DevOps');">Buy Now</button> 
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="DSSVLGELMML32">
         <img alt="Buy Now" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        <a href="/downloads/thank-you?v=azure-devops" class="btn btn-secondary" onclick="ga('send', 'event', 'Download', 'Azure DevOps');">Download</a>
     </form>
+    <p class="mt-2"><small class="text-muted">* Download is free for the preview period.</small></p>
 </p>
 
 ## Open Source Plugins

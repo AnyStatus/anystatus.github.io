@@ -4,82 +4,99 @@ title: Downloads
 ---
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-6">
             <h2>AnyStatus Desktop</h2>
-            <p>AnyStatus is a lightweight desktop application designed to bring you metrics and events from various sources.</p>
-            <p>To install the application, click the download button, then start the downloaded file and follow on-screen instructions.</p>
-
-            <p><b>System Requirements</b></p>
+            <p>AnyStatus is a lightweight desktop application designed to bring you metrics and events from various
+                sources.</p>
+            <p><img class="img-fluid" src="/assets/images/screenshots/AnyStatus-2.6.13.png" /></p>
+            <p>To install the application, click the download button, then start the downloaded file and follow
+                on-screen instructions.</p>
+            <p class="lead">System Requirements</p>
             <p>
                 <ul>
                     <li>Windows 7 or above.</li>
                     <li>.NET Framework 4.6 or above.</li>
                 </ul>
             </p>
-            
             <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
-            
-            <p><a href="/docs/releases">Check out what's new</a></p>
-
-            <p><b>Stable <span id="ver"></span></b></p>
+            <p>Check out what's new in the <a href="/docs/releases">Release Notes</a>.</p>
+        </div>
+        <div class="col-md-6">
+            <h4>Stable</h4>
+            <p>The stable version contains the latest official release of AnyStatus.</p>
             <p>
-                <a href="thank-you" class="btn btn-success" role="button" onclick="ga('send', 'event', 'Download', 'Desktop');">
-                    Download
+                <a href="thank-you" class="btn btn-success" role="button"
+                    onclick="ga('send', 'event', 'Download', 'Desktop');">
+                    Download AnyStatus <span id="ver"></span>
                 </a>
             </p>
-            <p><b>Unstable <span id="latest-ver"></span></b></p>
+            <h4>Unstable</h4>
             <p>This is where all the development happens. Use only if you need to test the
                 latest features or performance improvements. This is going to be the next AnyStatus Desktop release.</p>
             <p>
-                <a href="thank-you?v=latest" class="btn btn-secondary" onclick="ga('send', 'event', 'Download', 'Desktop');">Download</a>
+                <a href="thank-you?v=latest" class="btn btn-secondary"
+                    onclick="ga('send', 'event', 'Download', 'Desktop');">Download AnyStatus <span
+                        id="latest-ver"></span></a>
             </p>
-
         </div>
     </div>
+    <hr />
 </div>
 
 <div class="container">
     <div class="row">
         <div class="col-md-12">
             <h2>AnyStatus For Visual Studio</h2>
-            <p>Visual Studio extension.</p>
+            <p>AnyStatus extension for Visual Studio brings together metrics and events from various source into Visual
+                Studio IDE.</p>
             <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
-            <p><b>System Requirements</b></p>
+            <p class="lead">System Requirements</p>
             <p>
                 <ul>
                     <li>Windows 7 or above.</li>
+                    <li>.NET Framework 4.6 or above.</li>
                     <li>Visual Studio 2015/2017/2019 (Community, Pro or Enterprise edition).</li>
                 </ul>
             </p>
             <p><a class="btn btn-primary" href="https://marketplace.visualstudio.com/items?itemName=AnyStatus.AnyStatus"
-                    role="button" onclick="ga('send', 'event', 'Download', 'Visual Studio');">Download From Visual Studio Marketplace</a></p>
-            <p><a href="/docs/releases">Check out what's new</a></p>
+                    role="button" onclick="ga('send', 'event', 'Download', 'Visual Studio');">Download From Visual
+                    Studio Marketplace</a></p>
+            <p>Check out what's new in the <a href="/docs/releases">Release Notes</a>.</p>
         </div>
     </div>
+    <hr />
 </div>
 
 <div class="container">
     <div class="row">
         <div class="col-md-12">
             <h2>Azure DevOps Plugins</h2>
-            <p>The Azure DevOps extension pack is a set of plugins designed for viewing and remote controlling your builds, releases, deployment environments and work items on <a href="https://azure.microsoft.com/en-us/services/devops/">Azure DevOps Services</a> from your desktop.</p>
-            <p>The extension pack is free for the preview period. If you use the extension pack regularly, please consider purchasing a license to support our development efforts.</p>
-            <p><b>System Requirements</b></p>
+            <p>The Azure DevOps extension pack is a set of plugins designed for viewing and remote controlling your
+                builds, releases, deployment environments and work items on <a
+                    href="https://azure.microsoft.com/en-us/services/devops/">Azure DevOps Services</a> from your
+                desktop.</p>
+            <p>The extension pack is free for the preview period. If you use the extension pack regularly, please
+                consider purchasing a license to support our development efforts.</p>
+            <p class="lead">System Requirements</p>
             <p>
                 <ul>
                     <li>Windows 7 or above.</li>
+                    <li>.NET Framework 4.6 or above.</li>
                     <li>AnyStatus Desktop 2.4 or above.</li>
                 </ul>
             </p>
             <p></p>
             <p>
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                    <a href="thank-you?v=azure-devops" class="btn btn-success" onclick="ga('send', 'event', 'Download', 'Azure DevOps');">Download</a>
+                    <button class="btn btn-warning" onclick="ga('send', 'event', 'Buy', 'Azure DevOps');">Buy
+                        Now</button>
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="DSSVLGELMML32">
-                    <button class="btn btn-warning" onclick="ga('send', 'event', 'Buy', 'Azure DevOps');">Buy Now</button>
                     <img alt="Buy Now" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    <a href="/downloads/thank-you?v=azure-devops" class="btn btn-secondary"
+                        onclick="ga('send', 'event', 'Download', 'Azure DevOps');">Download</a>
                 </form>
+                <p class="mt-2"><small class="text-muted">* Download is free for the preview period.</small></p>
             </p>
         </div>
     </div>

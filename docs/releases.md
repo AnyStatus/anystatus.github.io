@@ -19,7 +19,7 @@ Features
 
 Bug Fixes
 
-- [#153](https://github.com/AnyStatus/Support/issues/153) Display correct temperature values on non-english machines.
+- [#153](https://github.com/AnyStatus/Support/issues/153) Display correct temperature values on non-english machines in Weather widget.
 
 Changes
 

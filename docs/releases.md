@@ -14,12 +14,12 @@ These are the changes to each version that has been released on our website and 
 Features
 
 - Default widget name.
-- Widget: Logical Drive Usage widget.
+- Logical Drive Usage widget.
 - Active TCP Connections widget.
 
 Bug Fixes
 
-- [#153](https://github.com/AnyStatus/Support/issues/153) Display correct temperature values on non-english machines.
+- [#153](https://github.com/AnyStatus/Support/issues/153) Display correct temperature values on non-english machines in Weather widget.
 
 Changes
 

@@ -26,8 +26,8 @@ Bug Fixes
 
 Changes
 
-- Removed blue window border.
-- Minor dark theme colors changes.
+- Removed window border from dark and light themes.
+- Minor dark theme color changes.
 - Import and Export settings silently without success messages.
 - Renamed _Ok_ button to _Save_ in Settings window.
 - Renamed Options to Settings in various places.

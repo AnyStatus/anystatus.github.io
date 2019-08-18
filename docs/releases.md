@@ -13,7 +13,8 @@ These are the changes to each version that has been released on our website and 
 
 Features
 
-- Azure DevOps plugins are now shipped with the app. Please uninstall Azure DevOps Plugins before installing AnyStatus v2.7
+- Azure DevOps plugins are now shipped with the app.
+  - Please uninstall Azure DevOps Plugins before installing AnyStatus v2.7
 - Logical Drive Usage widget.
 - Active TCP Connections widget.
 - Redis plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusRedis))

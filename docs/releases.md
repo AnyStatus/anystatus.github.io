@@ -29,6 +29,7 @@ Bug Fixes
 Changes
 
 - Minor user interface changes.
+  - Changed Add Widget toolbar icon.
   - Removed window border.
   - Changed widgets background and mouse-over colors.
   - Changed toolbar and left menu colors.

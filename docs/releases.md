@@ -13,11 +13,11 @@ These are the changes to each version that has been released on our website and 
 
 Features
 
-- Default widget name.
 - Logical Drive Usage widget.
 - Active TCP Connections widget.
 - Redis plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusRedis))
 - Elasticsearch plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusElasticsearch))
+- Default widget name when adding widgets.
 
 Bug Fixes
 

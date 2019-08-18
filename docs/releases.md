@@ -22,9 +22,12 @@ Features
 Bug Fixes
 
 - [#153](https://github.com/AnyStatus/Support/issues/153) Display correct temperature values on non-english machines in Weather widget.
+- Fixed left menu background in Light Theme.
 
 Changes
 
+- Removed blue window border.
+- Minor dark theme colors changes.
 - Import and Export settings silently without success messages.
 - Renamed _Ok_ button to _Save_ in Settings window.
 - Renamed Options to Settings in various places.

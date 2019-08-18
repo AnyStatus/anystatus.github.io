@@ -16,6 +16,8 @@ Features
 - Default widget name.
 - Logical Drive Usage widget.
 - Active TCP Connections widget.
+- Redis plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusRedis))
+- Elasticsearch plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusElasticsearch))
 
 Bug Fixes
 

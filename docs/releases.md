@@ -13,6 +13,8 @@ These are the changes to each version that has been released on our website and 
 
 Features
 
+- Azure DevOps plugins are now shipped with the app.
+  - Please uninstall the previous Azure DevOps Plugins installation before installing AnyStatus v2.7
 - Logical Drive Usage widget.
 - Active TCP Connections widget.
 - Redis plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusRedis))
@@ -22,13 +24,13 @@ Features
 Bug Fixes
 
 - [#153](https://github.com/AnyStatus/Support/issues/153) Display correct temperature values on non-english machines in Weather widget.
-- Fixed left menu background in Light Theme.
+- Fixed left menu background color in Light Theme.
 
 Changes
 
-- Removed window border from dark and light themes.
 - Minor dark theme color changes.
-- Import and Export settings silently without success messages.
+- Removed window border from dark and light themes.
+- Removed success messages when importing and exporting settings.
 - Renamed _Ok_ button to _Save_ in Settings window.
 - Renamed Options to Settings in various places.
 

@@ -28,8 +28,10 @@ Bug Fixes
 
 Changes
 
-- Minor dark theme color changes.
-- Removed window border from dark and light themes.
+- Minor user interface changes.
+  - Removed window border.
+  - Changed widgets background and mouse-over colors.
+  - Changed toolbar and left menu colors.
 - Removed success messages when importing and exporting settings.
 - Renamed _Ok_ button to _Save_ in Settings window.
 - Renamed Options to Settings in various places.

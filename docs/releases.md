@@ -21,6 +21,7 @@ Features
 - Elasticsearch plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusElasticsearch))
 - Set default widget name when adding new widgets.
 - Added sparkline charts to Upload and Download widgets.
+- [#165](https://github.com/AnyStatus/Support/issues/165) Configuration settings encryption is now optional. You can now disable or enable encryption in the settings window. Encryption is enabled by default.
 
 Bug Fixes
 

@@ -19,7 +19,8 @@ Features
 - Active TCP Connections widget.
 - Redis plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusRedis))
 - Elasticsearch plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusElasticsearch))
-- Default widget name when adding widgets.
+- Set default widget name when adding new widgets.
+- Added sparkline charts to Upload and Download widgets.
 
 Bug Fixes
 
@@ -36,6 +37,10 @@ Changes
 - Removed success messages when importing and exporting settings.
 - Renamed _Ok_ button to _Save_ in Settings window.
 - Renamed Options to Settings in various places.
+
+API Changes
+
+- "Symbol" property of [Metric](https://github.com/AnyStatus/API/blob/master/src/AnyStatus.API/Widgets/Types/Metric.cs) is now obsolete.
 
 ### Release 2.6.13
 ------------------

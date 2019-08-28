@@ -9,25 +9,25 @@ These are the changes to each version that has been released on our website and 
 
 ### Release 2.7
 ------------------
-<p class="text-muted">Coming soon</p>
+<p class="text-muted">2019-08-28</p>
 
 Features
 
-- Azure DevOps plugins are now shipped with the app. Please uninstall Azure DevOps Plugins installation before installing AnyStatus v2.7
-  - New Widgets
-    - Pull Requests Widget
-    - Work Items Query Widget
+- Azure DevOps plugins are now shipped out-of-the-box. Please uninstall Azure DevOps Plugins installation before installing AnyStatus v2.7
+  - New Widgets:
+    - Pull Requests Widget.
+    - Work Items Query Widget.
 - Logical Drive Usage widget.
 - Active TCP Connections widget.
-- Redis plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusRedis))
-- Elasticsearch plugins by [Fatih Boy](http://www.enterprisecoding.com/) ([Source](https://github.com/fatihboy/AnyStatusElasticsearch))
 - Set default widget name when adding new widgets.
 - Added sparkline charts to Upload and Download widgets.
+- Added link to Feedback page from left menu.
 - [#165](https://github.com/AnyStatus/Support/issues/165) Configuration settings encryption is now optional. You can now disable or enable encryption in the settings window. Encryption is enabled by default.
 
 Bug Fixes
 
 - [#153](https://github.com/AnyStatus/Support/issues/153) Display correct temperature values on non-english machines in Weather widget.
+- [#158](https://github.com/AnyStatus/Support/issues/158) Sparkline chart does not re-scale.
 - Fixed left menu background color in Light Theme.
 
 Changes

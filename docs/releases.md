@@ -14,7 +14,7 @@ These are the changes to each version that has been released on our website and 
 Features
 
 - Azure DevOps plugins are now shipped out-of-the-box. Please uninstall Azure DevOps Plugins installation before installing AnyStatus v2.7
-  - New Widgets:
+  - New Widgets
     - Pull Requests Widget.
     - Work Items Query Widget.
 - Logical Drive Usage widget.

@@ -8,11 +8,11 @@ author: Alon Amsalem
 
 Still using email notifications from your TFS server? Download AnyStatus and start getting build notifications directly to your desktop.
 
-#### Overview
+## Overview
 
 AnyStatus is a lightweight desktop notifications app designed to show statuses of various CI/CD tools such as Team Foundation Server, Azure DevOps, Jenkins, TeamCity and AppVeyor, all in a single dashboard on your desktop. These include, builds, releases, jobs, deployment environments, work items and more. In addition to CI/CD pipelines, AnyStatus provides basic monitoring capabilities to monitor the health state and availability of deployment environments. AnyStatus is available as desktop application for Windows and Visual Studio extension. [Learn more](/)
 
-#### Get TFS build status notifications
+## Get TFS build status notifications
 
 To get build status notifications from TFS, download and install AnyStatus from our [Downloads](/downloads) page.
 Launch AnyStatus from the Windows Start Menu and use the <i class="fas fa-plus"></i> button to add a new widget to the dashboard.
@@ -33,10 +33,10 @@ AnyStatus will start monitoring the newly created widget immediately.
 Any errors or warnings that may occur will be logged in the Activity Log.
 When the status of your TFS build change, a desktop notification will popup showing the new build status.
 
-#### Queue a new build
+## Queue a new build
 
 Once the widget has been created, you can queue new builds using the *Context Menu > All Tasks > Start* option.
 
-#### Reconcile your workspace after successful builds
+## Reconcile your workspace after successful builds
 
 You can automatically reconcile your workspace after a successful build using [Triggers](/docs/triggers), a feature that enables you to run custom commands, such as [tf.exe reconcile](), when statuses change.

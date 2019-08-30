@@ -19,10 +19,9 @@ Features
     - Work Items Query Widget.
 - Logical Drive Usage widget.
 - Active TCP Connections widget.
-- Set default widget name when adding new widgets.
-- Added sparkline charts to Upload and Download widgets.
-- Added link to Feedback page from left menu.
-- [#165](https://github.com/AnyStatus/Support/issues/165) Configuration settings encryption is now optional. You can now disable or enable encryption in the settings window. Encryption is enabled by default.
+
+- Added a link to Feedback page from left menu.
+- [#165](https://github.com/AnyStatus/Support/issues/165) Configuration settings encryption is now optional. You can now enable or disable encryption in the settings window. Encryption is enabled by default.
 
 Bug Fixes
 
@@ -32,6 +31,8 @@ Bug Fixes
 
 Changes
 
+- Added sparkline chart to Upload and Download widgets.
+- Use default widget name when adding new widgets.
 - Minor user interface changes.
   - Changed Add Widget toolbar icon.
   - Removed window border.

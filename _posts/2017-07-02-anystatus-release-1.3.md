@@ -13,7 +13,6 @@ The open source projet is licensed under AGPL open source license, if that is an
 This release also includes a new SQL Query plugin and other features and improvements.
 
 ## In this post
----------------
 
 - [AnyStatus API and Plugins open source libraries](#anystatus-api-and-plugins-libraries)
 - [AnyStatus plugins library](#anystatus-plugins-library)
@@ -23,7 +22,6 @@ This release also includes a new SQL Query plugin and other features and improve
 - [Other Changes](#other-changes)
 
 ## AnyStatus API and Plugins Libraries
-----------------------------
 
 AnyStatus API and Plugins libraries are now open source and can viewed by users who wish to know more about certain plugins.
 
@@ -37,9 +35,7 @@ Plugins and extensions are automatically discovered at startup. AnyStatus scans 
 
 Developers are invited to add new plugins to the library or suggest improvements and bug fixes by creating pull requests.
 
-
 ## New "Add new item" window
-----------------------------
 
 The "Add new item" window have slightly changed to make it more clean and simple.
 The monitors list is now showing one group at a time and the menu look and colors have changed too, I hope to improve color contrast in next releases.
@@ -47,9 +43,7 @@ Your feedback about colors and usability is highly appreciated.
 
 ![Add new item](/assets/posts/2017-07-02-anystatus-release-1.3/add-new-item.png)
 
-
 ## SQL Query Plugin
--------------------
 
 The SQL Query plugin enables you to enrich the dashboard with queried data from any external Microsoft SQL Server database.
 
@@ -57,27 +51,21 @@ The SQL Query plugin enables you to enrich the dashboard with queried data from 
 
 ![SQL Query](/assets/posts/2017-07-02-anystatus-release-1.3/sql-query-plugin.png)
 
-
 ## Check for updates
---------------------
 
 Another new feature was added which checks for new versions during startup. In this version the new version details are shown in the activity log and
 in future versions, AnyStatus will show a desktop notification or notify you from within Visual Studio.
 The feature can be enabled or disabled in the options window.
 
 ## Bypass Monitors
-------------------
 
 You can now bypass monitors by specifying an interval of 0. When monitors are bypassed, AnyStatus checks for the status once and every time you click the "Refresh" button.
 
 ## Other Changes
----------------------
 
 In this release, I have simplified the desktop notification messages text and I am always looking for ways to improve it, feel free to suggest changes.
 I have also removed a few  unused assemblies to reduce the installation package size and improved assembly scanning to reduce startup time.
 
-
 ## Summary
-----------
 
 That’s it for now. I hope you enjoy the latest features and imrovements. Feel free to leave a comment and let me know what you think!

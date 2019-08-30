@@ -13,7 +13,7 @@ Please note that this is an early release. It is mostly complete but there are b
 
 AnyStatus did not change much from the user perspective but there are some significant improvements at the core of AnyStatus that improve the overall performance, stability and memory utilization.
 
-**What's New**
+## What's New
 
 - AnyStatus API 2.0
 	- Improved async support
@@ -22,7 +22,7 @@ AnyStatus did not change much from the user perspective but there are some signi
 - Minor dashboard UI changes
 - Activity log changes
 
-**System Requirements**
+## System Requirements
 
 - Microsoft .NET Framework 4.6 or above
 

@@ -14,7 +14,6 @@ Both libraries are hosted on [GitHub](https://github.com/anystatus) and publishe
 Developers are invited to create pull requests, suggest new ideas, report bugs and contribute to the documentation.
 
 ## How it works
----------------
 
 <div class="row">
   <div class="col-md-9">
@@ -31,13 +30,12 @@ Developers are invited to create pull requests, suggest new ideas, report bugs a
 
 <br/>
 
-### Plugin Example
-------------------
+### Example
 
-A class that defines the plugin.
+A widget class that defines the plugin.
 
 {% gist d37e580788eaec8d62858f5bb0cbd246 %}
 
-A class that handles monitor health checks.
+A class that handles the health checks.
 
 {% gist 541ea7571b46f7404818f8c3a8eecf89 %}

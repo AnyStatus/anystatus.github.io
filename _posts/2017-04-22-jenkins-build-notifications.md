@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Jenkins Build Notifications
+title:  Monitor Jenkins jobs using AnyStatus
 date:   2017-04-22 11:00:00
 author: AlonAm
 ---
+
+AnyStatus is a lightweight desktop application for Windows that brings together metrics and events from various sources. Examples include CI/CD processes, pull requests, work items, health checks, operating system metrics, and more. Think of it as CCTray on steroids. It's also available as a Visual Studio plugin.
 
 AnyStatus enables developers to monitor and trigger [Jenkins CI](https://jenkins.io/) jobs and get notified about status changes.
 

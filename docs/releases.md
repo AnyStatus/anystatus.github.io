@@ -7,6 +7,20 @@ AnyStatus is an extensible Windows application that rolls up metrics and events 
 
 These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.8
+------------------
+<p class="text-muted">2019-09-06</p>
+
+Features
+
+- [#160](https://github.com/AnyStatus/Support/issues/160) Elasticsearch plugins by [Fatih Boy](http://www.enterprisecoding.com).
+- [#161](https://github.com/AnyStatus/Support/issues/161) Redis plugins by [Fatih Boy](http://www.enterprisecoding.com).
+- [#170](https://github.com/AnyStatus/Support/issues/170) Kubernetes plugins by [Fatih Boy](http://www.enterprisecoding.com).
+
+Bug Fixes
+
+- [#169](https://github.com/AnyStatus/Support/issues/169) Fixed parent widgets folder summary alignment.
+
 ### Release 2.7
 ------------------
 <p class="text-muted">2019-08-28</p>

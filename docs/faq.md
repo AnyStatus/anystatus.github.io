@@ -9,7 +9,7 @@ If you don't see an answer to your question here, check our [previously reported
 
 #### Is AnyStatus free?
 
-Yes, AnyStatus is free for private and commercial use.
+AnyStatus is free for the beta period.
 
 <div class="pt-2"></div>
 

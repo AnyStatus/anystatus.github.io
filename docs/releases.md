@@ -3,9 +3,10 @@ layout: docs
 title: Release Notes
 redirect_from: ["changelog", "/docs/changelog", "/docs/release-notes"]
 ---
-AnyStatus is an extensible Windows application that rolls up metrics and events from various sources into one place.
+AnyStatus is an extensible Windows application that brings together metrics and events from various sources.
+Examples include, CI/CD pipelines, DevOps Tools, Health Checks, Network, Databases, Operating System Metrics, Custom Plugins, and more.
 
-These are the changes to each version that has been released on our website and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
+These are the changes to each version that has been released on our [Website](/downloads), [Microsoft Store](https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb), and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
 ### Release 2.8
 ------------------

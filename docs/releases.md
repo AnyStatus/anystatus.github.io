@@ -14,9 +14,9 @@ These are the changes to each version that has been released on our [Website](/d
 
 Features
 
-- [#160](https://github.com/AnyStatus/Support/issues/160) Elasticsearch plugins by [Fatih Boy](http://www.enterprisecoding.com).
-- [#161](https://github.com/AnyStatus/Support/issues/161) Redis plugins by [Fatih Boy](http://www.enterprisecoding.com).
-- [#170](https://github.com/AnyStatus/Support/issues/170) Kubernetes plugins by [Fatih Boy](http://www.enterprisecoding.com).
+- [#160](https://github.com/AnyStatus/Support/issues/160) Elasticsearch plugins by Fatih Boy.
+- [#161](https://github.com/AnyStatus/Support/issues/161) Redis plugins by Fatih Boy.
+- [#170](https://github.com/AnyStatus/Support/issues/170) Kubernetes plugins by Fatih Boy.
 
 Bug Fixes
 

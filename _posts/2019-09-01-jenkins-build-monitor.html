@@ -11,30 +11,37 @@ description: AnyStatus enables viewing the status and progress of jobs on one or
 <div class="row">
     <div class="col-md-7">
         <h2>Overview</h2>
-        <p>AnyStatus is a lightweight desktop application that brings together metrics and events from various sources into one place.
-           Examples include Jenkins, Azure DevOps, AppVeyor, TeamCity, GitHub, Health Checks, OS Metrics, Network, Databases, and more.
+        <p>AnyStatus is a lightweight desktop application for Windows that brings together metrics and events from various sources into one place.
+           Examples include Jenkins, Azure DevOps, AppVeyor, TeamCity, GitHub, Health Checks, Operating System Metrics, Network, Databases, and more.
            It's also available as Visual Studio extension.</p>
 
-        <h2>Jenkins Build Monitor</h2>
-        <p>Using AnyStatus, you can view the status and progress of jobs on one or more Jenkins servers.
-           It displays an updated view automatically every few seconds using Jenkins REST API. You can also trigger jobs remotely.</p>
+        <h2>Jenkins Jobs</h2>
+        <p>Using AnyStatus you can monitor and visualize the status and progress of jobs on one or more Jenkins servers.
+           An updated status is displayed automatically every few seconds using Jenkins REST API.
+           You can also trigger and start jobs directly from the dashboard.</p>
 
         <h2>Jenkins Views</h2>
         <p>AnyStatus supports Jenkins Views which is a list of jobs that you can configure on your Jenkins server.
-           Whenever a job is added or removed from the view, AnyStatus will automatically add or remove it from the dashboard.</p>
+           When a job is added or removed from the view, AnyStatus automatically updates the dashboard.</p>
 
         <h2>Desktop Notifications</h2>
-        <p>By default, AnyStatus will show a desktop notification whenever a job is triggered, complete or fail.
-            Or, you can customize notifications using AnyStatus Triggers to show notifications only in certain conditions such as when a job fails.</p>
+        <p>By default, AnyStatus shows desktop notifications when jobs are triggered, complete or fail.
+           Alternatively, you can customize desktop notifications using AnyStatus Triggers to display notifications only for specific statuses.</p>
         
         <h2>Getting Started</h2>
         <p>Download and install AnyStatus from our <a href="https://www.anystat.us/downloads">Website</a>, <a
                 href="https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb">Microsoft Store</a> or <a
                 href="https://marketplace.visualstudio.com/items?itemName=anystatus.AnyStatus">Visual Studio
                 Marketplace</a>.</p>
-                <p>To learn more about getting started with AnyStatus, check out the <a href="/docs/getting-started">Getting Started</a> guide.</p>
-        <p>Add a new widget by clicking the <i>Add Widget</i> button on the toolbar menu.
-           Select the DevOps category and then Jenkins Job. Copy and paste the Jenkins Job URL address to the URL field and click Save.</p>
+        <p>To learn more about getting started with AnyStatus, check out the <a href="/docs/getting-started">Getting Started</a> guide.</p>
+        <p>Add a new widget to the dashboard by clicking the <i>Add Widget</i> button on the toolbar menu.
+           Select the Jenkins category and then Jenkins Job. Copy and paste the Jenkins Job URL address to the URL field and click Save.</p>
+
+        <h2>Contribute</h2>
+        <p>The Jenkins plugins source code is hosted on <a href="https://github.com/anystatus/jenkins">GitHub</a>.
+            It is built by <a href="https://ci.appveyor.com/project/AnyStatus/jenkins">AppVeyor</a> and deployed to <a href="https://www.nuget.org/packages/AnyStatus.Plugins.Jenkins/">NuGet</a>.
+            You are welcome to make changes and create new pull requests.</p>
+        <p>To learn more about developing plugins for AnyStatus please refer to the <a href="/docs/api/">API Documentation</a>.</p>
     </div>
     <div class="col-md-5">
         <img src="/assets/posts/2019-09-01-jenkins-build-monitor/anystatus-jenkins.png" />

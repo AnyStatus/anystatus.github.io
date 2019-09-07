@@ -30,7 +30,7 @@ You can find more information, including their GitHub repositories, in the links
 
 [#161](https://github.com/AnyStatus/Support/issues/161) Redis Widgets
 
-- Total Commands Processes
+- Total Commands Processed
 - Keyspace Key Count
 - Used Memory
 - Total Connections Received

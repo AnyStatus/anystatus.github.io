@@ -2,7 +2,8 @@
 layout: post
 title: AnyStatus Release 2.7
 author: Alon Amsalem
-date:   2019-08-29 23:00
+date:   2019-08-29 15:00
+redirect_from: "/2019/08/29/release-2.7.html"
 tags: [New Releases]
 ---
 

@@ -10,8 +10,8 @@ AnyStatus 2.8 has been released. This release adds new widgets for Elasticsearch
 
 ## What's New
 
-AnyStatus 2.8 adds 32 new powerful open-source widgets for Elasticsearch, Redis, and Kubernetes, developed and maintained by [Fatih Boy](https://github.com/fatihboy).
-You can find more information, including their repositories, in the links below. In addition, the Jenkins widgets have been moved to a new separate [package](https://www.nuget.org/packages/AnyStatus.Plugins.Jenkins) and [repository](https://github.com/AnyStatus/Jenkins). To learn more about developing plugins for AnyStatus, please refer to the [API Documentation](/docs/api/).
+AnyStatus 2.8 adds 32 new powerful open-source widgets for [Elasticsearch](https://www.elastic.co/), [Redis](https://redis.io/), and [Kubernetes](https://kubernetes.io/), developed and maintained by [Fatih Boy](https://github.com/fatihboy/).
+You can find more information, including their GitHub repositories, in the links below. Also, the Jenkins widgets have been moved to a new separate [package](https://www.nuget.org/packages/AnyStatus.Plugins.Jenkins) and [repository](https://github.com/AnyStatus/Jenkins). To learn more about developing plugins for AnyStatus, please refer to the [API Documentation](/docs/api/).
 
 [#160](https://github.com/AnyStatus/Support/issues/160) Elasticsearch Widgets
 

@@ -12,7 +12,7 @@ AnyStatus 2.8 has been released! The latest release includes new widgets, bug fi
 
 AnyStatus 2.8 adds 32 new powerful open-source widgets for [Elasticsearch](https://www.elastic.co/), [Redis](https://redis.io/), and [Kubernetes](https://kubernetes.io/), developed and maintained by [Fatih Boy](https://github.com/fatihboy/).
 You can find more information, including their GitHub repositories, in the links below.
-Also, widgets categories have changed. The DevOps category has been canceled, instead, there are separate categories for each service such as AppVeyor, Jenkins, etc. And, Jenkins widgets have been migrated to a new [NuGet package](https://www.nuget.org/packages/AnyStatus.Plugins.Jenkins) and [GitHub repository](https://github.com/AnyStatus/Jenkins).
+Also, the widgets categories have changed. We've replaced the DevOps category with a new section for each service such as AppVeyor, Jenkins, Azure DevOps, etc. And, Jenkins widgets have been migrated to a new [NuGet package](https://www.nuget.org/packages/AnyStatus.Plugins.Jenkins) and [GitHub repository](https://github.com/AnyStatus/Jenkins).
 
 [#160](https://github.com/AnyStatus/Support/issues/160) Elasticsearch Widgets
 

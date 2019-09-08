@@ -6,12 +6,13 @@ date:   2019-09-07 16:00
 tags: [New Releases]
 ---
 
-AnyStatus 2.8 has been released. This release adds new widgets for Elasticsearch, Redis and Kubernetes. Download is available from our [Website](https://www.anystat.us/downloads), [Microsoft Store](https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb), and [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anystatus.AnyStatus).
+AnyStatus 2.8 has been released! The latest release includes new widgets, bug fixes and UI changes. Download is available from our [Website](https://www.anystat.us/downloads), [Microsoft Store](https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb), and [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anystatus.AnyStatus).
 
 ## What's New
 
 AnyStatus 2.8 adds 32 new powerful open-source widgets for [Elasticsearch](https://www.elastic.co/), [Redis](https://redis.io/), and [Kubernetes](https://kubernetes.io/), developed and maintained by [Fatih Boy](https://github.com/fatihboy/).
-You can find more information, including their GitHub repositories, in the links below. Also, the Jenkins widgets have been moved to a new separate [package](https://www.nuget.org/packages/AnyStatus.Plugins.Jenkins) and [repository](https://github.com/AnyStatus/Jenkins). To learn more about developing plugins for AnyStatus, please refer to the [API Documentation](/docs/api/).
+You can find more information, including their GitHub repositories in the links below.
+In addition, widgets categories have changed. The DevOps category has been canceled, instead there are separate categories for each service such as AppVeyor, Jenkins, etc. Also, Jenkins widgets have been migrated to a new [package](https://www.nuget.org/packages/AnyStatus.Plugins.Jenkins) and [repository](https://github.com/AnyStatus/Jenkins).
 
 [#160](https://github.com/AnyStatus/Support/issues/160) Elasticsearch Widgets
 

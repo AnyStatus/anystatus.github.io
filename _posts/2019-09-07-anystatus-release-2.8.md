@@ -6,7 +6,7 @@ date:   2019-09-07 16:00
 tags: [New Releases]
 ---
 
-AnyStatus 2.8 has been released! The latest release includes new widgets, bug fixes and UI changes. Download is available from our [Website](https://www.anystat.us/downloads), [Microsoft Store](https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb), and [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anystatus.AnyStatus).
+AnyStatus 2.8 has been released! The latest version includes new widgets, bug fixes and UI changes. Download is available from our [Website](https://www.anystat.us/downloads), [Microsoft Store](https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb), and [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anystatus.AnyStatus).
 
 ## What's New
 

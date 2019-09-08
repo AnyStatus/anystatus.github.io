@@ -6,6 +6,8 @@ title: AnyStatus Plugins
 AnyStatus is an extensible Windows application that rolls up metrics and events from various sources into one simple dashboard. Examples include builds and releases, health checks for different services and operating system metrics.
 Check out the [API Documentation](/docs/api) to learn more about AnyStatus extensions and plugins.
 
+{% comment %}
+
 ## Azure DevOps Plugins
 
 View and control the status of your builds, releases, deployment environments and work items on [Azure DevOps Services](https://azure.microsoft.com/en-us/services/devops/). The Azure DevOps extension pack is a separate installation that adds new widgets with additional features that are not available in the open-source widgets. These include, history, progress, estimated time remaining, custom work item queries, and more. The extension pack is free for the preview period.
@@ -22,7 +24,9 @@ For more information and inquiry please [contact us](mailto:info@anystat.us).
     <p class="mt-2"><small class="text-muted">* Usage is free for the preview period.</small></p>
 </p>
 
-## Open Source Plugins
+{% endcomment %}
+
+## Plugins
 
 These are the default pre-installed widgets that comes free with AnyStatus. The source code is open for modifications and available on [GitHub](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build). C# developers are invited to make changes and submit pull requests to help us maintain a free and open source set of tools for everyone to use.
 

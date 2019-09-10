@@ -10,7 +10,7 @@ To learn more about developing plugins for AnyStatus, please refer to the [API D
 
 ## Plugins
 
-These are the default pre-installed widgets that comes free with AnyStatus. The source code is open for modifications and available on [GitHub](https://github.com/AnyStatus/Plugins/tree/master/src/AnyStatus.Plugins/Widgets/DevOps/TFS/Build). C# developers are invited to make changes and submit pull requests to help us maintain a free and open source set of tools for everyone to use.
+These are the default widgets that comes with AnyStatus. The source code is open for modifications and available on [GitHub](https://github.com/AnyStatus/Plugins). C# developers are invited to make changes and submit pull requests to help us maintain a free and open source set of tools for everyone to use.
 
 ### Azure DevOps
 

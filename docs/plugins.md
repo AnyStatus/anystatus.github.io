@@ -16,7 +16,7 @@ These are the default pre-installed widgets that comes free with AnyStatus. The 
 
 - Build
 - Release
-    - Deployment Environment
+- Deployment Environment
 - Work Items
 - Pull Requests
 
@@ -82,6 +82,47 @@ These are the default pre-installed widgets that comes free with AnyStatus. The 
 - File Exists
 - Network Upload/Download Speed
 - Active TCP Connections
+
+### Kubernetes
+
+- Namespace Count
+- Node RAM Usage
+- Node CPU Usage
+- Pod Count
+- Pod RAM Usage
+- Pod CPU Usage
+
+### Elasticsearch
+
+- Store Size
+- Index Health
+- RAM Usage
+- Index Store Size
+- Index Count
+- Index Deleted Document Count
+- Cluster Document Count
+- Deleted Document Count
+- Cluster Health
+- File System Usage
+- CPU Usage
+- Index Document Count
+
+### Redis
+
+- Total Commands Processed
+- Keyspace Key Count
+- Used Memory
+- Total Connections Received
+- Client Count
+- Database Count
+- Database Size
+- Keyspace Expires Count
+- Rejected Connections
+- Keyspaces Misses
+- Blocked Clients
+- Used Resident Set Size
+- Operations Per Second
+- Evicted Keys
 
 ### Other
 

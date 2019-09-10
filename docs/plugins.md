@@ -18,6 +18,7 @@ These are the default pre-installed widgets that comes free with AnyStatus. The 
 - Release
 - Deployment Environment
 - Work Items
+- Work Items Query
 - Pull Requests
 
 ### Team Foundation Server

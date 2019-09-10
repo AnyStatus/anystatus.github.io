@@ -6,13 +6,9 @@ title: AnyStatus Plugins
 AnyStatus is lightweight desktop application for Windows that brings together metrics and events from various sources.
 Examples include CI/CD pipelines, health checks, operating system metrics, network, servers, databases and more.
 
-To learn more about developing plugins for AnyStatus, please refer to the [API Documentation](/docs/api).
-
 ## Plugins
 
-Official and community built plugins
-
-----------------------------------------------------
+Official and community built plugins. To learn more about developing plugins for AnyStatus, please refer to the [API Documentation](/docs/api).
 
 ### Azure DevOps
 

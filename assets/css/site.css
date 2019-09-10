@@ -30,6 +30,11 @@ body {
 }
 
 h2 {
-    font-size: 1.7rem;
+    font-size: 1.5em;
+    margin-bottom: 1rem;
+}
+
+h3 {
+    font-size: 1.25em;
     margin-bottom: 1rem;
 }

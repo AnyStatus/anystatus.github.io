@@ -8,7 +8,7 @@ Examples include CI/CD pipelines, health checks, operating system metrics, netwo
 
 ## Plugins
 
-Official and community built plugins. To learn more about developing plugins for AnyStatus, please refer to the [API Documentation](/docs/api).
+Official and community built plugins. To learn more about developing plugins for AnyStatus, please refer to the [API Documentation](/docs/api). Can't find the plugin you were looking for? Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues).
 
 ### Azure DevOps
 
@@ -127,11 +127,3 @@ Official and community built plugins. To learn more about developing plugins for
 
 - Coveralls Code Coverage
 - Current Weather
-
-## Can't find the plugin you were looking for?
-
-Submit a feature request on [GitHub](https://github.com/AnyStatus/Support/issues) or the [Support Portal](https://anystatus.helprace.com/s1-general/ideas).
-
-## Need custom tailor-made plugins?
-
-You can develop and use your own plugins or you can [contact us](mailto:info@anystat.us) to build it for you.

@@ -8,15 +8,19 @@ author: Alon Amsalem
 
 Still using email notifications from your TFS server? Download AnyStatus and start getting build notifications directly to your desktop.
 
-## Overview
+## What is AnyStatus?
 
-AnyStatus is a lightweight desktop notifications app designed to show statuses of various CI/CD tools such as Team Foundation Server, Azure DevOps, Jenkins, TeamCity and AppVeyor, all in a single dashboard on your desktop. These include, builds, releases, jobs, deployment environments, work items and more. In addition to CI/CD pipelines, AnyStatus provides basic monitoring capabilities to monitor the health state and availability of deployment environments. AnyStatus is available as desktop application for Windows and Visual Studio extension. [Learn more](/)
+AnyStatus is a lightweight desktop application for Windows that brings together metrics and events from various sources into one simple dashboard. Examples include, Team Foundation Server, Azure DevOps, Jenkins, TeamCity, AppVeyor, Health Checks, Databases, Operating System Metrics and [more](/docs/plugins). A system tray icon is used to show the overall status. It's also available as Visual Studio extension. [Learn more](/)
 
-## Get TFS build status notifications
+## TFS Build Status Notifications
+
+AnyStatus provides and easy way to visualize the status and progress of TFS builds on one or more TFS servers.
+You can queue new builds straight from the dashboard. When a build status is changed, a desktop notification is displayed to alert the new status. You can also customize the status notifications or setup custom actions using AnyStatus triggers.
+
+## Getting Started
 
 To get build status notifications from TFS, download and install AnyStatus from our [Downloads](/downloads) page.
-Launch AnyStatus from the Windows Start Menu and use the <i class="fas fa-plus"></i> button to add a new widget to the dashboard.
-Alternatively, you can use the *Context Menu > Add Widget* option.
+Launch AnyStatus from the Windows Start Menu and use the <i class="fas fa-plus"></i> button to add a new widget to the dashboard. Alternatively, you can use the *Context Menu > Add Widget* option.
 Next, in the Add Widget Wizard select the **DevOps** category and then **TFS Build** widget.
 
 1. Enter a name for the widget.

@@ -2,7 +2,7 @@
 layout: post
 title:  TFS Build Status Notifications
 redirect_from: "/2017/05/05/tfs-and-vsts-notifications.html"
-date:   2019-04-20 11:00:00
+date:   2019-09-11 11:00:00
 author: Alon Amsalem
 ---
 
@@ -37,10 +37,10 @@ AnyStatus will start monitoring the newly created widget immediately.
 Any errors or warnings that may occur will be logged in the Activity Log.
 When the status of your TFS build change, a desktop notification will popup showing the new build status.
 
-## Queue a new build
+## Queue new build
 
 Once the widget has been created, you can queue new builds using the *Context Menu > All Tasks > Start* option.
 
-## Reconcile your workspace after successful builds
+## Reconcile workspace after successful builds
 
 You can automatically reconcile your workspace after a successful build using [Triggers](/docs/triggers), a feature that enables you to run custom commands, such as [tf.exe reconcile](), when statuses change.

@@ -29,7 +29,7 @@ Next, in the Add Widget Wizard select the **DevOps** category and then **TFS Bui
 4. Click **Test** to run the widget, any error messages are logged in the Activity Log.
 5. Click **Add** to save the new widget in the dashboard.
 
-![TFS Build Notifications](/assets/posts/2017-05-05-tfs-and-vsts-notifications/add-tfs-build-monitor.png)
+<img src="/assets/posts/2017-05-05-tfs-and-vsts-notifications/add-tfs-build-monitor.png" class="img-fluid" alt="TFS Build Status Notifications"/>
 
 ![AnyStatus 2.4.36 & Azure DevOps Plugins](/assets/images/screenshots/anystatus-2.4.36-azure-devops.png)<br/><small>AnyStatus Desktop 2.4.36 with Azure DevOps Plugins</small>
 

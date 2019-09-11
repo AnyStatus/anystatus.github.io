@@ -2,7 +2,7 @@
 layout: post
 title:  TFS Build Status Notifications
 redirect_from: "/2017/05/05/tfs-and-vsts-notifications.html"
-date:   2019-09-11 11:00:00
+date:   2019-04-20 11:00:00
 author: Alon Amsalem
 ---
 

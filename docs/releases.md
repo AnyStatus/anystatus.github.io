@@ -15,7 +15,7 @@ These are the changes to each version that has been released on our [Website](/d
 Features
 
 - [#109](https://github.com/AnyStatus/Support/issues/109) Start AnyStatus minimized when Windows starts
-- [#35] (https://github.com/AnyStatus/Support/issues/35) NuGet Package Widget
+- [#35](https://github.com/AnyStatus/Support/issues/35) NuGet Package Widget
 
 ### Release 2.8
 ------------------

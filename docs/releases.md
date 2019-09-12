@@ -8,6 +8,15 @@ Examples include, CI/CD pipelines, DevOps Tools, Health Checks, Network, Databas
 
 These are the changes to each version that has been released on our [Website](/downloads), [Microsoft Store](https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb), and the official [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AlonAmsalem.AnyStatus).
 
+### Release 2.9
+------------------
+<p class="text-muted">Coming Soon</p>
+
+Features
+
+- [#109](https://github.com/AnyStatus/Support/issues/109) Start AnyStatus minimized when Windows starts
+- [#35] (https://github.com/AnyStatus/Support/issues/35) NuGet Package Widget
+
 ### Release 2.8
 ------------------
 <p class="text-muted">2019-09-06</p>

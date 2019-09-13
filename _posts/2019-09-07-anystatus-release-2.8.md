@@ -61,9 +61,9 @@ Also, the widgets categories have changed. We've replaced the DevOps category wi
 
 ## Download
 
-- Downloads: https://www.anystat.us/downloads
-- Microsoft Store: https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb
-- Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=anystatus.AnyStatus
+- [Downloads](https://www.anystat.us/downloads)
+- [Microsoft Store](https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb)
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anystatus.AnyStatus)
 
 ## Summary
 

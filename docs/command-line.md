@@ -14,3 +14,4 @@ Here are optional arguments you can use when starting AnyStatus.
 |`--restore`|Restore default settings including widgets, color theme and general settings.|
 |`--version`|Print AnyStatus version (for example: 2.6.10).|
 |`--minimized`|Start minimized.|
+{: .table }

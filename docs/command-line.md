@@ -9,7 +9,8 @@ AnyStatus has a command line interface (CLI) that lets you control how you launc
 
 Here are optional arguments you can use when starting AnyStatus.
 
-|Argument|&nbsp;&nbsp;Description|
+|Argument|Description|
 |---|---|
-|`--restore`|&nbsp;&nbsp;Restore default settings including widgets, color theme and general settings.|
-|`--version`|&nbsp;&nbsp;Print AnyStatus version (for example: 2.6.10).|
+|`--restore`|Restore default settings including widgets, color theme and general settings.|
+|`--version`|Print AnyStatus version (for example: 2.6.10).|
+|`--minimized`|Start minimized.|

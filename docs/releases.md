@@ -10,7 +10,7 @@ These are the changes to each version that has been released on our [Website](/d
 
 ### Release 2.9
 ------------------
-<p class="text-muted">Coming Soon</p>
+<p class="text-muted">2019-10-21</p>
 
 Features
 

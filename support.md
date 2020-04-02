@@ -32,7 +32,13 @@ View the [changelog](/releases) for release notes and roadmap.
 
 ## Email
 
-Whether it’s a sales question, a bug or a feature request you can always contact us by email at [info@anystat.us](mailto:info@anystat.us)
+Whether it’s a legal question, a bug or a feature request, you can always contact us by email at [info@anystat.us](mailto:info@anystat.us)
+
+## Mailing List
+
+Join our mailing list to receive e-mail notifications about new releases and software updates.
+
+{% include subscribe-form-inline.html %}
 
 ## Release Pipeline
 
@@ -44,16 +50,10 @@ AnyStatus Plugins [![Build status](https://ci.appveyor.com/api/projects/status/d
 
 AnyStatus Applications [![Build status](https://production.visualstudio.com/AnyStatus/_apis/build/status/Master)]()
 
-**Deployments**
+**Releases**
 
 Automated UI Tests [![Testing](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/14)](#)
 
 Pre Release (Unstable) [![Staging](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/23)](#)
 
 Release (Stable) [![Production](https://production.vsrm.visualstudio.com/_apis/public/Release/badge/fb795508-e665-4a1a-a4d6-3d1ebf6bb42b/11/15)](#)
-
-## Mailing List
-
-Join our mailing list to receive e-mail notifications about new releases and software updates.
-
-{% include subscribe-form-inline.html %}

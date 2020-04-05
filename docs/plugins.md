@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: AnyStatus Plugins
+title: Plugins
 ---
 
 AnyStatus is lightweight desktop application for Windows that brings together metrics and events from various sources.

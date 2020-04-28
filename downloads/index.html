@@ -5,74 +5,43 @@ title: Downloads
 <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <h2>AnyStatus Desktop</h2>
-            <p>AnyStatus is a lightweight desktop application designed to bring you metrics and events from various
-                sources.</p>
-            <p>To install the application, click the download button, then start the downloaded file and follow
-                on-screen instructions.</p>
+            <h4>Latest Release</h4>
+            <p>AnyStatus brings together metrics and events from various sources into one place. AnyStatus is a lightweight application designed to host various widgets and plugins. These include CI/CD builds, releases, deployment environments, work items, pull requests, docker containers, health checks, system information, and more.</p>
             <p><img class="img-fluid" src="/assets/images/screenshots/AnyStatus-2.6.13.png" /></p>
-            <p class="lead">System Requirements</p>
+            <p>To install the application, click the download button, then start the downloaded file and follow on-screen instructions.</p>
+            <p>System Requirements</p>
             <p>
                 <ul>
                     <li>Windows 7 or above.</li>
                     <li>.NET Framework 4.6 or above.</li>
                 </ul>
             </p>
-            <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
-            <p>Check out what's new in the <a href="/docs/releases">Release Notes</a>.</p>
-        </div>
-        <div class="col-md-6">
-            <h4>Stable</h4>
-            <p>The stable version contains the latest official release of AnyStatus. The latest version is also available on <a href="https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb">Microsoft Store</a>.</p>
             <p>
                 <a href="thank-you" class="btn btn-success" role="button"
                     onclick="ga('send', 'event', 'Download', 'Desktop');">
                     Download AnyStatus <span id="ver"></span>
                 </a>
             </p>
-            <h4>Unstable</h4>
+            <p>By downloading you agree to the <a href="/eula">end-user license agreement</a></p>
+            <p>Check out what's new in the <a href="/docs/releases">release notes</a></p>
+        </div>
+        <div class="col-md-6">
+            <h4>Early Access Preview</h4>
             <p>This is where all the development happens. Use only if you need to test the
                 latest features or performance improvements. This is going to be the next AnyStatus Desktop release.</p>
+            <a href='//www.microsoft.com/store/apps/9p044vpk62sb?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
+            {% comment %}
             <p>
-                <a href="thank-you?v=latest" class="btn btn-secondary"
-                    onclick="ga('send', 'event', 'Download', 'Desktop');">Download AnyStatus <span
-                        id="latest-ver"></span></a>
+                <a href="thank-you?v=latest" class="btn btn-secondary" onclick="ga('send', 'event', 'Download', 'Desktop');">Download AnyStatus <span id="latest-ver"></span></a>
             </p>
-            <p>&nbsp;</p>
-            <p><a href="https://www.softpedia.com/get/System/System-Info/AnyStatus-Desktop.shtml#status"><img src="https://cdnssl.softpedia.com/_img/sp100free.png?1"/></a></p>
-        </div>
-    </div>
-    <hr />
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="col-md-12">
-            <h2>AnyStatus For Visual Studio</h2>
-            <p>AnyStatus extension for Visual Studio brings together metrics and events from various source into Visual
-                Studio IDE.</p>
-            <p>By downloading you agree to the <a href="/eula">end-user license agreement</a>.</p>
-            <p class="lead">System Requirements</p>
-            <p>
-                <ul>
-                    <li>Windows 7 or above.</li>
-                    <li>.NET Framework 4.6 or above.</li>
-                    <li>Visual Studio 2015/2017/2019 (Community, Pro or Enterprise edition).</li>
-                </ul>
-            </p>
-            <p><a class="btn btn-primary" href="https://marketplace.visualstudio.com/items?itemName=AnyStatus.AnyStatus"
-                    role="button" onclick="ga('send', 'event', 'Download', 'Visual Studio');">Download From Visual
-                    Studio Marketplace</a></p>
-            <p>Check out what's new in the <a href="/docs/releases">Release Notes</a>.</p>
+            {% endcomment %}
         </div>
     </div>
 </div>
 
 <script>
     window.onload = function () {
-        $.getScript("https://download.anystat.us/desktop/version.js",
-            function () { document.getElementById("ver").innerHTML = version; });
-        $.getScript("https://download.anystat.us/desktop/latest-version.js",
-            function () { document.getElementById("latest-ver").innerHTML = version; });
+        $.getScript("https://download.anystat.us/desktop/version.js", function () { document.getElementById("ver").innerHTML = version; });
+        $.getScript("https://download.anystat.us/desktop/latest-version.js", function () { document.getElementById("latest-ver").innerHTML = version; });
     }
 </script>

@@ -18,7 +18,7 @@ Endpoints is a new feature that helps users maintain their Accounts and Connecti
 
 The user interface has been revamped to provide an easy-to-use interface that boosts user experience. It includes almost all functions available in previous versions plus a number of new features and enhancements. Its highly improved performance allows tens and hundreds of Widgets to connect simultaneously. Intuitive dashboards and windows with in-line help guide users in their daily work.
 
-##### Newly Improved API SDK
+##### Improved API SDK
 
 A new and improved API SDK has been introduced in this release. The new API SDK provides a better fine-grained control over the features and behaviors of the widgets.
 

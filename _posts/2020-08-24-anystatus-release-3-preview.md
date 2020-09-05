@@ -1,12 +1,12 @@
 ---
 layout: post
-title: AnyStatus 3 Preview
+title: AnyStatus Release 3 Preview
 author: Alon Amsalem
 date:   2020-05-09 19:00
 tags: [New Releases]
 ---
 
-I'm pleased to announce the availability of AnyStatus 3 Preview 1 for download on the [Microsoft Store](https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb). The new version includes various new features, bugs fixes, and improvements. For a detailed list of all changes, please refer to the [Release Notes](/docs/release-notes).
+I'm pleased to announce the availability of AnyStatus 3 Preview for download on the [Microsoft Store](https://www.microsoft.com/en-us/p/anystatus/9p044vpk62sb). The new version includes various new features, bugs fixes, and improvements. For a detailed list of all changes, please refer to the [Release Notes](/docs/release-notes).
 
 ### Release Highlights
 

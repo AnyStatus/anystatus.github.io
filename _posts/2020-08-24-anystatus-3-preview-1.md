@@ -16,15 +16,15 @@ Endpoints is a new feature that helps users maintain their accounts and connecti
 
 ##### New User Interface
 
-The user interface has been revamped to provide an easy-to-use interface that boosts user experience. It includes almost all functions available in previous versions plus a number of new features and enhancements. Its highly improved performance allows tens and hundreds of Widgets to connect simultaneously. Intuitive dashboards and windows with in-line help guide users in their daily work.
+The user interface has been revamped to provide an easy-to-use interface that boosts user experience. It includes almost all functions available in previous versions plus a number of new features and enhancements. Its highly improved performance allows tens and hundreds of widgets to connect simultaneously. Intuitive dashboard and windows with in-line help guide users in their daily work.
 
 ##### Improved API SDK
 
-A newly improved API SDK has been introduced in this release. The new API SDK provides a better fine-grained control over the features and behaviors of the widgets.
+A newly improved API SDK has been introduced in this release. The new API SDK provides a better fine-grained control over the features and behaviors of widgets.
 
 ##### Better Context Menu
 
-The new widgets' context-menu experience has been significantly improved and replaced by a new run-time "AI" that renders *only* the features and options that are explicitly supported by the selected widget on the dashboard. As a result, for example, the user will not be able to remove dynamically added child widgets, such as Jenkins Jobs under a Jenkins View.
+The new widgets context-menu experience has been significantly improved and replaced by a new run-time "AI" that renders only the features and options that are explicitly supported by the selected widget on the dashboard. As a result, for example, the user will not be able to remove dynamically added child widgets, such as Jenkins Jobs under a Jenkins View.
 
 ##### Separated Configuration Files
 

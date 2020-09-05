@@ -12,7 +12,7 @@ I'm pleased to announce the availability of AnyStatus 3 Preview 1 for download o
 
 ##### Endpoints
 
-Endpoints is a new feature that helps users maintain their accounts and connections to their servers more easily. Endpoints are shared across multiple widgets and configurations, to make it easier for users to maintain their dashboard configuration. Examples include, Jenkins, Azure DevOps, Docker, NuGet, SQL Server and more.
+Endpoints is a new feature that helps users easily maintain their accounts and connections to remote servers and cloud services, such as Jenkins, Azure DevOps (coming soon), Docker, and NuGet. Endpoints can be shared by multiple widgets and configurations, to enable users change credentials or host address in one place, for all widgets in the dashboard.
 
 ##### New User Interface
 
@@ -20,12 +20,12 @@ The user interface has been revamped to provide an easy-to-use interface that bo
 
 ##### Improved API SDK
 
-A newly improved API SDK has been introduced in this release. The new API SDK provides a better fine-grained control over the features and behaviors of widgets.
+A newly improved API SDK has been introduced in this release. The new API provides better fine-grained control over the features and behaviors of the widgets.
 
 ##### Better Context Menu
 
-The new widgets context-menu experience has been significantly improved and replaced by a new run-time "AI" that renders only the features and options that are explicitly supported by the selected widget on the dashboard. As a result, for example, the user will not be able to remove dynamically added child widgets, such as Jenkins Jobs under a Jenkins View.
+The new widgets context-menu experience has been significantly improved by a new run-time "AI" that renders only the features and options that are explicitly supported by the selected widget on the dashboard. As a result, for example, the user will not be able to remove dynamically added child widgets, such as Jenkins Jobs under Jenkins View.
 
 ##### Separated Configuration Files
 
-In previous releases, the user's information is all encrypted into a single database file. This causes issues for organizations who distribute AnyStatus pre-configured installation for multiple end-users. In the new release, the configuration system is more flexible by using separate JSON configuration files for the application, user preferences, session and dashboard settings. This improvement will hopefully enable more advanced distribution scenarios.
+In previous releases, the user's information is all encrypted into a single database file. This causes issues for organizations who distribute AnyStatus pre-configured installation for multiple end-users or teams that automatically generated and distribute the team's dashboard configuration. In the new release, the configuration system is now more flexible by using separate JSON configuration files for the application, user preferences, session, endpoints, and dashboard settings. This improvement will hopefully enable more advanced distribution scenarios.

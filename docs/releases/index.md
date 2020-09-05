@@ -12,20 +12,21 @@ These are the changes to each version that has been released on our [Website](/d
 ------------------
 <p class="text-muted">2020-04-12</p>
 
-In release 3.0, I have ported the entire application to .NET Core 3.1
-As part of this change, the API and core libraries are now using .NET Standard 2.0
-I have improved many of the core functionalities such as the application pipeline, monitoring engine and configuration system.
-The configuration files are now based on JSON and separated to Widgets, Session, User and Application settings.
-A preview version is now available on Microsoft Store.
-
 What's New
 
 - Application ported to .NET Core 3.1
-- API ported to .NET Standard 2.0
+- API SDK ported to .NET Standard 2.1
 - New user interface
 - Improved monitoring engine
 - Improved memory management
-- New configuration system and file format
+- New configuration system
+- Shared Endpoints
+
+New Widgets
+
+- Docker Containers
+- Docker Images
+- Network Devices
 
 ### Previous Releases
 ---------------------

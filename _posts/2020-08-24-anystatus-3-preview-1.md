@@ -24,7 +24,7 @@ A newly improved API SDK has been introduced in this release. The new API provid
 
 ##### Better Context Menu
 
-The new widgets context-menu experience has been significantly improved by a new run-time "AI" that renders only the features and options that are explicitly supported by the selected widget on the dashboard. As a result, for example, the user will not be able to remove dynamically added child widgets, such as Jenkins Jobs under Jenkins View.
+The new widgets context-menu experience has been significantly improved by a new run-time "AI" that renders only the features and options that are explicitly supported by the selected widget on the dashboard. As a result, the context menu will have only relevant options. For example, users will not be able to remove dynamically added child-widgets, such as Jenkins Jobs under Jenkins View.
 
 ##### Separated Configuration Files
 

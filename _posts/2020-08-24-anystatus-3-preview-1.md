@@ -12,7 +12,7 @@ I'm pleased to announce the availability of AnyStatus 3 Preview 1 for download o
 
 ##### Endpoints
 
-Endpoints is a new feature that helps users easily maintain their accounts and connections to remote servers and cloud services, such as Jenkins, Azure DevOps (coming soon), Docker, and NuGet. Endpoints can be shared by multiple widgets and configurations, and enable users change credentials or host addresses in one place, for all widgets in the dashboard. Endpoints also enable adding new widgets more easily by configuring the endpoint once, and reusing it when adding similar widgets.
+Endpoints is a new feature that helps users easily maintain their accounts and connections to remote servers and cloud services, such as Jenkins, Azure DevOps (coming soon), Docker, and NuGet. Endpoints can be shared across multiple widgets and configurations. Users can now change their credentials or host addresses in one place, to update all widgets in the dashboard. Endpoints also enable adding new widgets more easily by configuring the endpoint once, and reusing it when adding similar widgets.
 
 ##### New User Interface
 

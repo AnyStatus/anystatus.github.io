@@ -29,3 +29,9 @@ The new widgets context-menu experience has been significantly improved by a new
 ##### Separated Configuration Files
 
 In previous releases, the user's information is all encrypted into a single database file. This causes issues for organizations who distribute AnyStatus pre-configured installation for multiple end-users or teams that automatically generated and distribute the team's dashboard configuration. In the new release, the configuration system is now more flexible by using separate JSON configuration files for the application, user preferences, session, endpoints, and dashboard settings. This improvement will hopefully enable more advanced distribution scenarios.
+
+### Download
+
+Download is available for Windows 10 users from the official Microsoft Store.
+
+<a href="//www.microsoft.com/store/apps/9p044vpk62sb?cid=storebadge&ocid=badge"><img src="https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png" alt="Download from Microsoft Store" style="height:80px"/></a>

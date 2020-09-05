@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AnyStatus 3 Preview 1
+title: AnyStatus 3 Preview
 author: Alon Amsalem
 date:   2020-05-09 19:00
 tags: [New Releases]

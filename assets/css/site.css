@@ -42,3 +42,17 @@ body {
     font-size: 1.5rem;
     margin-bottom: 1rem;
 }
+
+.navbar-dark .navbar-nav .nav-link {
+    margin-top: 1px;
+    color: rgba(255,255,255,1);
+    border-bottom: 1px solid transparent;
+}
+
+.navbar-dark .nav-item.active .nav-link,
+.navbar-dark .nav-item:focus .nav-link,
+.navbar-dark .nav-item:hover .nav-link {
+    margin-top: 1px;
+    color: white;
+    border-bottom: 1px solid white;
+}

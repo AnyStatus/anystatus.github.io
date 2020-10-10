@@ -2,6 +2,10 @@ body {
     overflow-y: scroll;
 }
 
+.bg-dark{
+background-color: #0d47a1 !important;
+}
+
 .btn.btn-light {
     border: 1px solid gray;
 }

@@ -1,0 +1,203 @@
+---
+layout: default
+title: DevOps CI/CD Dashboard
+description: AnyStatus brings together metrics and events from various sources into one simple dashboard
+redirect_from: "/features"
+---
+
+<div class="jumbotron" style="background: 0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h1 class="display-1 mb-5">AnyStatus</h1>
+                <h1 class="display-4 mb-5">A remote control for your CI/CD Pipelines</h1>
+                <p class="lead mb-5" style="font-size: 1.6rem">AnyStatus is a powerful tool that brings together Metrics, Events, and Critical Information from various sources to your desktop. Designed for extensibility, AnyStatus enables you to monitor and remote control your entire stack. Including CI/CD Pipelines, Cloud and On-Premise Resources, Deployment Environments, Networks, Containers, Pull Requests, Work Items, and more!</p>
+                <p class="mb-5">
+                    <a href="#intro" class="btn btn-outline-primary mr-2" role="button">LEARN MORE</a>
+                    <a href="/docs/getting-started" class="btn btn-outline-primary mr-2" role="button">GETTING STARTED</a>
+                    <a href="/downloads" class="btn btn-primary mr-2" role="button">DOWNLOAD NOW <i class="fas fa-download"></i></a>
+                </p>
+                <p>
+                    <img class="img-fluid mr-2" src="/assets/images/screenshots/anystatus-3.0.293-preview.png" alt="AnyStatus 3.0 Preview"/>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <div class="container pt-5 pb-5">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <p><img alt="ThoughtWorks" src="/assets/images/logos/thoughtworks.png" title="ThoughtWorks" width="200" height="30"></p>
+                <h2>Technology Radar</h2>
+                <p class="lead"><i>"Think of it as CCTray on steroids"</i></p>
+                <p><a href="https://www.thoughtworks.com/radar/tools/anystatus" target="new" class="btn btn-primary mt-3" role="button">LEARN MORE</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="intro" class="jumbotron" style="background: 0">
+    <div class="container pt-5">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h1 class="mb-5">What is AnyStatus?</h1>
+                <p class="lead" style="font-size: 1.6rem">AnyStatus is a lightweight desktop application that brings together metrics and events from various sources into one simple dashboard, designed to host various widgets and plugins.
+                    These include CI/CD build pipelines, releases, deployment environments, work items, pull requests, servers, docker containers, health checks, local system information, and more.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container pb-5">
+    <hr />
+</div>
+
+<div class="container pt-5">
+    <div class="row">
+        <div class="col-md-4 text-center">
+            <h3><i class="fas fa-box-open"></i></h3>
+            <h3>Builds, Releases, Work Items</h3>
+            <p class="lead">View the status of your build pipelines, releases, pull requests and work items on TFS, Azure DevOps, Jenkins, TeamCity, AppVeyor</p>
+        </div>
+        <div class="container pt-5 pb-5 d-block d-md-none">
+            <hr />
+        </div>
+        <div class="col-md-4 text-center">
+            <h3><i class="fas fa-briefcase-medical"></i></h3>
+            <h3>Health Checks</h3>
+            <p class="lead">Monitor remote servers, web services, application services, network interfaces, database connections and more</p>
+        </div>
+        <div class="container pt-5 pb-5 d-block d-md-none">
+            <hr />
+        </div>
+        <div class="col-md-4 text-center">
+            <h3><i class="fas fa-tachometer-alt"></i></h3>
+            <h3>Metrics</h3>
+            <p class="lead">Current view of CPU usage, Performance Counters, SQL Queries and other metrics on remote and local computer</p>
+        </div>
+    </div>
+</div>
+
+<div class="container pt-5 pb-5">
+    <hr />
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 text-center">
+            <h3><i class="fas fa-folder-open"></i></h3>
+            <h3>Folders</h3>
+            <p class="lead">Organize widgets in an unlimited folder structure, events and statuses bubble up and the
+                overall status can be viewed even when the tree is collapsed</p>
+        </div>
+        <div class="container pt-5 pb-5 d-block d-md-none">
+            <hr />
+        </div>
+        <div class="col-md-6 text-center">
+            <h3><i class="fas fa-eye"></i></h3>
+            <h3>Statuses</h3>
+            <p class="lead">View the status of your development environment in a simple minimalist dashboard with customizable status indicators</p>
+        </div>
+    </div>
+</div>
+
+<div class="container pt-5 pb-5">
+    <hr />
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 text-center">
+            <h3><i class="fas fa-gamepad"></i></h3>
+            <h3>Remote Control</h3>
+            <p class="lead">Start or stop deployments and build pipelines, control remote services, open in browser and more</p>
+        </div>
+        <div class="container pt-5 pb-5 d-block d-md-none">
+            <hr />
+        </div>
+        <div class="col-md-6 text-center">
+            <h3><i class="fas fa-envelope"></i></h3>
+            <h3>Notifications</h3>
+            <p class="lead">Get notified when builds complete or when services are down</p>
+        </div>
+    </div>
+</div>
+
+<div class="container pt-5 pb-5">
+    <hr />
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 text-center">
+            <h3><i class="fas fa-bolt"></i></h3>
+            <h3>Triggers</h3>
+            <p class="lead">Trigger a command-line action or custom notifications on all or specific status changes</p>
+        </div>
+        <div class="container pt-5 pb-5 d-block d-md-none">
+            <hr />
+        </div>
+        <div class="col-md-6 text-center">
+            <h3><i class="fas fa-broadcast-tower"></i></h3>
+            <h3>Standalone</h3>
+            <p class="lead">No server is required</p>
+        </div>
+    </div>
+</div>
+
+<div class="container pt-5 pb-5">
+    <hr />
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 text-center">
+            <h3><i class="fas fa-bolt"></i></h3>
+            <h3>Lightweight</h3>
+            <p class="lead">AnyStatus runs in the background and does not have a significant impact on the performance or startup of Windows</p>
+        </div>
+        <div class="container pt-5 pb-5 d-block d-md-none">
+            <hr />
+        </div>
+        <div class="col-md-6 text-center">
+            <h3><i class="fas fa-puzzle-piece"></i></h3>
+            <h3>Extensible</h3>
+            <p class="lead">Develop your own widgets using C#, VB.NET, PowerShell or Batch scripts</p>
+        </div>
+    </div>
+</div>
+
+<div class="container pt-5"></div>
+
+<div class="jumbotron">
+    <div class="container pt-5 pb-5">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2><i class="fas fa-rocket"></i></h2>
+                <h2>Start using AnyStatus</h2>
+                <p class="lead">No registration is required</p>
+                <p>
+                    <a href="/docs/getting-started" class="btn btn-outline-primary mt-3" role="button">GETTING STARTED</a>
+                    <a href="/downloads" class="btn btn-primary ml-2 mt-3" role="button">DOWNLOAD NOW <i class="fas fa-download"></i></a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container pt-5 pb-5"></div>
+
+<div class="container pt-5" id="subscribe">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3><i class="far fa-newspaper"></i></h3>
+            <h2>Join our mailing list</h2>
+            <p class="lead">Get emails about AnyStatus news and software updates</p>
+            {% include subscribe-form-inline.html center=true %}
+        </div>
+    </div>
+</div>
+
+<div class="container pt-5 pb-5"></div>
